@@ -2,8 +2,6 @@
 
 ## 선형 회귀 분석으로 예측하는 영화 매출 🎞
 
----
-
 1️⃣ 본 프로젝트는 회귀분석을 통해서 영화데이터의 매출액을 예측해보는 것이 주 목적이며, 그 안에서 어떤영화가 투자대비 인기가 있는지 등의 색다른 인 사이트를 찾아보는 것이 최종목적입니다! 👯‍♀️
 
 2️⃣ 해당 프로젝트는 메인 데이터셋에 더하여 영화 정보를 활용한 인사이트를 찾기위해서 데이터의 전처리와 모델링을 통한 검증이 목표입니다. 
@@ -11,8 +9,6 @@
 3️⃣그 중에서도 데이터를 들여다보는 것에 중점을 둘 것이며, 회귀모델의 특징과 성능을 바탕으로 최적의 모델링을 구축해보았습니다. 🤜
 
 # 💡 Project Preparation
-
----
 
 ### 🎬 Requirements
 
@@ -45,9 +41,7 @@ from sklearn.model_selection import cross_val_score, KFold
 - GoodBooks Data([link in bio](https://www.kaggle.com/zygmunt/goodbooks-10k?select=books.csv))
 - Academy dataset([link in bio](https://www.kaggle.com/unanimad/the-oscar-award))
 
-Project Start
-
----
+# 💡 Project Start !
 
 ### 1. 데이터 수집 및 각 데이터 별 EDA 진행
 
@@ -200,8 +194,6 @@ for model in [LinearRegression, Ridge, Lasso, RandomForestRegressor]:
 
 # 💡 Project Review
 
----
-
 ### 🎞 Regression Review
 
 - 모든 피쳐를 스케일링과 아웃라이어의 제거 없이 모델링하였을 때의 R2-squared 값이 높았으나, 모델의 [Cond.No](http://cond.No) 값이 정상화되지 않았으며, random_state의 파라미터 설정 값에 따라서 RMSE와 R2-score의 값이 Train, Test에 따라 편차가 심해졌습니다.
@@ -217,8 +209,6 @@ for model in [LinearRegression, Ridge, Lasso, RandomForestRegressor]:
 - 회귀분석에 더하여 영화 장르의 자연어 처리나 classification 분석을 통해 영화라는 분야에서 새로운 Insite를 발견하면 좋을 것 같습니다.🤜
 
 # 💡 Built with !
-
----
 
 - 정솔
     - EDA, 데이터 전처리, 원데이터 분석, Visualization, 1차 Regression
