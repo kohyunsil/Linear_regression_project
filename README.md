@@ -206,7 +206,7 @@ for model in [LinearRegression, Ridge, Lasso, RandomForestRegressor]:
 
 - 데이터에 대한 전처리의 필요성과 도메인 지식을 얻기위해 여러 논문을 탐색해야 할 필요성을 느꼈습니다.🧐
 - 영화 매출에 대한 분석을 위해서 현재 다양한 플랫폼에서 얻어지는 수익에 대해서 데이터를 가져오고, 이를 처리한다면 좀 더 신뢰도 높은 회귀분석이 가능할것 같습니다!
-- 회귀분석에 더하여 영화 장르의 자연어 처리나 classification 분석을 통해 영화라는 분야에서 새로운 Insite를 발견하면 좋을 것 같습니다.🙌🏻
+- 회귀분석에 더하여 영화 장르의 자연어 처리나 classification 분석을 통해 영화라는 분야에서 새로운 Insite를 발견하면 좋을 것 같습니다.
 
 # 💡 Built with !
 
