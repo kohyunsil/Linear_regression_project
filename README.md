@@ -57,11 +57,19 @@ from sklearn.model_selection import cross_val_score, KFold
 
 - 결측치 처리 및 데이터 병합
 
+    통화가치의 변화 및 물가상승률을 고려하여 전체 데이터의 기준을 2010년에서 2019년 10년사이의 데이터로 필터링 하였습니다.
+
 ![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%201.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%201.png)
+
+- 💰 예산과 수입 부분 수정
+
+    전세계 총수입의 통화가 달러($)의 기준으로 되어있어, 특정 국가의 통화단위로 되어있는 소량의 데이터는 직접 수정하였습니다.
+
+    ![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%202.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%202.png)
 
 - 범주형 데이터 one_hot encoder
 
-![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%202.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%202.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%203.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%203.png)
 
 ### 3. Regression
 
@@ -69,7 +77,7 @@ from sklearn.model_selection import cross_val_score, KFold
 
 - train_test_split
 
-![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%203.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%203.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%204.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%204.png)
 
 ```python
 def display_scores(scores):
@@ -98,13 +106,13 @@ for model in [LinearRegression, Ridge, Lasso, RandomForestRegressor]:
     models = get_model(model)
 ```
 
-![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%204.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%204.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%205.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%205.png)
 
 RMSE 값이 크고, Cond. No. 또한 높은 상태입니다.
 
 🎞 **VIF Factor(다중공선성) 확인 & Feature importances**
 
-![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%205.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%205.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%206.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%206.png)
 
 ```python
 model = RandomForestRegressor()
@@ -123,7 +131,7 @@ plt.show()
 
 - 피쳐들의 분포 확인
 
-![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%206.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%206.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%207.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%207.png)
 
 🎞  **Feature selection & Outlier remove**
 
@@ -146,11 +154,11 @@ plt.title("outlier")
 plt.show()
 ```
 
-![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%207.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%207.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%208.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%208.png)
 
 🎞  **Final Model**
 
-![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%208.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%208.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%209.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%209.png)
 
 - 최종적인 모델에서 R-squared의 값의 변동은 크지 않지만, RMSE 값이 줄어들었고 Test 값의 R2 score 값이 어느정도 증가하였습니다. 추가적으로 Cond.No의 크기를 크게 줄이면서 R2 score값과 RMSE값을 유지시킴으로서 모델의 성능을 높였습니다.
 
@@ -188,7 +196,7 @@ for model in [LinearRegression, Ridge, Lasso, RandomForestRegressor]:
     models = get_model(model)
 ```
 
-![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%209.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%209.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%2010.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%2010.png)
 
 - 교차검증의 결과 또한 모든 모델의 교차검증에서 표준편차가 0.02대로 나타남 -> 전체적인 데이터에서 일반화된 예측성능을 보인다고 할 수 있습니다.
 
@@ -204,7 +212,7 @@ for model in [LinearRegression, Ridge, Lasso, RandomForestRegressor]:
 
 ### 🎞 Review
 
-- 데이터에 대한 전처리의 필요성과 도메인 지식을 얻기위해 여러 논문을 탐색해야 할 필요성을 느꼈습니다.🧐
+- 데이터에 대한 전처리의 필요성과 도메인 지식을 얻기위해 여러 논문을 탐색해야 할 필요성을 느꼈습니다.
 - 영화 매출에 대한 분석을 위해서 현재 다양한 플랫폼에서 얻어지는 수익에 대해서 데이터를 가져오고, 이를 처리한다면 좀 더 신뢰도 높은 회귀분석이 가능할것 같습니다!
 - 회귀분석에 더하여 영화 장르의 자연어 처리나 classification 분석을 통해 영화라는 분야에서 새로운 Insite를 발견하면 좋을 것 같습니다.
 
