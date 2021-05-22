@@ -1,0 +1,1994 @@
+,year_film,year_ceremony,ceremony,name,film,winner,category2
+1,1927,1928,1,Emil Jannings,The Last Command,True,ACTOR
+3,1927,1928,1,Janet Gaynor,7th Heaven,True,ACTRESS
+6,1927,1928,1,William Cameron Menzies,The Dove;,True,ETC
+9,1927,1928,1,Charles Rosher,Sunrise,True,CINEMATOGRAPHY
+10,1927,1928,1,Karl Struss,Sunrise,True,CINEMATOGRAPHY
+11,1927,1928,1,Lewis Milestone,Two Arabian Knights,True,DIRECTING
+13,1927,1928,1,Frank Borzage,7th Heaven,True,DIRECTING
+17,1927,1928,1,Roy Pomeroy,Wings,True,ETC
+21,1927,1928,1,Paramount Famous Lasky,Wings,True,BEST PICTURE
+22,1927,1928,1,Fox,Sunrise,True,ETC
+27,1927,1928,1,Benjamin Glazer,7th Heaven,True,WRITING
+29,1927,1928,1,Ben Hecht,Underworld,True,WRITING
+36,1928,1929,2,Warner Baxter,In Old Arizona,True,ACTOR
+45,1928,1929,2,Mary Pickford,Coquette,True,ACTRESS
+47,1928,1929,2,Cedric Gibbons,The Bridge of San Luis Rey,True,ETC
+52,1928,1929,2,Clyde De Vinna,White Shadows in the South Seas,True,CINEMATOGRAPHY
+59,1928,1929,2,Frank Lloyd,The Divine Lady,True,DIRECTING
+64,1928,1929,2,Metro-Goldwyn-Mayer,The Broadway Melody,True,BEST PICTURE
+70,1928,1929,2,Hans Kraly,The Patriot,True,WRITING
+73,1929,1930,3,George Arliss,Disraeli,True,ACTOR
+82,1929,1930,3,Norma Shearer,The Divorcee,True,ACTRESS
+86,1929,1930,3,Herman Rosse,King of Jazz,True,ETC
+94,1929,1930,3,"Joseph T. Rucker, Willard Van Der Veer",With Byrd at the South Pole,True,CINEMATOGRAPHY
+98,1929,1930,3,Lewis Milestone,All Quiet on the Western Front,True,DIRECTING
+100,1929,1930,3,Universal,All Quiet on the Western Front,True,BEST PICTURE
+105,1929,1930,3,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",The Big House,True,ETC
+111,1929,1930,3,Frances Marion,The Big House,True,WRITING
+115,1930,1931,4,Lionel Barrymore,A Free Soul,True,ACTOR
+121,1930,1931,4,Marie Dressler,Min and Bill,True,ACTRESS
+125,1930,1931,4,Max Rée,Cimarron,True,ETC
+134,1930,1931,4,Floyd Crosby,Tabu,True,CINEMATOGRAPHY
+139,1930,1931,4,Norman Taurog,Skippy,True,DIRECTING
+140,1930,1931,4,RKO Radio,Cimarron,True,BEST PICTURE
+149,1930,1931,4,Howard Estabrook,Cimarron,True,WRITING
+154,1930,1931,4,John Monk Saunders,The Dawn Patrol,True,WRITING
+159,1931,1932,5,Wallace Beery,The Champ,True,ACTOR
+161,1931,1932,5,Fredric March,Dr. Jekyll and Mr. Hyde,True,ACTOR
+164,1931,1932,5,Helen Hayes,The Sin of Madelon Claudet,True,ACTRESS
+167,1931,1932,5,Gordon Wiles,Transatlantic,True,ETC
+170,1931,1932,5,Lee Garmes,Shanghai Express,True,CINEMATOGRAPHY
+171,1931,1932,5,Frank Borzage,Bad Girl,True,DIRECTING
+178,1931,1932,5,Metro-Goldwyn-Mayer,Grand Hotel,True,BEST PICTURE
+182,1931,1932,5,"Walt Disney, Producer",Flowers and Trees,True,ETC
+186,1931,1932,5,"Hal Roach, Producer",The Music Box,True,ETC
+191,1931,1932,5,"Mack Sennett, Producer",Wrestling Swordfish,True,ETC
+197,1931,1932,5,Edwin Burke,Bad Girl,True,WRITING
+199,1931,1932,5,Frances Marion,The Champ,True,WRITING
+205,1932,1933,6,Charles Laughton,The Private Life of Henry VIII,True,ACTOR
+207,1932,1933,6,Katharine Hepburn,Morning Glory,True,ACTRESS
+210,1932,1933,6,William S. Darling,Cavalcade,True,ETC
+231,1932,1933,6,"Charles Bryant Lang, Jr.",A Farewell to Arms,True,CINEMATOGRAPHY
+234,1932,1933,6,Frank Lloyd,Cavalcade,True,DIRECTING
+237,1932,1933,6,Fox,Cavalcade,True,BEST PICTURE
+249,1932,1933,6,"Walt Disney, Producer",The Three Little Pigs,True,ETC
+252,1932,1933,6,"Louis Brock, Producer",So This Is Harris,True,ETC
+253,1932,1933,6,"Joe Rock, Producer",Krakatoa,True,ETC
+256,1932,1933,6,"Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",A Farewell to Arms,True,ETC
+261,1932,1933,6,"Victor Heerman, Sarah Y. Mason",Little Women,True,WRITING
+263,1932,1933,6,Robert Lord,One Way Passage,True,WRITING
+266,1934,1935,7,Clark Gable,It Happened One Night,True,ACTOR
+269,1934,1935,7,Claudette Colbert,It Happened One Night,True,ACTRESS
+275,1934,1935,7,"Cedric Gibbons, Fredric Hope",The Merry Widow,True,ETC
+278,1934,1935,7,John Waters,Viva Villa!,True,ETC
+280,1934,1935,7,Victor Milner,Cleopatra,True,CINEMATOGRAPHY
+282,1934,1935,7,Frank Capra,It Happened One Night,True,DIRECTING
+290,1934,1935,7,"Columbia Studio Music Department, Louis Silvers, head of department  (Thematic Music by Victor Schertzinger and Gus Kahn)",One Night of Love,True,ETC
+292,1934,1935,7,Music by Con Conrad; Lyrics by Herb Magidson,The Gay Divorcee,True,ETC
+301,1934,1935,7,Columbia,It Happened One Night,True,BEST PICTURE
+308,1934,1935,7,"Walt Disney, Producer",The Tortoise and the Hare,True,ETC
+309,1934,1935,7,"Kenneth Macgowan, Producer",La Cucaracha,True,ETC
+313,1934,1935,7,"Stacy Woodard and Horace Woodard, Producers",City of Wax,True,ETC
+320,1934,1935,7,"Columbia Studio Sound Department, John Livadary, Sound Director",One Night of Love,True,ETC
+323,1934,1935,7,Robert Riskin,It Happened One Night,True,WRITING
+327,1934,1935,7,Arthur Caesar,Manhattan Melodrama,True,WRITING
+332,1935,1936,8,Victor McLaglen,The Informer,True,ACTOR
+337,1935,1936,8,Bette Davis,Dangerous,True,ACTRESS
+341,1935,1936,8,Richard Day,The Dark Angel,True,ETC
+346,1935,1936,8,"Clem Beauchamp, Paul Wing",The Lives of a Bengal Lancer,True,ETC
+351,1935,1936,8,Hal Mohr,A Midsummer Night's Dream,True,CINEMATOGRAPHY
+354,1935,1936,8,Dave Gould,Broadway Melody of 1936;,True,ETC
+360,1935,1936,8,John Ford,The Informer,True,DIRECTING
+370,1935,1936,8,"RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Max Steiner)",The Informer,True,ETC
+375,1935,1936,8,Music by Harry Warren; Lyrics by Al Dubin,Gold Diggers of 1935,True,ETC
+384,1935,1936,8,Metro-Goldwyn-Mayer,Mutiny on the Bounty,True,BEST PICTURE
+389,1935,1936,8,"Walt Disney, Producer",Three Orphan Kittens,True,ETC
+391,1935,1936,8,"Jack Chertok, Producer",How to Sleep,True,ETC
+396,1935,1936,8,Gaumont British and Skibo Productions,Wings over Mt. Everest,True,ETC
+403,1935,1936,8,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Naughty Marietta,True,ETC
+409,1935,1936,8,"Ben Hecht, Charles MacArthur",The Scoundrel,True,WRITING
+411,1935,1936,8,Dudley Nichols,The Informer,True,WRITING
+417,1936,1937,9,Paul Muni,The Story of Louis Pasteur,True,ACTOR
+421,1936,1937,9,Walter Brennan,Come and Get It,True,ACTOR SUPPORTING
+428,1936,1937,9,Luise Rainer,The Great Ziegfeld,True,ACTRESS
+434,1936,1937,9,Gale Sondergaard,Anthony Adverse,True,ACTRESS SUPPORTING
+436,1936,1937,9,Richard Day,Dodsworth,True,ETC
+443,1936,1937,9,Jack Sullivan,The Charge of the Light Brigade,True,ETC
+447,1936,1937,9,Gaetano Gaudio,Anthony Adverse,True,CINEMATOGRAPHY
+452,1936,1937,9,Seymour Felix,The Great Ziegfeld,True,ETC
+459,1936,1937,9,Frank Capra,Mr. Deeds Goes to Town,True,DIRECTING
+468,1936,1937,9,"Warner Bros. Studio Music Department, Leo Forbstein, head of department  (Score by Erich Wolfgang Korngold)",Anthony Adverse,True,ETC
+477,1936,1937,9,Music by Jerome Kern; Lyrics by Dorothy Fields,Swing Time,True,ETC
+481,1936,1937,9,Metro-Goldwyn-Mayer,The Great Ziegfeld,True,BEST PICTURE
+489,1936,1937,9,"Walt Disney, Producer",The Country Cousin,True,ETC
+492,1936,1937,9,Warner Bros.,Give Me Liberty,True,ETC
+495,1936,1937,9,"Hal Roach, Producer",Bored of Education,True,ETC
+500,1936,1937,9,Metro-Goldwyn-Mayer,The Public Pays,True,ETC
+506,1936,1937,9,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",San Francisco,True,ETC
+513,1936,1937,9,"Pierre Collings, Sheridan Gibney",The Story of Louis Pasteur,True,WRITING
+519,1936,1937,9,"Pierre Collings, Sheridan Gibney",The Story of Louis Pasteur,True,WRITING
+526,1937,1938,10,Spencer Tracy,Captains Courageous,True,ACTOR
+529,1937,1938,10,Joseph Schildkraut,The Life of Emile Zola,True,ACTOR SUPPORTING
+535,1937,1938,10,Luise Rainer,The Good Earth,True,ACTRESS
+537,1937,1938,10,Alice Brady,In Old Chicago,True,ACTRESS SUPPORTING
+547,1937,1938,10,Stephen Goosson,Lost Horizon,True,ETC
+554,1937,1938,10,Robert Webb,In Old Chicago,True,ETC
+560,1937,1938,10,Karl Freund,The Good Earth,True,CINEMATOGRAPHY
+567,1937,1938,10,Hermes Pan,A Damsel in Distress,True,ETC
+569,1937,1938,10,Leo McCarey,The Awful Truth,True,DIRECTING
+585,1937,1938,10,"Universal Studio Music Department, Charles Previn, head of department  (no composer credit)",One Hundred Men and a Girl,True,ETC
+594,1937,1938,10,Music and Lyrics by Harry Owens,Waikiki Wedding,True,ETC
+603,1937,1938,10,Warner Bros.,The Life of Emile Zola,True,BEST PICTURE
+610,1937,1938,10,"Walt Disney, Producer",The Old Mill,True,ETC
+612,1937,1938,10,"Pete Smith, Producer",Penny Wisdom,True,ETC
+615,1937,1938,10,Skibo Productions,The Private Life of the Gannets,True,ETC
+619,1937,1938,10,Metro-Goldwyn-Mayer,Torture Money,True,ETC
+622,1937,1938,10,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",The Hurricane,True,ETC
+634,1937,1938,10,"William A. Wellman, Robert Carson",A Star Is Born,True,WRITING
+637,1937,1938,10,"Norman Reilly Raine, Heinz Herald, Geza Herczeg",The Life of Emile Zola,True,WRITING
+649,1938,1939,11,Spencer Tracy,Boys Town,True,ACTOR
+650,1938,1939,11,Walter Brennan,Kentucky,True,ACTOR SUPPORTING
+656,1938,1939,11,Bette Davis,Jezebel,True,ACTRESS
+660,1938,1939,11,Fay Bainter,Jezebel,True,ACTRESS SUPPORTING
+665,1938,1939,11,Carl J. Weyl,The Adventures of Robin Hood,True,ETC
+679,1938,1939,11,Joseph Ruttenberg,The Great Waltz,True,CINEMATOGRAPHY
+691,1938,1939,11,Frank Capra,You Can't Take It with You,True,DIRECTING
+697,1938,1939,11,Erich Wolfgang Korngold,The Adventures of Robin Hood,True,ETC
+708,1938,1939,11,Alfred Newman,Alexander's Ragtime Band,True,ETC
+728,1938,1939,11,Music by Ralph Rainger; Lyrics by Leo Robin,The Big Broadcast of 1938,True,ETC
+738,1938,1939,11,Columbia,You Can't Take It with You,True,BEST PICTURE
+740,1938,1939,11,"Walt Disney, Producer",Ferdinand the Bull,True,ETC
+745,1938,1939,11,Metro-Goldwyn-Mayer,That Mothers Might Live,True,ETC
+747,1938,1939,11,Warner Bros.,Declaration of Independence,True,ETC
+751,1938,1939,11,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",The Cowboy and the Lady,True,ETC
+763,1938,1939,11,"Dore Schary, Eleanore Griffin",Boys Town,True,WRITING
+769,1938,1939,11,"Screenplay and Dialogue by George Bernard Shaw; Adaptation by W. P. Lipscomb, Cecil Lewis, Ian Dalrymple",Pygmalion,True,WRITING
+784,1939,1940,12,Robert Donat,"Goodbye, Mr. Chips",True,ACTOR
+792,1939,1940,12,Thomas Mitchell,Stagecoach,True,ACTOR SUPPORTING
+798,1939,1940,12,Vivien Leigh,Gone with the Wind,True,ACTRESS
+801,1939,1940,12,Hattie McDaniel,Gone with the Wind,True,ACTRESS SUPPORTING
+807,1939,1940,12,Lyle Wheeler,Gone with the Wind,True,ETC
+826,1939,1940,12,Gregg Toland,Wuthering Heights,True,CINEMATOGRAPHY
+829,1939,1940,12,"Ernest Haller, Ray Rennahan",Gone with the Wind,True,CINEMATOGRAPHY
+833,1939,1940,12,Victor Fleming,Gone with the Wind,True,DIRECTING
+853,1939,1940,12,Herbert Stothart,The Wizard of Oz,True,ETC
+864,1939,1940,12,"Richard Hageman, Frank Harling, John Leipold, Leo Shuken",Stagecoach,True,ETC
+870,1939,1940,12,Music by Harold Arlen; Lyrics by E. Y. Harburg,The Wizard of Oz,True,ETC
+873,1939,1940,12,Selznick International Pictures,Gone with the Wind,True,BEST PICTURE
+885,1939,1940,12,"Walt Disney, Producer",The Ugly Duckling,True,ETC
+886,1939,1940,12,Paramount,Busy Little Bears,True,ETC
+892,1939,1940,12,Warner Bros.,Sons of Liberty,True,ETC
+903,1939,1940,12,"Universal Studio Sound Department, Bernard B. Brown, Sound Director",When Tomorrow Comes,True,ETC
+907,1939,1940,12,"Fred Sersen, E. H. Hansen",The Rains Came,True,ETC
+913,1939,1940,12,Lewis R. Foster,Mr. Smith Goes to Washington,True,WRITING
+916,1939,1940,12,Sidney Howard,Gone with the Wind,True,WRITING
+931,1940,1941,13,James Stewart,The Philadelphia Story,True,ACTOR
+933,1940,1941,13,Walter Brennan,The Westerner,True,ACTOR SUPPORTING
+940,1940,1941,13,Ginger Rogers,Kitty Foyle,True,ACTRESS
+943,1940,1941,13,Jane Darwell,The Grapes of Wrath,True,ACTRESS SUPPORTING
+956,1940,1941,13,"Cedric Gibbons, Paul Groesse",Pride and Prejudice,True,ETC
+963,1940,1941,13,Vincent Korda,The Thief of Bagdad,True,ETC
+971,1940,1941,13,George Barnes,Rebecca,True,CINEMATOGRAPHY
+979,1940,1941,13,Georges Périnal,The Thief of Bagdad,True,CINEMATOGRAPHY
+980,1940,1941,13,John Ford,The Grapes of Wrath,True,DIRECTING
+1003,1940,1941,13,"Leigh Harline, Paul J. Smith, Ned Washington",Pinocchio,True,ETC
+1015,1940,1941,13,Alfred Newman,Tin Pan Alley,True,ETC
+1023,1940,1941,13,Music by Leigh Harline; Lyrics by Ned Washington,Pinocchio,True,ETC
+1034,1940,1941,13,Selznick International Pictures,Rebecca,True,BEST PICTURE
+1035,1940,1941,13,Metro-Goldwyn-Mayer,The Milky Way,True,ETC
+1040,1940,1941,13,"Pete Smith, Producer",Quicker 'N a Wink,True,ETC
+1044,1940,1941,13,Warner Bros.,"Teddy, the Rough Rider",True,ETC
+1054,1940,1941,13,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Strike Up the Band,True,ETC
+1067,1940,1941,13,Photographic Effects by Lawrence Butler; Sound Effects by Jack Whitney,The Thief of Bagdad,True,ETC
+1074,1940,1941,13,Preston Sturges,The Great McGinty,True,WRITING
+1075,1940,1941,13,"Benjamin Glazer, John S. Toldy","Arise, My Love",True,WRITING
+1083,1940,1941,13,Donald Ogden Stewart,The Philadelphia Story,True,WRITING
+1087,1941,1942,14,Gary Cooper,Sergeant York,True,ACTOR
+1094,1941,1942,14,Donald Crisp,How Green Was My Valley,True,ACTOR SUPPORTING
+1099,1941,1942,14,Joan Fontaine,Suspicion,True,ACTRESS
+1103,1941,1942,14,Mary Astor,The Great Lie,True,ACTRESS SUPPORTING
+1110,1941,1942,14,"Art Direction:  Richard Day, Nathan Juran;  Interior Decoration:  Thomas Little",How Green Was My Valley,True,ETC
+1120,1941,1942,14,"Art Direction:  Cedric Gibbons, Urie McCleary;  Interior Decoration:  Edwin B. Willis",Blossoms in the Dust,True,ETC
+1127,1941,1942,14,Arthur Miller,How Green Was My Valley,True,CINEMATOGRAPHY
+1134,1941,1942,14,"Ernest Palmer, Ray Rennahan",Blood and Sand,True,CINEMATOGRAPHY
+1140,1941,1942,14,John Ford,How Green Was My Valley,True,DIRECTING
+1146,1941,1942,14,National Film Board of Canada,Churchill's Island,True,ETC
+1159,1941,1942,14,Bernard Herrmann,All That Money Can Buy,True,ETC
+1183,1941,1942,14,"Frank Churchill, Oliver Wallace",Dumbo,True,ETC
+1195,1941,1942,14,Music by Jerome Kern; Lyrics by Oscar Hammerstein II,Lady Be Good,True,ETC
+1202,1941,1942,14,20th Century-Fox,How Green Was My Valley,True,BEST PICTURE
+1211,1941,1942,14,"Walt Disney, Producer",Lend a Paw,True,ETC
+1223,1941,1942,14,Metro-Goldwyn-Mayer,Of Pups and Puzzles,True,ETC
+1228,1941,1942,14,Metro-Goldwyn-Mayer,Main Street on the March!,True,ETC
+1239,1941,1942,14,"General Service Sound Department, Jack Whitney, Sound Director",That Hamilton Woman,True,ETC
+1244,1941,1942,14,"Photographic Effects by Farciot Edouart, Gordon Jennings; Sound Effects by Louis Mesenkop",I Wanted Wings,True,ETC
+1250,1941,1942,14,"Herman J. Mankiewicz, Orson Welles",Citizen Kane,True,WRITING
+1256,1941,1942,14,Harry Segall,Here Comes Mr. Jordan,True,WRITING
+1260,1941,1942,14,"Sidney Buchman, Seton I. Miller",Here Comes Mr. Jordan,True,WRITING
+1270,1942,1943,15,James Cagney,Yankee Doodle Dandy,True,ACTOR
+1276,1942,1943,15,Van Heflin,Johnny Eager,True,ACTOR SUPPORTING
+1281,1942,1943,15,Greer Garson,Mrs. Miniver,True,ACTRESS
+1289,1942,1943,15,Teresa Wright,Mrs. Miniver,True,ACTRESS SUPPORTING
+1299,1942,1943,15,"Art Direction:  Richard Day, Joseph Wright;  Interior Decoration:  Thomas Little",This above All,True,ETC
+1303,1942,1943,15,"Art Direction:  Richard Day, Joseph Wright;  Interior Decoration:  Thomas Little",My Gal Sal,True,ETC
+1307,1942,1943,15,Joseph Ruttenberg,Mrs. Miniver,True,CINEMATOGRAPHY
+1316,1942,1943,15,Leon Shamroy,The Black Swan,True,CINEMATOGRAPHY
+1322,1942,1943,15,William Wyler,Mrs. Miniver,True,DIRECTING
+1327,1942,1943,15,United States Navy,The Battle of Midway,True,ETC
+1336,1942,1943,15,Australian News & Information Bureau,Kokoda Front Line!,True,ETC
+1342,1942,1943,15,Artkino,Moscow Strikes Back,True,ETC
+1344,1942,1943,15,United States Army Special Services,Prelude to War,True,ETC
+1366,1942,1943,15,Max Steiner,"Now, Voyager",True,ETC
+1380,1942,1943,15,"Ray Heindorf, Heinz Roemheld",Yankee Doodle Dandy,True,ETC
+1391,1942,1943,15,Music and Lyrics by Irving Berlin,Holiday Inn,True,ETC
+1395,1942,1943,15,Metro-Goldwyn-Mayer,Mrs. Miniver,True,BEST PICTURE
+1404,1942,1943,15,"Walt Disney, Producer",Der Fuehrer's Face,True,ETC
+1410,1942,1943,15,Paramount,Speaking of Animals and Their Families,True,ETC
+1412,1942,1943,15,Warner Bros.,Beyond the Line of Duty,True,ETC
+1425,1942,1943,15,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",Yankee Doodle Dandy,True,ETC
+1436,1942,1943,15,"Photographic Effects by Gordon Jennings, Farciot Edouart, William L. Pereira; Sound Effects by Louis Mesenkop",Reap the Wild Wind,True,ETC
+1438,1942,1943,15,Emeric Pressburger,The Invaders,True,WRITING
+1446,1942,1943,15,"Ring Lardner, Jr., Michael Kanin",Woman of the Year,True,WRITING
+1448,1942,1943,15,"Arthur Wimperis, George Froeschel, James Hilton, Claudine West",Mrs. Miniver,True,WRITING
+1458,1943,1944,16,Paul Lukas,Watch on the Rhine,True,ACTOR
+1462,1943,1944,16,Charles Coburn,The More the Merrier,True,ACTOR SUPPORTING
+1470,1943,1944,16,Jennifer Jones,The Song of Bernadette,True,ACTRESS
+1473,1943,1944,16,Katina Paxinou,For Whom the Bell Tolls,True,ACTRESS SUPPORTING
+1481,1943,1944,16,"Art Direction:  James Basevi, William Darling;  Interior Decoration:  Thomas Little",The Song of Bernadette,True,ETC
+1484,1943,1944,16,"Art Direction:  John B. Goodman, Alexander Golitzen;  Interior Decoration:  Russell A. Gausman, Ira S. Webb",Phantom of the Opera,True,ETC
+1496,1943,1944,16,Arthur Miller,The Song of Bernadette,True,CINEMATOGRAPHY
+1501,1943,1944,16,"Hal Mohr, W. Howard Greene",Phantom of the Opera,True,CINEMATOGRAPHY
+1503,1943,1944,16,Michael Curtiz,Casablanca,True,DIRECTING
+1510,1943,1944,16,British Ministry of Information,Desert Victory,True,ETC
+1519,1943,1944,16,United States Navy,December 7th,True,ETC
+1556,1943,1944,16,Alfred Newman,The Song of Bernadette,True,ETC
+1566,1943,1944,16,Ray Heindorf,This Is the Army,True,ETC
+1577,1943,1944,16,Music by Harry Warren; Lyrics by Mack Gordon,"Hello, Frisco, Hello",True,ETC
+1578,1943,1944,16,Warner Bros.,Casablanca,True,BEST PICTURE
+1593,1943,1944,16,"Frederick Quimby, Producer",Yankee Doodle Mouse,True,ETC
+1594,1943,1944,16,"Grantland Rice, Producer",Amphibious Fighters,True,ETC
+1599,1943,1944,16,"Jerry Bresler and Sam Coslow, Producers",Heavenly Music,True,ETC
+1614,1943,1944,16,"RKO Radio Studio Sound Department, Stephen Dunn, Sound Director",This Land Is Mine,True,ETC
+1617,1943,1944,16,Photographic Effects by Fred Sersen; Sound Effects by Roger Heman,Crash Dive,True,ETC
+1623,1943,1944,16,William Saroyan,The Human Comedy,True,WRITING
+1629,1943,1944,16,Norman Krasna,Princess O'Rourke,True,WRITING
+1631,1943,1944,16,"Julius J. Epstein, Philip G. Epstein, Howard Koch",Casablanca,True,WRITING
+1639,1944,1945,17,Bing Crosby,Going My Way,True,ACTOR
+1644,1944,1945,17,Barry Fitzgerald,Going My Way,True,ACTOR SUPPORTING
+1648,1944,1945,17,Ingrid Bergman,Gaslight,True,ACTRESS
+1653,1944,1945,17,Ethel Barrymore,None but the Lonely Heart,True,ACTRESS SUPPORTING
+1661,1944,1945,17,"Art Direction:  Cedric Gibbons, William Ferrari;  Interior Decoration:  Edwin B. Willis, Paul Huldschinsky",Gaslight,True,ETC
+1673,1944,1945,17,Art Direction:  Wiard Ihnen;  Interior Decoration:  Thomas Little,Wilson,True,ETC
+1678,1944,1945,17,Joseph LaShelle,Laura,True,CINEMATOGRAPHY
+1689,1944,1945,17,Leon Shamroy,Wilson,True,CINEMATOGRAPHY
+1691,1944,1945,17,Leo McCarey,Going My Way,True,DIRECTING
+1695,1944,1945,17,United States Navy,The Fighting Lady,True,ETC
+1699,1944,1945,17,United States Marine Corps,With the Marines at Tarawa,True,ETC
+1718,1944,1945,17,Max Steiner,Since You Went Away,True,ETC
+1726,1944,1945,17,"Morris Stoloff, Carmen Dragon",Cover Girl,True,ETC
+1748,1944,1945,17,Music by James Van Heusen; Lyrics by Johnny Burke,Going My Way,True,ETC
+1753,1944,1945,17,Paramount,Going My Way,True,BEST PICTURE
+1760,1944,1945,17,"Frederick C. Quimby, Producer",Mouse Trouble,True,ETC
+1767,1944,1945,17,"Jerry Fairbanks, Producer",Who's Who in Animal Land,True,ETC
+1769,1944,1945,17,"Gordon Hollingshead, Producer",I Won't Play,True,ETC
+1781,1944,1945,17,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",Wilson,True,ETC
+1787,1944,1945,17,"Photographic Effects by A. Arnold Gillespie, Donald Jahraus, Warren Newcombe; Sound Effects by Douglas Shearer",Thirty Seconds over Tokyo,True,ETC
+1789,1944,1945,17,Leo McCarey,Going My Way,True,WRITING
+1797,1944,1945,17,Lamar Trotti,Wilson,True,WRITING
+1801,1944,1945,17,"Frank Butler, Frank Cavett",Going My Way,True,WRITING
+1809,1945,1946,18,Ray Milland,The Lost Weekend,True,ACTOR
+1814,1945,1946,18,James Dunn,A Tree Grows in Brooklyn,True,ACTOR SUPPORTING
+1818,1945,1946,18,Joan Crawford,Mildred Pierce,True,ACTRESS
+1826,1945,1946,18,Anne Revere,National Velvet,True,ACTRESS SUPPORTING
+1827,1945,1946,18,Art Direction:  Wiard Ihnen;  Interior Decoration:  A. Roland Fields,Blood on the Sun,True,ETC
+1832,1945,1946,18,"Art Direction:  Hans Dreier, Ernst Fegte;  Interior Decoration:  Sam Comer",Frenchman's Creek,True,ETC
+1840,1945,1946,18,Harry Stradling,The Picture of Dorian Gray,True,CINEMATOGRAPHY
+1843,1945,1946,18,Leon Shamroy,Leave Her to Heaven,True,CINEMATOGRAPHY
+1848,1945,1946,18,Billy Wilder,The Lost Weekend,True,DIRECTING
+1853,1945,1946,18,The Governments of Great Britain and the United States of America,The True Glory,True,ETC
+1854,1945,1946,18,"Gordon Hollingshead, Producer",Hitler Lives?,True,ETC
+1879,1945,1946,18,Miklos Rozsa,Spellbound,True,ETC
+1883,1945,1946,18,Georgie Stoll,Anchors Aweigh,True,ETC
+1902,1945,1946,18,Music by Richard Rodgers; Lyrics by Oscar Hammerstein II,State Fair,True,ETC
+1911,1945,1946,18,Paramount,The Lost Weekend,True,BEST PICTURE
+1919,1945,1946,18,"Frederick Quimby, Producer",Quiet Please!,True,ETC
+1923,1945,1946,18,"Herbert Moulton, Producer;  Jerry Bresler, Executive Producer",Stairway to Light,True,ETC
+1930,1945,1946,18,"Gordon Hollingshead, Producer",Star in the Night,True,ETC
+1931,1945,1946,18,"RKO Radio Studio Sound Department, Stephen Dunn, Sound Director",The Bells of St. Mary's,True,ETC
+1947,1945,1946,18,Photographic Effects by John Fulton; Sound Effects by Arthur W. Johns,Wonder Man,True,ETC
+1949,1945,1946,18,Charles G. Booth,The House on 92nd Street,True,WRITING
+1954,1945,1946,18,Richard Schweizer,Marie-Louise,True,WRITING
+1959,1945,1946,18,"Charles Brackett, Billy Wilder",The Lost Weekend,True,WRITING
+1967,1946,1947,19,Fredric March,The Best Years of Our Lives,True,ACTOR
+1975,1946,1947,19,Harold Russell,The Best Years of Our Lives,True,ACTOR SUPPORTING
+1977,1946,1947,19,Olivia de Havilland,To Each His Own,True,ACTRESS
+1983,1946,1947,19,Anne Baxter,The Razor's Edge,True,ACTRESS SUPPORTING
+1987,1946,1947,19,"Art Direction:  Lyle Wheeler, William Darling;  Interior Decoration:  Thomas Little, Frank E. Hughes",Anna and the King of Siam,True,ETC
+1992,1946,1947,19,"Art Direction:  Cedric Gibbons, Paul Groesse;  Interior Decoration:  Edwin B. Willis",The Yearling,True,ETC
+1993,1946,1947,19,Arthur Miller,Anna and the King of Siam,True,CINEMATOGRAPHY
+1996,1946,1947,19,"Charles Rosher, Leonard Smith, Arthur Arling",The Yearling,True,CINEMATOGRAPHY
+1997,1946,1947,19,William Wyler,The Best Years of Our Lives,True,DIRECTING
+2005,1946,1947,19,United States Department of War,Seeds of Destiny,True,ETC
+2013,1946,1947,19,Hugo Friedhofer,The Best Years of Our Lives,True,ETC
+2020,1946,1947,19,Morris Stoloff,The Jolson Story,True,ETC
+2025,1946,1947,19,Music by Harry Warren; Lyrics by Johnny Mercer,The Harvey Girls,True,ETC
+2027,1946,1947,19,Samuel Goldwyn Productions,The Best Years of Our Lives,True,BEST PICTURE
+2032,1946,1947,19,"Frederick Quimby, Producer",The Cat Concerto,True,ETC
+2038,1946,1947,19,"Gordon Hollingshead, Producer",Facing Your Danger,True,ETC
+2042,1946,1947,19,"Gordon Hollingshead, Producer",A Boy and His Dog,True,ETC
+2048,1946,1947,19,"Columbia Studio Sound Department, John Livadary, Sound Director",The Jolson Story,True,ETC
+2049,1946,1947,19,Special Visual Effects by Thomas Howard,Blithe Spirit,True,ETC
+2055,1946,1947,19,Clemence Dane,Vacation from Marriage,True,WRITING
+2060,1946,1947,19,"Muriel Box, Sydney Box",The Seventh Veil,True,WRITING
+2062,1946,1947,19,Robert E. Sherwood,The Best Years of Our Lives,True,WRITING
+2071,1947,1948,20,Ronald Colman,A Double Life,True,ACTOR
+2078,1947,1948,20,Edmund Gwenn,Miracle on 34th Street,True,ACTOR SUPPORTING
+2085,1947,1948,20,Loretta Young,The Farmer's Daughter,True,ACTRESS
+2088,1947,1948,20,Celeste Holm,Gentleman's Agreement,True,ACTRESS SUPPORTING
+2092,1947,1948,20,Art Direction:  John Bryan;  Set Decoration:  Wilfred Shingleton,Great Expectations,True,ETC
+2093,1947,1948,20,Art Direction:  Alfred Junge;  Set Decoration:  Alfred Junge,Black Narcissus,True,ETC
+2096,1947,1948,20,Guy Green,Great Expectations,True,CINEMATOGRAPHY
+2098,1947,1948,20,Jack Cardiff,Black Narcissus,True,CINEMATOGRAPHY
+2104,1947,1948,20,Elia Kazan,Gentleman's Agreement,True,DIRECTING
+2106,1947,1948,20,"Sid Rogell, Executive Producer;  Theron Warth and Richard O. Fleischer, Producers",Design for Death,True,ETC
+2109,1947,1948,20,United Nations Division of Films and Visual Information,First Steps,True,ETC
+2119,1947,1948,20,Dr. Miklos Rozsa,A Double Life,True,ETC
+2123,1947,1948,20,Alfred Newman,Mother Wore Tights,True,ETC
+2131,1947,1948,20,Music by Allie Wrubel; Lyrics by Ray Gilbert,Song of the South,True,ETC
+2134,1947,1948,20,20th Century-Fox,Gentleman's Agreement,True,BEST PICTURE
+2141,1947,1948,20,"Edward Selzer, Producer",Tweetie Pie,True,ETC
+2143,1947,1948,20,"Herbert Moulton, Producer",Good-bye Miss Turlock,True,ETC
+2148,1947,1948,20,"Irving Allen, Producer",Climbing the Matterhorn,True,ETC
+2152,1947,1948,20,"Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",The Bishop's Wife,True,ETC
+2155,1947,1948,20,"Special Visual Effects by A. Arnold Gillespie, Warren Newcombe; Special Audible Effects by Douglas Shearer, Michael Steinore",Green Dolphin Street,True,ETC
+2160,1947,1948,20,Valentine Davies,Miracle on 34th Street,True,WRITING
+2162,1947,1948,20,Sidney Sheldon,The Bachelor and the Bobby-Soxer,True,WRITING
+2171,1947,1948,20,George Seaton,Miracle on 34th Street,True,WRITING
+2179,1948,1949,21,Laurence Olivier,Hamlet,True,ACTOR
+2184,1948,1949,21,Walter Huston,The Treasure of the Sierra Madre,True,ACTOR SUPPORTING
+2190,1948,1949,21,Jane Wyman,Johnny Belinda,True,ACTRESS
+2195,1948,1949,21,Claire Trevor,Key Largo,True,ACTRESS SUPPORTING
+2196,1948,1949,21,Art Direction:  Roger K. Furse;  Set Decoration:  Carmen Dillon,Hamlet,True,ETC
+2199,1948,1949,21,Art Direction:  Hein Heckroth;  Set Decoration:  Arthur Lawson,The Red Shoes,True,ETC
+2203,1948,1949,21,William Daniels,The Naked City,True,CINEMATOGRAPHY
+2206,1948,1949,21,"Joseph Valentine, William V. Skall, Winton Hoch",Joan of Arc,True,CINEMATOGRAPHY
+2210,1948,1949,21,Roger K. Furse,Hamlet,True,ETC
+2212,1948,1949,21,"Dorothy Jeakins, Karinska",Joan of Arc,True,ETC
+2217,1948,1949,21,John Huston,The Treasure of the Sierra Madre,True,DIRECTING
+2219,1948,1949,21,"Orville O. Dull, Producer",The Secret Land,True,ETC
+2222,1948,1949,21,United States Army,Toward Independence,True,ETC
+2231,1948,1949,21,Brian Easdale,The Red Shoes,True,ETC
+2233,1948,1949,21,"Johnny Green, Roger Edens",Easter Parade,True,ETC
+2238,1948,1949,21,Music and Lyrics by Jay Livingston and Ray Evans,The Paleface,True,ETC
+2243,1948,1949,21,J. Arthur Rank-Two Cities Films,Hamlet,True,BEST PICTURE
+2248,1948,1949,21,"Fred Quimby, Producer",The Little Orphan,True,ETC
+2256,1948,1949,21,"Edmund H. Reek, Producer",Symphony of a City,True,ETC
+2261,1948,1949,21,"Walt Disney, Producer",Seal Island,True,ETC
+2265,1948,1949,21,"20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",The Snake Pit,True,ETC
+2267,1948,1949,21,"Special Visual Effects by Paul Eagler, J. McMillan Johnson, Russell Shearman, Clarence Slifer; Special Audible Effects by Charles Freeman, James G. Stewart",Portrait of Jennie,True,ETC
+2272,1948,1949,21,"Richard Schweizer, David Wechsler",The Search,True,WRITING
+2277,1948,1949,21,John Huston,The Treasure of the Sierra Madre,True,WRITING
+2285,1949,1950,22,Broderick Crawford,All the King's Men,True,ACTOR
+2291,1949,1950,22,Dean Jagger,Twelve O'Clock High,True,ACTOR SUPPORTING
+2296,1949,1950,22,Olivia de Havilland,The Heiress,True,ACTRESS
+2303,1949,1950,22,Mercedes McCambridge,All the King's Men,True,ACTRESS SUPPORTING
+2306,1949,1950,22,"Art Direction:  Harry Horner, John Meehan;  Set Decoration:  Emile Kuri",The Heiress,True,ETC
+2309,1949,1950,22,"Art Direction:  Cedric Gibbons, Paul Groesse;  Set Decoration:  Edwin B. Willis, Jack D. Moore",Little Women,True,ETC
+2311,1949,1950,22,Paul C. Vogel,Battleground,True,CINEMATOGRAPHY
+2320,1949,1950,22,Winton Hoch,She Wore a Yellow Ribbon,True,CINEMATOGRAPHY
+2321,1949,1950,22,"Edith Head, Gile Steele",The Heiress,True,ETC
+2323,1949,1950,22,"Leah Rhodes, Travilla, Marjorie Best",The Adventures of Don Juan,True,ETC
+2329,1949,1950,22,Joseph L. Mankiewicz,A Letter to Three Wives,True,DIRECTING
+2330,1949,1950,22,Crown Film Unit,Daybreak in Udi,True,ETC
+2332,1949,1950,22,"Richard de Rochemont, Producer",A Chance to Live,True,ETC
+2335,1949,1950,22,"Edward Selzer, Producer",So Much for So Little,True,ETC
+2343,1949,1950,22,Aaron Copland,The Heiress,True,ETC
+2346,1949,1950,22,"Roger Edens, Lennie Hayton",On the Town,True,ETC
+2347,1949,1950,22,Music and Lyrics by Frank Loesser,Neptune's Daughter,True,ETC
+2352,1949,1950,22,Robert Rossen Productions,All the King's Men,True,BEST PICTURE
+2358,1949,1950,22,"Edward Selzer, Producer",For Scent-Imental Reasons,True,ETC
+2362,1949,1950,22,"Jack Eaton, Producer",Aquatic House-Party,True,ETC
+2371,1949,1950,22,"Gaston Diehl and Robert Haessens, Producers",Van Gogh,True,ETC
+2374,1949,1950,22,"20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",Twelve O'Clock High,True,ETC
+2375,1949,1950,22,ARKO Productions,Mighty Joe Young,True,ETC
+2380,1949,1950,22,Douglas Morrow,The Stratton Story,True,WRITING
+2386,1949,1950,22,Joseph L. Mankiewicz,A Letter to Three Wives,True,WRITING
+2387,1949,1950,22,Robert Pirosh,Battleground,True,WRITING
+2398,1950,1951,23,José Ferrer,Cyrano de Bergerac,True,ACTOR
+2405,1950,1951,23,George Sanders,All about Eve,True,ACTOR SUPPORTING
+2409,1950,1951,23,Judy Holliday,Born Yesterday,True,ACTRESS
+2414,1950,1951,23,Josephine Hull,Harvey,True,ACTRESS SUPPORTING
+2419,1950,1951,23,"Art Direction:  Hans Dreier, John Meehan;  Set Decoration:  Sam Comer, Ray Moyer",Sunset Blvd.,True,ETC
+2422,1950,1951,23,"Art Direction:  Hans Dreier, Walter Tyler;  Set Decoration:  Sam Comer, Ray Moyer",Samson and Delilah,True,ETC
+2427,1950,1951,23,Robert Krasker,The Third Man,True,CINEMATOGRAPHY
+2431,1950,1951,23,Robert Surtees,King Solomon's Mines,True,CINEMATOGRAPHY
+2433,1950,1951,23,"Edith Head, Charles LeMaire",All about Eve,True,ETC
+2437,1950,1951,23,"Edith Head, Dorothy Jeakins, Elois Jenssen, Gile Steele, Gwen Wakeling",Samson and Delilah,True,ETC
+2439,1950,1951,23,Joseph L. Mankiewicz,All about Eve,True,DIRECTING
+2444,1950,1951,23,"Robert Snyder, Producer",The Titan: Story of Michelangelo,True,ETC
+2448,1950,1951,23,"Edmund Reek, Producer",Why Korea?,True,ETC
+2458,1950,1951,23,Franz Waxman,Sunset Blvd.,True,ETC
+2459,1950,1951,23,"Adolph Deutsch, Roger Edens",Annie Get Your Gun,True,ETC
+2466,1950,1951,23,Music and Lyrics by Ray Evans and Jay Livingston,"Captain Carey, U.S.A.",True,ETC
+2469,1950,1951,23,20th Century-Fox,All about Eve,True,BEST PICTURE
+2474,1950,1951,23,"Stephen Bosustow, Producer",Gerald McBoing-Boing,True,ETC
+2478,1950,1951,23,"Gordon Hollingshead, Producer",Grandad of Races,True,ETC
+2481,1950,1951,23,"Walt Disney, Producer",In Beaver Valley,True,ETC
+2483,1950,1951,23,"20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",All about Eve,True,ETC
+2488,1950,1951,23,George Pal Productions,Destination Moon,True,ETC
+2493,1950,1951,23,"Edna Anhalt, Edward Anhalt",Panic in the Streets,True,WRITING
+2495,1950,1951,23,Joseph L. Mankiewicz,All about Eve,True,WRITING
+2504,1950,1951,23,"Charles Brackett, Billy Wilder, D. M. Marshman, Jr.",Sunset Blvd.,True,WRITING
+2509,1951,1952,24,Humphrey Bogart,The African Queen,True,ACTOR
+2516,1951,1952,24,Karl Malden,A Streetcar Named Desire,True,ACTOR SUPPORTING
+2520,1951,1952,24,Vivien Leigh,A Streetcar Named Desire,True,ACTRESS
+2527,1951,1952,24,Kim Hunter,A Streetcar Named Desire,True,ACTRESS SUPPORTING
+2532,1951,1952,24,Art Direction:  Richard Day;  Set Decoration:  George James Hopkins,A Streetcar Named Desire,True,ETC
+2534,1951,1952,24,"Art Direction:  Cedric Gibbons, Preston Ames;  Set Decoration:  Edwin B. Willis, Keogh Gleason",An American in Paris,True,ETC
+2541,1951,1952,24,William C. Mellor,A Place in the Sun,True,CINEMATOGRAPHY
+2544,1951,1952,24,Alfred Gilks; Ballet Photography by John Alton,An American in Paris,True,CINEMATOGRAPHY
+2552,1951,1952,24,Edith Head,A Place in the Sun,True,ETC
+2554,1951,1952,24,"Orry-Kelly, Walter Plunkett, Irene Sharaff",An American in Paris,True,ETC
+2562,1951,1952,24,George Stevens,A Place in the Sun,True,DIRECTING
+2565,1951,1952,24,"Olle Nordemar, Producer",Kon-Tiki,True,ETC
+2566,1951,1952,24,'Made by Fred Zinnemann with the cooperation of Paramount Pictures Corporation for the Los Angeles Orthopaedic Hospital',Benjy,True,ETC
+2576,1951,1952,24,Franz Waxman,A Place in the Sun,True,ETC
+2580,1951,1952,24,"Johnny Green, Saul Chaplin",An American in Paris,True,ETC
+2584,1951,1952,24,Music by Hoagy Carmichael; Lyrics by Johnny Mercer,Here Comes the Groom,True,ETC
+2589,1951,1952,24,"Arthur Freed, Producer",An American in Paris,True,BEST PICTURE
+2596,1951,1952,24,"Fred Quimby, Producer",The Two Mouseketeers,True,ETC
+2599,1951,1952,24,"Robert Youngson, Producer",World of Kids,True,ETC
+2602,1951,1952,24,"Walt Disney, Producer",Nature's Half Acre,True,ETC
+2604,1951,1952,24,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",The Great Caruso,True,ETC
+2608,1951,1952,24,Paramount,When Worlds Collide,True,ETC
+2612,1951,1952,24,"Paul Dehn, James Bernard",Seven Days to Noon,True,WRITING
+2617,1951,1952,24,"Michael Wilson, Harry Brown",A Place in the Sun,True,WRITING
+2619,1951,1952,24,Alan Jay Lerner,An American in Paris,True,WRITING
+2628,1952,1953,25,Gary Cooper,High Noon,True,ACTOR
+2636,1952,1953,25,Anthony Quinn,Viva Zapata!,True,ACTOR SUPPORTING
+2637,1952,1953,25,Shirley Booth,"Come Back, Little Sheba",True,ACTRESS
+2642,1952,1953,25,Gloria Grahame,The Bad and the Beautiful,True,ACTRESS SUPPORTING
+2647,1952,1953,25,"Art Direction:  Cedric Gibbons, Edward Carfagno;  Set Decoration:  Edwin B. Willis, Keogh Gleason",The Bad and the Beautiful,True,ETC
+2654,1952,1953,25,Art Direction:  Paul Sheriff;  Set Decoration:  Marcel Vertes,Moulin Rouge,True,ETC
+2657,1952,1953,25,Robert Surtees,The Bad and the Beautiful,True,CINEMATOGRAPHY
+2665,1952,1953,25,"Winton C. Hoch, Archie Stout",The Quiet Man,True,CINEMATOGRAPHY
+2668,1952,1953,25,Helen Rose,The Bad and the Beautiful,True,ETC
+2675,1952,1953,25,Marcel Vertes,Moulin Rouge,True,ETC
+2681,1952,1953,25,John Ford,The Quiet Man,True,DIRECTING
+2684,1952,1953,25,"Irwin Allen, Producer",The Sea around Us,True,ETC
+2688,1952,1953,25,"Norman McLaren, Producer",Neighbours,True,ETC
+2694,1952,1953,25,Dimitri Tiomkin,High Noon,True,ETC
+2703,1952,1953,25,Alfred Newman,With a Song in My Heart,True,ETC
+2706,1952,1953,25,Music by Dimitri Tiomkin; Lyrics by Ned Washington,High Noon,True,ETC
+2709,1952,1953,25,"Cecil B. DeMille, Producer",The Greatest Show on Earth,True,BEST PICTURE
+2714,1952,1953,25,"Fred Quimby, Producer",Johann Mouse,True,ETC
+2721,1952,1953,25,"Boris Vermont, Producer",Light in the Window: The Art of Vermeer,True,ETC
+2727,1952,1953,25,"Walt Disney, Producer",Water Birds,True,ETC
+2728,1952,1953,25,London Film Sound Department,Breaking the Sound Barrier,True,ETC
+2733,1952,1953,25,Metro-Goldwyn-Mayer,Plymouth Adventure,True,ETC
+2734,1952,1953,25,"Fredric M. Frank, Theodore St. John, Frank Cavett",The Greatest Show on Earth,True,WRITING
+2739,1952,1953,25,Charles Schnee,The Bad and the Beautiful,True,WRITING
+2746,1952,1953,25,T. E. B. Clarke,The Lavender Hill Mob,True,WRITING
+2759,1953,1954,26,William Holden,Stalag 17,True,ACTOR
+2764,1953,1954,26,Frank Sinatra,From Here to Eternity,True,ACTOR SUPPORTING
+2768,1953,1954,26,Audrey Hepburn,Roman Holiday,True,ACTRESS
+2774,1953,1954,26,Donna Reed,From Here to Eternity,True,ACTRESS SUPPORTING
+2776,1953,1954,26,"Art Direction:  Cedric Gibbons, Edward Carfagno;  Set Decoration:  Edwin B. Willis, Hugh Hunt",Julius Caesar,True,ETC
+2783,1953,1954,26,"Art Direction:  Lyle Wheeler, George W. Davis;  Set Decoration:  Walter M. Scott, Paul S. Fox",The Robe,True,ETC
+2787,1953,1954,26,Burnett Guffey,From Here to Eternity,True,CINEMATOGRAPHY
+2795,1953,1954,26,Loyal Griggs,Shane,True,CINEMATOGRAPHY
+2800,1953,1954,26,Edith Head,Roman Holiday,True,ETC
+2804,1953,1954,26,"Charles LeMaire, Emile Santiago",The Robe,True,ETC
+2806,1953,1954,26,Fred Zinnemann,From Here to Eternity,True,DIRECTING
+2812,1953,1954,26,"Walt Disney, Producer",The Living Desert,True,ETC
+2814,1953,1954,26,"Walt Disney, Producer",The Alaskan Eskimo,True,ETC
+2827,1953,1954,26,Bronislau Kaper,Lili,True,ETC
+2831,1953,1954,26,Alfred Newman,Call Me Madam,True,ETC
+2837,1953,1954,26,Music by Sammy Fain; Lyrics by Paul Francis Webster,Calamity Jane,True,ETC
+2839,1953,1954,26,"Buddy Adler, Producer",From Here to Eternity,True,BEST PICTURE
+2848,1953,1954,26,"Walt Disney, Producer","Toot, Whistle, Plunk and Boom",True,ETC
+2852,1953,1954,26,"Johnny Green, Producer",The Merry Wives of Windsor Overture,True,ETC
+2854,1953,1954,26,"Walt Disney, Producer",Bear Country,True,ETC
+2860,1953,1954,26,"Columbia Studio Sound Department, John P. Livadary, Sound Director",From Here to Eternity,True,ETC
+2864,1953,1954,26,Paramount Studio,The War of the Worlds,True,ETC
+2869,1953,1954,26,Dalton Trumbo,Roman Holiday,True,WRITING
+2871,1953,1954,26,Daniel Taradash,From Here to Eternity,True,WRITING
+2879,1953,1954,26,"Charles Brackett, Walter Reisch, Richard Breen",Titanic,True,WRITING
+2886,1954,1955,27,Marlon Brando,On the Waterfront,True,ACTOR
+2892,1954,1955,27,Edmond O'Brien,The Barefoot Contessa,True,ACTOR SUPPORTING
+2898,1954,1955,27,Grace Kelly,The Country Girl,True,ACTRESS
+2902,1954,1955,27,Eva Marie Saint,On the Waterfront,True,ACTRESS SUPPORTING
+2908,1954,1955,27,Richard Day,On the Waterfront,True,ETC
+2914,1954,1955,27,Art Direction:  John Meehan;  Set Decoration:  Emile Kuri,"20,000 Leagues under the Sea",True,ETC
+2917,1954,1955,27,Boris Kaufman,On the Waterfront,True,CINEMATOGRAPHY
+2924,1954,1955,27,Milton Krasner,Three Coins in the Fountain,True,CINEMATOGRAPHY
+2929,1954,1955,27,Edith Head,Sabrina,True,ETC
+2932,1954,1955,27,Sanzo Wada,Gate of Hell,True,ETC
+2937,1954,1955,27,Elia Kazan,On the Waterfront,True,DIRECTING
+2941,1954,1955,27,"Walt Disney, Producer",The Vanishing Prairie,True,ETC
+2944,1954,1955,27,World Wide Pictures and Morse Films,Thursday's Children,True,ETC
+2952,1954,1955,27,Dimitri Tiomkin,The High and the Mighty,True,ETC
+2957,1954,1955,27,"Adolph Deutsch, Saul Chaplin",Seven Brides for Seven Brothers,True,ETC
+2964,1954,1955,27,Music by Jule Styne; Lyrics by Sammy Cahn,Three Coins in the Fountain,True,ETC
+2967,1954,1955,27,"Sam Spiegel, Producer",On the Waterfront,True,BEST PICTURE
+2974,1954,1955,27,"Stephen Bosustow, Producer",When Magoo Flew,True,ETC
+2977,1954,1955,27,"Robert Youngson, Producer",This Mechanical Age,True,ETC
+2981,1954,1955,27,"Denis Sanders and Terry Sanders, Producers",A Time Out of War,True,ETC
+2984,1954,1955,27,"Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",The Glenn Miller Story,True,ETC
+2989,1954,1955,27,Walt Disney Studios,"20,000 Leagues under the Sea",True,ETC
+2991,1954,1955,27,Philip Yordan,Broken Lance,True,WRITING
+2996,1954,1955,27,George Seaton,The Country Girl,True,WRITING
+3004,1954,1955,27,Budd Schulberg,On the Waterfront,True,WRITING
+3012,1955,1956,28,Ernest Borgnine,Marty,True,ACTOR
+3018,1955,1956,28,Jack Lemmon,Mister Roberts,True,ACTOR SUPPORTING
+3025,1955,1956,28,Anna Magnani,The Rose Tattoo,True,ACTRESS
+3030,1955,1956,28,Jo Van Fleet,East of Eden,True,ACTRESS SUPPORTING
+3036,1955,1956,28,"Art Direction:  Hal Pereira, Tambi Larsen;  Set Decoration:  Sam Comer, Arthur Krams",The Rose Tattoo,True,ETC
+3040,1955,1956,28,"Art Direction:  William Flannery, Jo Mielziner;  Set Decoration:  Robert Priestley",Picnic,True,ETC
+3046,1955,1956,28,James Wong Howe,The Rose Tattoo,True,CINEMATOGRAPHY
+3051,1955,1956,28,Robert Burks,To Catch a Thief,True,CINEMATOGRAPHY
+3052,1955,1956,28,Helen Rose,I'll Cry Tomorrow,True,ETC
+3059,1955,1956,28,Charles LeMaire,Love Is a Many-Splendored Thing,True,ETC
+3064,1955,1956,28,Delbert Mann,Marty,True,DIRECTING
+3068,1955,1956,28,"Nancy Hamilton, Producer",Helen Keller in Her Story,True,ETC
+3071,1955,1956,28,"Walt Disney, Producer",Men against the Arctic,True,ETC
+3078,1955,1956,28,Alfred Newman,Love Is a Many-Splendored Thing,True,ETC
+3086,1955,1956,28,"Robert Russell Bennett, Jay Blackton, Adolph Deutsch",Oklahoma!,True,ETC
+3088,1955,1956,28,Music by Sammy Fain; Lyrics by Paul Francis Webster,Love Is a Many-Splendored Thing,True,ETC
+3093,1955,1956,28,"Harold Hecht, Producer",Marty,True,BEST PICTURE
+3100,1955,1956,28,"Edward Selzer, Producer",Speedy Gonzales,True,ETC
+3102,1955,1956,28,"Edmund Reek, Producer",Survival City,True,ETC
+3106,1955,1956,28,"Wilbur T. Blume, Producer",The Face of Lincoln,True,ETC
+3114,1955,1956,28,"Todd-AO Sound Department, Fred Hynes, Sound Director",Oklahoma!,True,ETC
+3115,1955,1956,28,Paramount Studio,The Bridges at Toko-Ri,True,ETC
+3118,1955,1956,28,Daniel Fuchs,Love Me or Leave Me,True,WRITING
+3127,1955,1956,28,Paddy Chayefsky,Marty,True,WRITING
+3129,1955,1956,28,"William Ludwig, Sonya Levien",Interrupted Melody,True,WRITING
+3134,1956,1957,29,Yul Brynner,The King and I,True,ACTOR
+3141,1956,1957,29,Anthony Quinn,Lust for Life,True,ACTOR SUPPORTING
+3145,1956,1957,29,Ingrid Bergman,Anastasia,True,ACTRESS
+3153,1956,1957,29,Dorothy Malone,Written on the Wind,True,ACTRESS SUPPORTING
+3157,1956,1957,29,"Art Direction:  Cedric Gibbons, Malcolm F. Brown;  Set Decoration:  Edwin B. Willis, F. Keogh Gleason",Somebody Up There Likes Me,True,ETC
+3161,1956,1957,29,"Art Direction:  Lyle R. Wheeler, John DeCuir;  Set Decoration:  Walter M. Scott, Paul S. Fox",The King and I,True,ETC
+3167,1956,1957,29,Joseph Ruttenberg,Somebody Up There Likes Me,True,CINEMATOGRAPHY
+3169,1956,1957,29,Lionel Lindon,Around the World in 80 Days,True,CINEMATOGRAPHY
+3177,1956,1957,29,Jean Louis,The Solid Gold Cadillac,True,ETC
+3181,1956,1957,29,Irene Sharaff,The King and I,True,ETC
+3186,1956,1957,29,George Stevens,Giant,True,DIRECTING
+3190,1956,1957,29,"Jacques-Yves Cousteau, Producer",The Silent World,True,ETC
+3196,1956,1957,29,"Louis Clyde Stoumen, Producer",The True Story of the Civil War,True,ETC
+3205,1956,1957,29,"Italy; Dino De Laurentiis and Carlo Ponti, Producers",La Strada,True,ETC
+3208,1956,1957,29,Victor Young,Around the World in 80 Days,True,ETC
+3215,1956,1957,29,"Alfred Newman, Ken Darby",The King and I,True,ETC
+3220,1956,1957,29,Music and Lyrics by Jay Livingston and Ray Evans,The Man Who Knew Too Much,True,ETC
+3222,1956,1957,29,"Michael Todd, Producer",Around the World in 80 Days,True,BEST PICTURE
+3229,1956,1957,29,"Stephen Bosustow, Producer",Mister Magoo's Puddle Jumper,True,ETC
+3230,1956,1957,29,"Konstantin Kalser, Producer",Crashing the Water Barrier,True,ETC
+3233,1956,1957,29,Romulus Films,The Bespoke Overcoat,True,ETC
+3240,1956,1957,29,"20th Century-Fox Studio Sound Department, Carl Faulkner, Sound Director",The King and I,True,ETC
+3243,1956,1957,29,John Fulton,The Ten Commandments,True,ETC
+3244,1956,1957,29,Dalton Trumbo,The Brave One,True,WRITING
+3249,1956,1957,29,"James Poe, John Farrow, S.J. Perelman",Around the World in 80 Days,True,WRITING
+3258,1956,1957,29,Albert Lamorisse,The Red Balloon,True,WRITING
+3264,1957,1958,30,Alec Guinness,The Bridge on the River Kwai,True,ACTOR
+3267,1957,1958,30,Red Buttons,Sayonara,True,ACTOR SUPPORTING
+3276,1957,1958,30,Joanne Woodward,The Three Faces of Eve,True,ACTRESS
+3280,1957,1958,30,Miyoshi Umeki,Sayonara,True,ACTRESS SUPPORTING
+3286,1957,1958,30,Art Direction:  Ted Haworth;  Set Decoration:  Robert Priestley,Sayonara,True,ETC
+3288,1957,1958,30,Jack Hildyard,The Bridge on the River Kwai,True,CINEMATOGRAPHY
+3294,1957,1958,30,Orry-Kelly,Les Girls,True,ETC
+3297,1957,1958,30,David Lean,The Bridge on the River Kwai,True,DIRECTING
+3302,1957,1958,30,"Jerome Hill, Producer",Albert Schweitzer,True,ETC
+3313,1957,1958,30,Italy,The Nights of Cabiria,True,ETC
+3317,1957,1958,30,Malcolm Arnold,The Bridge on the River Kwai,True,ETC
+3321,1957,1958,30,Music by James Van Heusen; Lyrics by Sammy Cahn,The Joker Is Wild,True,ETC
+3325,1957,1958,30,"Sam Spiegel, Producer",The Bridge on the River Kwai,True,BEST PICTURE
+3330,1957,1958,30,"Edward Selzer, Producer",Birds Anonymous,True,ETC
+3339,1957,1958,30,"Larry Lansburgh, Producer",The Wetback Hound,True,ETC
+3343,1957,1958,30,"Warner Bros. Studio Sound Department, George Groves, Sound Director",Sayonara,True,ETC
+3345,1957,1958,30,Audible Effects by Walter Rossi,The Enemy Below,True,ETC
+3347,1957,1958,30,"Michael Wilson, Carl Foreman, Pierre Boulle",The Bridge on the River Kwai,True,WRITING
+3352,1957,1958,30,George Wells,Designing Woman,True,WRITING
+3364,1958,1959,31,David Niven,Separate Tables,True,ACTOR
+3369,1958,1959,31,Burl Ives,The Big Country,True,ACTOR SUPPORTING
+3372,1958,1959,31,Susan Hayward,I Want to Live!,True,ACTRESS
+3378,1958,1959,31,Wendy Hiller,Separate Tables,True,ACTRESS SUPPORTING
+3385,1958,1959,31,"Art Direction:  William A. Horning, Preston Ames;  Set Decoration:  Henry Grace, Keogh Gleason",Gigi,True,ETC
+3387,1958,1959,31,Sam Leavitt,The Defiant Ones,True,CINEMATOGRAPHY
+3394,1958,1959,31,Joseph Ruttenberg,Gigi,True,CINEMATOGRAPHY
+3400,1958,1959,31,Cecil Beaton,Gigi,True,ETC
+3404,1958,1959,31,Vincente Minnelli,Gigi,True,DIRECTING
+3410,1958,1959,31,"Ben Sharpsteen, Producer",White Wilderness,True,ETC
+3411,1958,1959,31,"Ben Sharpsteen, Producer",Ama Girls,True,ETC
+3423,1958,1959,31,France,My Uncle,True,ETC
+3427,1958,1959,31,Dimitri Tiomkin,The Old Man and the Sea,True,ETC
+3433,1958,1959,31,Andre Previn,Gigi,True,ETC
+3438,1958,1959,31,Music by Frederick Loewe; Lyrics by Alan Jay Lerner,Gigi,True,ETC
+3444,1958,1959,31,"Arthur Freed, Producer",Gigi,True,BEST PICTURE
+3446,1958,1959,31,"John W. Burton, Producer",Knighty Knight Bugs,True,ETC
+3449,1958,1959,31,"Walt Disney, Producer",Grand Canyon,True,ETC
+3455,1958,1959,31,"Todd-AO Sound Department, Fred Hynes, Sound Director",South Pacific,True,ETC
+3459,1958,1959,31,Visual Effects by Tom Howard,tom thumb,True,ETC
+3462,1958,1959,31,Alan Jay Lerner,Gigi,True,WRITING
+3466,1958,1959,31,"Nedrick Young, Harold Jacob Smith",The Defiant Ones,True,WRITING
+3474,1959,1960,32,Charlton Heston,Ben-Hur,True,ACTOR
+3478,1959,1960,32,Hugh Griffith,Ben-Hur,True,ACTOR SUPPORTING
+3486,1959,1960,32,Simone Signoret,Room at the Top,True,ACTRESS
+3492,1959,1960,32,Shelley Winters,The Diary of Anne Frank,True,ACTRESS SUPPORTING
+3494,1959,1960,32,"Art Direction:  Lyle R. Wheeler, George W. Davis;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",The Diary of Anne Frank,True,ETC
+3498,1959,1960,32,"Art Direction:  William A. Horning, Edward Carfagno;  Set Decoration:  Hugh Hunt",Ben-Hur,True,ETC
+3505,1959,1960,32,William C. Mellor,The Diary of Anne Frank,True,CINEMATOGRAPHY
+3508,1959,1960,32,Robert L. Surtees,Ben-Hur,True,CINEMATOGRAPHY
+3516,1959,1960,32,Orry-Kelly,Some Like It Hot,True,ETC
+3518,1959,1960,32,Elizabeth Haffenden,Ben-Hur,True,ETC
+3523,1959,1960,32,William Wyler,Ben-Hur,True,DIRECTING
+3529,1959,1960,32,"Bernhard Grzimek, Producer",Serengeti Shall Not Die,True,ETC
+3532,1959,1960,32,"Bert Haanstra, Producer",Glass,True,ETC
+3538,1959,1960,32,France,Black Orpheus,True,ETC
+3543,1959,1960,32,Miklos Rozsa,Ben-Hur,True,ETC
+3550,1959,1960,32,"Andre Previn, Ken Darby",Porgy and Bess,True,ETC
+3556,1959,1960,32,Music by James Van Heusen; Lyrics by Sammy Cahn,A Hole in the Head,True,ETC
+3559,1959,1960,32,"Sam Zimbalist, Producer",Ben-Hur,True,BEST PICTURE
+3564,1959,1960,32,"John Hubley, Producer",Moonbird,True,ETC
+3568,1959,1960,32,"Jacques-Yves Cousteau, Producer",The Golden Fish,True,ETC
+3572,1959,1960,32,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",Ben-Hur,True,ETC
+3577,1959,1960,32,"Visual Effects by A. Arnold Gillespie, Robert MacDonald; Audible Effects by Milo Lory",Ben-Hur,True,ETC
+3582,1959,1960,32,Neil Paterson,Room at the Top,True,WRITING
+3587,1959,1960,32,"Story by Russell Rouse, Clarence Greene;  Screenplay by Stanley Shapiro, Maurice Richlin",Pillow Talk,True,WRITING
+3593,1960,1961,33,Burt Lancaster,Elmer Gantry,True,ACTOR
+3600,1960,1961,33,Peter Ustinov,Spartacus,True,ACTOR SUPPORTING
+3606,1960,1961,33,Elizabeth Taylor,Butterfield 8,True,ACTRESS
+3608,1960,1961,33,Shirley Jones,Elmer Gantry,True,ACTRESS SUPPORTING
+3612,1960,1961,33,Art Direction:  Alexander Trauner;  Set Decoration:  Edward G. Boyle,The Apartment,True,ETC
+3620,1960,1961,33,"Art Direction:  Alexander Golitzen, Eric Orbom;  Set Decoration:  Russell A. Gausman, Julia Heron",Spartacus,True,ETC
+3626,1960,1961,33,Freddie Francis,Sons and Lovers,True,CINEMATOGRAPHY
+3631,1960,1961,33,Russell Metty,Spartacus,True,CINEMATOGRAPHY
+3632,1960,1961,33,"Edith Head, Edward Stevenson",The Facts of Life,True,ETC
+3640,1960,1961,33,"Valles, Bill Thomas",Spartacus,True,ETC
+3642,1960,1961,33,Billy Wilder,The Apartment,True,DIRECTING
+3647,1960,1961,33,"Larry Lansburgh, Producer",The Horse with the Flying Tail,True,ETC
+3652,1960,1961,33,"James Hill, Producer",Giuseppina,True,ETC
+3663,1960,1961,33,Sweden,The Virgin Spring,True,ETC
+3666,1960,1961,33,Ernest Gold,Exodus,True,ETC
+3673,1960,1961,33,"Morris Stoloff, Harry Sukman",Song without End (The Story of Franz Liszt),True,ETC
+3677,1960,1961,33,Music and Lyrics by Manos Hadjidakis,Never on Sunday,True,ETC
+3680,1960,1961,33,"Billy Wilder, Producer",The Apartment,True,BEST PICTURE
+3687,1960,1961,33,"William L. Snyder, Producer",Munro,True,ETC
+3690,1960,1961,33,"Ezra R. Baker, Producer",Day of the Painter,True,ETC
+3693,1960,1961,33,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",The Alamo,True,ETC
+3699,1960,1961,33,"Visual Effects by Gene Warren, Tim Baar",The Time Machine,True,ETC
+3700,1960,1961,33,Richard Brooks,Elmer Gantry,True,WRITING
+3706,1960,1961,33,"Billy Wilder, I. A. L. Diamond",The Apartment,True,WRITING
+3716,1961,1962,34,Maximilian Schell,Judgment at Nuremberg,True,ACTOR
+3719,1961,1962,34,George Chakiris,West Side Story,True,ACTOR SUPPORTING
+3726,1961,1962,34,Sophia Loren,Two Women,True,ACTRESS
+3733,1961,1962,34,Rita Moreno,West Side Story,True,ACTRESS SUPPORTING
+3736,1961,1962,34,Art Direction:  Harry Horner;  Set Decoration:  Gene Callahan,The Hustler,True,ETC
+3743,1961,1962,34,Art Direction:  Boris Leven;  Set Decoration:  Victor A. Gangelin,West Side Story,True,ETC
+3746,1961,1962,34,Eugen Shuftan,The Hustler,True,CINEMATOGRAPHY
+3753,1961,1962,34,Daniel L. Fapp,West Side Story,True,CINEMATOGRAPHY
+3757,1961,1962,34,Piero Gherardi,La Dolce Vita,True,ETC
+3763,1961,1962,34,Irene Sharaff,West Side Story,True,ETC
+3768,1961,1962,34,"Robert Wise, Jerome Robbins",West Side Story,True,DIRECTING
+3770,1961,1962,34,"Arthur Cohn and Rene Lafuite, Producers",Le Ciel et la Boue (Sky Above and Mud Beneath),True,ETC
+3775,1961,1962,34,"Frank P. Bibas, Producer",Project Hope,True,ETC
+3785,1961,1962,34,Sweden,Through a Glass Darkly,True,ETC
+3786,1961,1962,34,Henry Mancini,Breakfast at Tiffany's,True,ETC
+3795,1961,1962,34,"Saul Chaplin, Johnny Green, Sid Ramin, Irwin Kostal",West Side Story,True,ETC
+3798,1961,1962,34,Music by Henry Mancini; Lyrics by Johnny Mercer,Breakfast at Tiffany's,True,ETC
+3805,1961,1962,34,"Robert Wise, Producer",West Side Story,True,BEST PICTURE
+3808,1961,1962,34,Zagreb Film,Ersatz (The Substitute),True,ETC
+3814,1961,1962,34,Templar Film Studios,Seawards the Great Ships,True,ETC
+3820,1961,1962,34,"Todd-AO Sound Department, Fred Hynes, Sound Director; and Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",West Side Story,True,ETC
+3822,1961,1962,34,Visual Effects by Bill Warrington; Audible Effects by Vivian C. Greenham,The Guns of Navarone,True,ETC
+3826,1961,1962,34,Abby Mann,Judgment at Nuremberg,True,WRITING
+3832,1961,1962,34,William Inge,Splendor in the Grass,True,WRITING
+3842,1962,1963,35,Gregory Peck,To Kill a Mockingbird,True,ACTOR
+3843,1962,1963,35,Ed Begley,Sweet Bird of Youth,True,ACTOR SUPPORTING
+3848,1962,1963,35,Anne Bancroft,The Miracle Worker,True,ACTRESS
+3854,1962,1963,35,Patty Duke,The Miracle Worker,True,ACTRESS SUPPORTING
+3862,1962,1963,35,"Art Direction:  Alexander Golitzen, Henry Bumstead;  Set Decoration:  Oliver Emert",To Kill a Mockingbird,True,ETC
+3863,1962,1963,35,"Art Direction:  John Box, John Stoll;  Set Decoration:  Dario Simoni",Lawrence of Arabia,True,ETC
+3869,1962,1963,35,"Jean Bourgoin, Walter Wottitz, (Henri Persin)",The Longest Day,True,CINEMATOGRAPHY
+3875,1962,1963,35,Fred A. Young,Lawrence of Arabia,True,CINEMATOGRAPHY
+3882,1962,1963,35,Norma Koch,What Ever Happened to Baby Jane?,True,ETC
+3887,1962,1963,35,Mary Wills,The Wonderful World of the Brothers Grimm,True,ETC
+3890,1962,1963,35,David Lean,Lawrence of Arabia,True,DIRECTING
+3894,1962,1963,35,"Louis Clyde Stoumen, Producer",Black Fox,True,ETC
+3895,1962,1963,35,"Jack Howells, Producer",Dylan Thomas,True,ETC
+3906,1962,1963,35,France,Sundays and Cybele,True,ETC
+3909,1962,1963,35,Maurice Jarre,Lawrence of Arabia,True,ETC
+3916,1962,1963,35,Ray Heindorf,Meredith Willson's The Music Man,True,ETC
+3918,1962,1963,35,Music by Henry Mancini; Lyrics by Johnny Mercer,Days of Wine and Roses,True,ETC
+3923,1962,1963,35,"Sam Spiegel, Producer",Lawrence of Arabia,True,BEST PICTURE
+3928,1962,1963,35,"John Hubley and Faith Hubley, Producers",The Hole,True,ETC
+3936,1962,1963,35,"Pierre Etaix and J.C. Carrière, Producers",Heureux Anniversaire (Happy Anniversary),True,ETC
+3939,1962,1963,35,"Shepperton Studio Sound Department, John Cox, Sound Director",Lawrence of Arabia,True,ETC
+3943,1962,1963,35,Visual Effects by Robert MacDonald; Audible Effects by Jacques Maumont,The Longest Day,True,ETC
+3949,1962,1963,35,Horton Foote,To Kill a Mockingbird,True,WRITING
+3950,1962,1963,35,"Ennio de Concini, Alfredo Giannetti, Pietro Germi",Divorce--Italian Style,True,WRITING
+3960,1963,1964,36,Sidney Poitier,Lilies of the Field,True,ACTOR
+3963,1963,1964,36,Melvyn Douglas,Hud,True,ACTOR SUPPORTING
+3968,1963,1964,36,Patricia Neal,Hud,True,ACTRESS
+3974,1963,1964,36,Margaret Rutherford,The V.I.P.s,True,ACTRESS SUPPORTING
+3976,1963,1964,36,Gene Callahan,America America,True,ETC
+3982,1963,1964,36,"Art Direction:  John DeCuir, Jack Martin Smith, Hilyard Brown, Herman Blumenthal, Elven Webb, Maurice Pelling, Boris Juraga;  Set Decoration:  Walter M. Scott, Paul S. Fox, Ray Moyer",Cleopatra,True,ETC
+3988,1963,1964,36,James Wong Howe,Hud,True,CINEMATOGRAPHY
+3992,1963,1964,36,Leon Shamroy,Cleopatra,True,CINEMATOGRAPHY
+3996,1963,1964,36,Piero Gherardi,Federico Fellini's 8-1/2,True,ETC
+4002,1963,1964,36,"Irene Sharaff, Vittorio Nino Novarese, Renie",Cleopatra,True,ETC
+4010,1963,1964,36,Tony Richardson,Tom Jones,True,DIRECTING
+4012,1963,1964,36,"Robert Hughes, Producer",Robert Frost: A Lover's Quarrel with the World,True,ETC
+4015,1963,1964,36,"Simon Schiffrin, Producer",Chagall,True,ETC
+4025,1963,1964,36,Italy,Federico Fellini's 8-1/2,True,ETC
+4034,1963,1964,36,John Addison,Tom Jones,True,ETC
+4036,1963,1964,36,Andre Previn,Irma La Douce,True,ETC
+4040,1963,1964,36,Music by James Van Heusen; Lyrics by Sammy Cahn,Papa's Delicate Condition,True,ETC
+4049,1963,1964,36,"Tony Richardson, Producer",Tom Jones,True,BEST PICTURE
+4051,1963,1964,36,"Ernest Pintoff, Producer",The Critic,True,ETC
+4057,1963,1964,36,"Paul de Roubaix and Marcel Ichac, Producers",An Occurrence at Owl Creek Bridge,True,ETC
+4063,1963,1964,36,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",How the West Was Won,True,ETC
+4066,1963,1964,36,Walter G. Elliott,"It's a Mad, Mad, Mad, Mad World",True,ETC
+4068,1963,1964,36,"Emil Kosa, Jr.",Cleopatra,True,ETC
+4073,1963,1964,36,John Osborne,Tom Jones,True,WRITING
+4077,1963,1964,36,James R. Webb,How the West Was Won,True,WRITING
+4081,1964,1965,37,Rex Harrison,My Fair Lady,True,ACTOR
+4089,1964,1965,37,Peter Ustinov,Topkapi,True,ACTOR SUPPORTING
+4090,1964,1965,37,Julie Andrews,Mary Poppins,True,ACTRESS
+4098,1964,1965,37,Lila Kedrova,Zorba the Greek,True,ACTRESS SUPPORTING
+4104,1964,1965,37,Vassilis Fotopoulos,Zorba the Greek,True,ETC
+4107,1964,1965,37,"Art Direction:  Gene Allen, Cecil Beaton;  Set Decoration:  George James Hopkins",My Fair Lady,True,ETC
+4114,1964,1965,37,Walter Lassally,Zorba the Greek,True,CINEMATOGRAPHY
+4118,1964,1965,37,Harry Stradling,My Fair Lady,True,CINEMATOGRAPHY
+4123,1964,1965,37,Dorothy Jeakins,The Night of the Iguana,True,ETC
+4127,1964,1965,37,Cecil Beaton,My Fair Lady,True,ETC
+4133,1964,1965,37,George Cukor,My Fair Lady,True,DIRECTING
+4138,1964,1965,37,"Jacques-Yves Cousteau, Producer",Jacques-Yves Cousteau's World without Sun,True,ETC
+4143,1964,1965,37,"Charles Guggenheim, Producer",Nine from Little Rock,True,ETC
+4154,1964,1965,37,Italy,"Yesterday, Today and Tomorrow",True,ETC
+4158,1964,1965,37,"Richard M. Sherman, Robert B. Sherman",Mary Poppins,True,ETC
+4162,1964,1965,37,Andre Previn,My Fair Lady,True,ETC
+4165,1964,1965,37,Music and Lyrics by Richard M. Sherman and Robert B. Sherman,Mary Poppins,True,ETC
+4173,1964,1965,37,"Jack L. Warner, Producer",My Fair Lady,True,BEST PICTURE
+4178,1964,1965,37,"David H. DePatie and Friz Freleng, Producers",The Pink Phink,True,ETC
+4179,1964,1965,37,"Edward Schreiber, Producer",Casals Conducts: 1964,True,ETC
+4185,1964,1965,37,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",My Fair Lady,True,ETC
+4187,1964,1965,37,Norman Wanstall,Goldfinger,True,ETC
+4189,1964,1965,37,"Peter Ellenshaw, Eustace Lycett, Hamilton Luske",Mary Poppins,True,ETC
+4191,1964,1965,37,Edward Anhalt,Becket,True,WRITING
+4196,1964,1965,37,"Story by S. H. Barnett;  Screenplay by Peter Stone, Frank Tarloff",Father Goose,True,WRITING
+4203,1965,1966,38,Lee Marvin,Cat Ballou,True,ACTOR
+4207,1965,1966,38,Martin Balsam,A Thousand Clowns,True,ACTOR SUPPORTING
+4213,1965,1966,38,Julie Christie,Darling,True,ACTRESS
+4220,1965,1966,38,Shelley Winters,A Patch of Blue,True,ACTRESS SUPPORTING
+4224,1965,1966,38,Art Direction:  Robert Clatworthy;  Set Decoration:  Joseph Kish,Ship of Fools,True,ETC
+4228,1965,1966,38,"Art Direction:  John Box, Terry Marsh;  Set Decoration:  Dario Simoni",Doctor Zhivago,True,ETC
+4236,1965,1966,38,Ernest Laszlo,Ship of Fools,True,CINEMATOGRAPHY
+4238,1965,1966,38,Freddie Young,Doctor Zhivago,True,CINEMATOGRAPHY
+4242,1965,1966,38,Julie Harris,Darling,True,ETC
+4248,1965,1966,38,Phyllis Dalton,Doctor Zhivago,True,ETC
+4255,1965,1966,38,Robert Wise,The Sound of Music,True,DIRECTING
+4258,1965,1966,38,"Sidney Glazier, Producer",The Eleanor Roosevelt Story,True,ETC
+4265,1965,1966,38,"Francis Thompson, Producer",To Be Alive!,True,ETC
+4276,1965,1966,38,Czechoslovakia,The Shop on Main Street,True,ETC
+4278,1965,1966,38,Maurice Jarre,Doctor Zhivago,True,ETC
+4284,1965,1966,38,Irwin Kostal,The Sound of Music,True,ETC
+4289,1965,1966,38,Music by Johnny Mandel; Lyrics by Paul Francis Webster,The Sandpiper,True,ETC
+4295,1965,1966,38,"Robert Wise, Producer",The Sound of Music,True,BEST PICTURE
+4298,1965,1966,38,"Chuck Jones and Les Goldman, Producers",The Dot and the Line,True,ETC
+4300,1965,1966,38,"Claude Berri, Producer",The Chicken (Le Poulet),True,ETC
+4309,1965,1966,38,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",The Sound of Music,True,ETC
+4310,1965,1966,38,Tregoweth Brown,The Great Race,True,ETC
+4313,1965,1966,38,John Stears,Thunderball,True,ETC
+4316,1965,1966,38,Robert Bolt,Doctor Zhivago,True,WRITING
+4320,1965,1966,38,Frederic Raphael,Darling,True,WRITING
+4331,1966,1967,39,Paul Scofield,A Man for All Seasons,True,ACTOR
+4334,1966,1967,39,Walter Matthau,The Fortune Cookie,True,ACTOR SUPPORTING
+4341,1966,1967,39,Elizabeth Taylor,Who's Afraid of Virginia Woolf?,True,ACTRESS
+4342,1966,1967,39,Sandy Dennis,Who's Afraid of Virginia Woolf?,True,ACTRESS SUPPORTING
+4351,1966,1967,39,Art Direction:  Richard Sylbert;  Set Decoration:  George James Hopkins,Who's Afraid of Virginia Woolf?,True,ETC
+4352,1966,1967,39,"Art Direction:  Jack Martin Smith, Dale Hennesy;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",Fantastic Voyage,True,ETC
+4361,1966,1967,39,Haskell Wexler,Who's Afraid of Virginia Woolf?,True,CINEMATOGRAPHY
+4364,1966,1967,39,Ted Moore,A Man for All Seasons,True,CINEMATOGRAPHY
+4371,1966,1967,39,Irene Sharaff,Who's Afraid of Virginia Woolf?,True,ETC
+4375,1966,1967,39,"Elizabeth Haffenden, Joan Bridge",A Man for All Seasons,True,ETC
+4379,1966,1967,39,Fred Zinnemann,A Man for All Seasons,True,DIRECTING
+4386,1966,1967,39,"Peter Watkins, Producer",The War Game,True,ETC
+4391,1966,1967,39,"Edmond A. Levy, Producer",A Year toward Tomorrow,True,ETC
+4399,1966,1967,39,France,A Man and a Woman,True,ETC
+4403,1966,1967,39,John Barry,Born Free,True,ETC
+4407,1966,1967,39,Ken Thorne,A Funny Thing Happened on the Way to the Forum,True,ETC
+4413,1966,1967,39,Music by John Barry; Lyrics by Don Black,Born Free,True,ETC
+4418,1966,1967,39,"Fred Zinnemann, Producer",A Man for All Seasons,True,BEST PICTURE
+4423,1966,1967,39,"John Hubley and Faith Hubley, Producers",Herb Alpert and the Tijuana Brass Double Feature,True,ETC
+4426,1966,1967,39,"Edgar Anstey, Producer",Wild Wings,True,ETC
+4429,1966,1967,39,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",Grand Prix,True,ETC
+4434,1966,1967,39,Gordon Daniel,Grand Prix,True,ETC
+4435,1966,1967,39,Art Cruickshank,Fantastic Voyage,True,ETC
+4438,1966,1967,39,Robert Bolt,A Man for All Seasons,True,WRITING
+4445,1966,1967,39,"Story by Claude Lelouch;  Screenplay by Claude Lelouch, Pierre Uytterhoeven",A Man and a Woman,True,WRITING
+4454,1967,1968,40,Rod Steiger,In the Heat of the Night,True,ACTOR
+4459,1967,1968,40,George Kennedy,Cool Hand Luke,True,ACTOR SUPPORTING
+4465,1967,1968,40,Katharine Hepburn,Guess Who's Coming to Dinner,True,ACTRESS
+4468,1967,1968,40,Estelle Parsons,Bonnie and Clyde,True,ACTRESS SUPPORTING
+4471,1967,1968,40,"Art Direction:  John Truscott, Edward Carrere;  Set Decoration:  John W. Brown",Camelot,True,ETC
+4476,1967,1968,40,Burnett Guffey,Bonnie and Clyde,True,CINEMATOGRAPHY
+4482,1967,1968,40,John Truscott,Camelot,True,ETC
+4487,1967,1968,40,Mike Nichols,The Graduate,True,DIRECTING
+4491,1967,1968,40,"Pierre Schoendoerffer, Producer",The Anderson Platoon,True,ETC
+4498,1967,1968,40,"Mark Harris and Trevor Greenwood, Producers",The Redwoods,True,ETC
+4506,1967,1968,40,Czechoslovakia,Closely Watched Trains,True,ETC
+4515,1967,1968,40,Elmer Bernstein,Thoroughly Modern Millie,True,ETC
+4516,1967,1968,40,"Alfred Newman, Ken Darby",Camelot,True,ETC
+4524,1967,1968,40,Music and Lyrics by Leslie Bricusse,Doctor Dolittle,True,ETC
+4530,1967,1968,40,"Walter Mirisch, Producer",In the Heat of the Night,True,BEST PICTURE
+4531,1967,1968,40,"Fred Wolf, Producer",The Box,True,ETC
+4535,1967,1968,40,"Christopher Chapman, Producer",A Place to Stand,True,ETC
+4541,1967,1968,40,Samuel Goldwyn Studio Sound Department,In the Heat of the Night,True,ETC
+4543,1967,1968,40,John Poyner,The Dirty Dozen,True,ETC
+4545,1967,1968,40,L. B. Abbott,Doctor Dolittle,True,ETC
+4550,1967,1968,40,Stirling Silliphant,In the Heat of the Night,True,WRITING
+4554,1967,1968,40,William Rose,Guess Who's Coming to Dinner,True,WRITING
+4564,1968,1969,41,Cliff Robertson,Charly,True,ACTOR
+4565,1968,1969,41,Jack Albertson,The Subject Was Roses,True,ACTOR SUPPORTING
+4570,1968,1969,41,Katharine Hepburn,The Lion in Winter,True,ACTRESS
+4573,1968,1969,41,Barbra Streisand,Funny Girl,True,ACTRESS
+4576,1968,1969,41,Ruth Gordon,Rosemary's Baby,True,ACTRESS SUPPORTING
+4580,1968,1969,41,"Art Direction:  John Box, Terence Marsh;  Set Decoration:  Vernon Dixon, Ken Muggleston",Oliver!,True,ETC
+4588,1968,1969,41,Pasqualino De Santis,Romeo and Juliet,True,CINEMATOGRAPHY
+4593,1968,1969,41,Danilo Donati,Romeo and Juliet,True,ETC
+4597,1968,1969,41,Carol Reed,Oliver!,True,DIRECTING
+4601,1968,1969,41,"Bill McGaw, Producer",Journey into Self,True,ETC
+4609,1968,1969,41,"Saul Bass, Producer",Why Man Creates,True,ETC
+4619,1968,1969,41,Union of Soviet Socialist Republics,War and Peace,True,ETC
+4621,1968,1969,41,John Barry,The Lion in Winter,True,ETC
+4627,1968,1969,41,Adaptation score by John Green,Oliver!,True,ETC
+4634,1968,1969,41,Music by Michel Legrand; Lyrics by Alan Bergman and Marilyn Bergman,The Thomas Crown Affair,True,ETC
+4637,1968,1969,41,"John Woolf, Producer",Oliver!,True,BEST PICTURE
+4643,1968,1969,41,"Walt Disney, Producer",Winnie the Pooh and the Blustery Day,True,ETC
+4647,1968,1969,41,"Charles Guggenheim, Producer",Robert Kennedy Remembered,True,ETC
+4651,1968,1969,41,Shepperton Studio Sound Department,Oliver!,True,ETC
+4654,1968,1969,41,Stanley Kubrick,2001: A Space Odyssey,True,ETC
+4655,1968,1969,41,James Goldman,The Lion in Winter,True,WRITING
+4663,1968,1969,41,Mel Brooks,The Producers,True,WRITING
+4672,1969,1970,42,John Wayne,True Grit,True,ACTOR
+4677,1969,1970,42,Gig Young,"They Shoot Horses, Don't They?",True,ACTOR SUPPORTING
+4682,1969,1970,42,Maggie Smith,The Prime of Miss Jean Brodie,True,ACTRESS
+4685,1969,1970,42,Goldie Hawn,Cactus Flower,True,ACTRESS SUPPORTING
+4690,1969,1970,42,"Art Direction:  John DeCuir, Jack Martin Smith, Herman Blumenthal;  Set Decoration:  Walter M. Scott, George Hopkins, Raphael Bretton","Hello, Dolly!",True,ETC
+4695,1969,1970,42,Conrad Hall,Butch Cassidy and the Sundance Kid,True,CINEMATOGRAPHY
+4698,1969,1970,42,Margaret Furse,Anne of the Thousand Days,True,ETC
+4705,1969,1970,42,John Schlesinger,Midnight Cowboy,True,DIRECTING
+4708,1969,1970,42,"Bernard Chevry, Producer",Arthur Rubinstein - The Love of Life,True,ETC
+4713,1969,1970,42,"Denis Sanders and Robert M. Fresco, Producers",Czechoslovakia 1968,True,ETC
+4727,1969,1970,42,Algeria,Z,True,ETC
+4729,1969,1970,42,Burt Bacharach,Butch Cassidy and the Sundance Kid,True,ETC
+4734,1969,1970,42,Adaptation score by Lennie Hayton and Lionel Newman,"Hello, Dolly!",True,ETC
+4740,1969,1970,42,Music by Burt Bacharach; Lyrics by Hal David,Butch Cassidy and the Sundance Kid,True,ETC
+4746,1969,1970,42,"Jerome Hellman, Producer",Midnight Cowboy,True,BEST PICTURE
+4748,1969,1970,42,"Ward Kimball, Producer",It's Tough to Be a Bird,True,ETC
+4752,1969,1970,42,"Joan Keller Stern, Producer",The Magic Machines,True,ETC
+4757,1969,1970,42,"Jack Solomon, Murray Spivack","Hello, Dolly!",True,ETC
+4760,1969,1970,42,Robbie Robertson,Marooned,True,ETC
+4763,1969,1970,42,Waldo Salt,Midnight Cowboy,True,WRITING
+4767,1969,1970,42,William Goldman,Butch Cassidy and the Sundance Kid,True,WRITING
+4777,1970,1971,43,George C. Scott,Patton,True,ACTOR
+4782,1970,1971,43,John Mills,Ryan's Daughter,True,ACTOR SUPPORTING
+4784,1970,1971,43,Glenda Jackson,Women in Love,True,ACTRESS
+4790,1970,1971,43,Helen Hayes,Airport,True,ACTRESS SUPPORTING
+4795,1970,1971,43,"Art Direction:  Urie McCleary, Gil Parrondo;  Set Decoration:  Antonio Mateos, Pierre-Louis Thevenet",Patton,True,ETC
+4800,1970,1971,43,Freddie Young,Ryan's Daughter,True,CINEMATOGRAPHY
+4804,1970,1971,43,Nino Novarese,Cromwell,True,ETC
+4811,1970,1971,43,Franklin J. Schaffner,Patton,True,DIRECTING
+4817,1970,1971,43,"Bob Maurice, Producer",Woodstock,True,ETC
+4819,1970,1971,43,"Joseph Strick, Producer",Interviews with My Lai Veterans,True,ETC
+4830,1970,1971,43,Italy,Investigation of a Citizen above Suspicion,True,ETC
+4835,1970,1971,43,Francis Lai,Love Story,True,ETC
+4841,1970,1971,43,Music and lyrics by The Beatles,Let It Be,True,ETC
+4843,1970,1971,43,Music by Fred Karlin; Lyrics by Robb Royer (aka Robb Wilson) and James Griffin (aka Arthur James),Lovers and Other Strangers,True,ETC
+4852,1970,1971,43,"Frank McCarthy, Producer",Patton,True,BEST PICTURE
+4854,1970,1971,43,"Nick Bosustow, Producer",Is It Always Right to Be Right?,True,ETC
+4856,1970,1971,43,"John Longenecker, Producer",The Resurrection of Broncho Billy,True,ETC
+4860,1970,1971,43,"Douglas Williams, Don Bassman",Patton,True,ETC
+4865,1970,1971,43,"A. D. Flowers, L. B. Abbott",Tora! Tora! Tora!,True,ETC
+4869,1970,1971,43,"Ring Lardner, Jr.",M*A*S*H,True,WRITING
+4875,1970,1971,43,"Francis Ford Coppola, Edmund H. North",Patton,True,WRITING
+4881,1971,1972,44,Gene Hackman,The French Connection,True,ACTOR
+4888,1971,1972,44,Ben Johnson,The Last Picture Show,True,ACTOR SUPPORTING
+4891,1971,1972,44,Jane Fonda,Klute,True,ACTRESS
+4898,1971,1972,44,Cloris Leachman,The Last Picture Show,True,ACTRESS SUPPORTING
+4904,1971,1972,44,"Art Direction:  John Box, Ernest Archer, Jack Maxsted, Gil Parrondo;  Set Decoration:  Vernon Dixon",Nicholas and Alexandra,True,ETC
+4905,1971,1972,44,Oswald Morris,Fiddler on the Roof,True,CINEMATOGRAPHY
+4913,1971,1972,44,"Yvonne Blake, Antonio Castillo",Nicholas and Alexandra,True,ETC
+4917,1971,1972,44,William Friedkin,The French Connection,True,DIRECTING
+4921,1971,1972,44,"Walon Green, Producer",The Hellstrom Chronicle,True,ETC
+4928,1971,1972,44,"Manuel Arango and Robert Amram, Producers",Sentinels of Silence,True,ETC
+4937,1971,1972,44,Italy,The Garden of the Finzi Continis,True,ETC
+4944,1971,1972,44,Michel Legrand,Summer of '42,True,ETC
+4947,1971,1972,44,Adaptation Score by John Williams,Fiddler on the Roof,True,ETC
+4954,1971,1972,44,Music and Lyrics by Isaac Hayes,Shaft,True,ETC
+4957,1971,1972,44,"Philip D'Antoni, Producer",The French Connection,True,BEST PICTURE
+4960,1971,1972,44,"Ted Petok, Producer",The Crunch Bird,True,ETC
+4965,1971,1972,44,"Manuel Arango and Robert Amram, Producers",Sentinels of Silence,True,ETC
+4967,1971,1972,44,"Gordon K. McCallum, David Hildyard",Fiddler on the Roof,True,ETC
+4971,1971,1972,44,"Alan Maley, Eustace Lycett, Danny Lee",Bedknobs and Broomsticks,True,ETC
+4975,1971,1972,44,Ernest Tidyman,The French Connection,True,WRITING
+4978,1971,1972,44,Paddy Chayefsky,The Hospital,True,WRITING
+4984,1972,1973,45,Marlon Brando,The Godfather,True,ACTOR
+4992,1972,1973,45,Joel Grey,Cabaret,True,ACTOR SUPPORTING
+4994,1972,1973,45,Liza Minnelli,Cabaret,True,ACTRESS
+5000,1972,1973,45,Eileen Heckart,Butterflies Are Free,True,ACTRESS SUPPORTING
+5004,1972,1973,45,"Art Direction:  Rolf Zehetbauer, Jurgen Kiebach;  Set Decoration:  Herbert Strabel",Cabaret,True,ETC
+5010,1972,1973,45,Geoffrey Unsworth,Cabaret,True,CINEMATOGRAPHY
+5017,1972,1973,45,Anthony Powell,Travels with My Aunt,True,ETC
+5019,1972,1973,45,Bob Fosse,Cabaret,True,DIRECTING
+5027,1972,1973,45,"Howard Smith and Sarah Kernochan, Producers",Marjoe,True,ETC
+5032,1972,1973,45,"Charles Huguenot van der Linden and Martina Huguenot van der Linden, Producers",This Tiny World,True,ETC
+5040,1972,1973,45,France,The Discreet Charm of the Bourgeoisie,True,ETC
+5046,1972,1973,45,"Charles Chaplin, Raymond Rasch, Larry Russell",Limelight,True,ETC
+5050,1972,1973,45,Adaptation Score by Ralph Burns,Cabaret,True,ETC
+5056,1972,1973,45,Music and Lyrics by Al Kasha and Joel Hirschhorn,The Poseidon Adventure,True,ETC
+5061,1972,1973,45,"Albert S. Ruddy, Producer",The Godfather,True,BEST PICTURE
+5063,1972,1973,45,"Richard Williams, Producer",A Christmas Carol,True,ETC
+5067,1972,1973,45,"Richard Barclay, Producer",Norman Rockwell's World...An American Dream,True,ETC
+5070,1972,1973,45,"Robert Knudson, David Hildyard",Cabaret,True,ETC
+5076,1972,1973,45,"Mario Puzo, Francis Ford Coppola",The Godfather,True,WRITING
+5079,1972,1973,45,Jeremy Larner,The Candidate,True,WRITING
+5084,1972,1973,45,"L. B. Abbott, A. D. Flowers",The Poseidon Adventure,True,ETC
+5089,1973,1974,46,Jack Lemmon,Save the Tiger,True,ACTOR
+5095,1973,1974,46,John Houseman,The Paper Chase,True,ACTOR SUPPORTING
+5099,1973,1974,46,Glenda Jackson,A Touch of Class,True,ACTRESS
+5106,1973,1974,46,Tatum O'Neal,Paper Moon,True,ACTRESS SUPPORTING
+5110,1973,1974,46,Art Direction:  Henry Bumstead;  Set Decoration:  James Payne,The Sting,True,ETC
+5113,1973,1974,46,Sven Nykvist,Cries and Whispers,True,CINEMATOGRAPHY
+5120,1973,1974,46,Edith Head,The Sting,True,ETC
+5127,1973,1974,46,George Roy Hill,The Sting,True,DIRECTING
+5130,1973,1974,46,"Kieth Merrill, Producer",The Great American Cowboy,True,ETC
+5137,1973,1974,46,"Julian Krainin and DeWitt L. Sage, Jr., Producers",Princeton: A Search for Answers,True,ETC
+5143,1973,1974,46,France,Day for Night,True,ETC
+5152,1973,1974,46,Marvin Hamlisch,The Way We Were,True,ETC
+5154,1973,1974,46,Adaptation Score by Marvin Hamlisch,The Sting,True,ETC
+5160,1973,1974,46,Music by Marvin Hamlisch; Lyrics by Alan Bergman and Marilyn Bergman,The Way We Were,True,ETC
+5164,1973,1974,46,"Tony Bill, Michael Phillips and Julia Phillips, Producers",The Sting,True,BEST PICTURE
+5166,1973,1974,46,"Frank Mouris, Producer",Frank Film,True,ETC
+5169,1973,1974,46,"Allan Miller and William Fertik, Producers",The Bolero,True,ETC
+5173,1973,1974,46,"Robert Knudson, Chris Newman",The Exorcist,True,ETC
+5177,1973,1974,46,William Peter Blatty,The Exorcist,True,WRITING
+5185,1973,1974,46,David S. Ward,The Sting,True,WRITING
+5191,1974,1975,47,Art Carney,Harry and Tonto,True,ACTOR
+5198,1974,1975,47,Robert De Niro,The Godfather Part II,True,ACTOR SUPPORTING
+5201,1974,1975,47,Ellen Burstyn,Alice Doesn't Live Here Anymore,True,ACTRESS
+5206,1974,1975,47,Ingrid Bergman,Murder on the Orient Express,True,ACTRESS SUPPORTING
+5213,1974,1975,47,"Art Direction:  Dean Tavoularis, Angelo Graham;  Set Decoration:  George R. Nelson",The Godfather Part II,True,ETC
+5220,1974,1975,47,"Fred Koenekamp, Joseph Biroc",The Towering Inferno,True,CINEMATOGRAPHY
+5224,1974,1975,47,Theoni V. Aldredge,The Great Gatsby,True,ETC
+5228,1974,1975,47,Francis Ford Coppola,The Godfather Part II,True,DIRECTING
+5234,1974,1975,47,"Peter Davis and Bert Schneider, Producers",Hearts and Minds,True,ETC
+5237,1974,1975,47,"Robin Lehman, Producer",Don't,True,ETC
+5246,1974,1975,47,Italy,Amarcord,True,ETC
+5252,1974,1975,47,"Nino Rota, Carmine Coppola",The Godfather Part II,True,ETC
+5256,1974,1975,47,Adaptation Score by Nelson Riddle,The Great Gatsby,True,ETC
+5262,1974,1975,47,Music and Lyrics by Al Kasha and Joel Hirschhorn,The Towering Inferno,True,ETC
+5266,1974,1975,47,"Francis Ford Coppola, Producer;  Gray Frederickson and Fred Roos, Co-Producers",The Godfather Part II,True,BEST PICTURE
+5269,1974,1975,47,"Will Vinton and Bob Gardiner, Producers",Closed Mondays,True,ETC
+5276,1974,1975,47,"Paul Claudon and Edmond Sechan, Producers",One-Eyed Men Are Kings,True,ETC
+5281,1974,1975,47,"Ronald Pierce, Melvin Metcalfe, Sr.",Earthquake,True,ETC
+5285,1974,1975,47,Robert Towne,Chinatown,True,WRITING
+5290,1974,1975,47,"Francis Ford Coppola, Mario Puzo",The Godfather Part II,True,WRITING
+5294,1974,1975,47,"Frank Brendel, Glen Robinson, Albert Whitlock",Earthquake,True,ETC
+5299,1975,1976,48,Jack Nicholson,One Flew over the Cuckoo's Nest,True,ACTOR
+5303,1975,1976,48,George Burns,The Sunshine Boys,True,ACTOR SUPPORTING
+5310,1975,1976,48,Louise Fletcher,One Flew over the Cuckoo's Nest,True,ACTRESS
+5314,1975,1976,48,Lee Grant,Shampoo,True,ACTRESS SUPPORTING
+5318,1975,1976,48,"Art Direction:  Ken Adam, Roy Walker;  Set Decoration:  Vernon Dixon",Barry Lyndon,True,ETC
+5323,1975,1976,48,John Alcott,Barry Lyndon,True,CINEMATOGRAPHY
+5328,1975,1976,48,"Ulla-Britt Soderlund, Milena Canonero",Barry Lyndon,True,ETC
+5337,1975,1976,48,Milos Forman,One Flew over the Cuckoo's Nest,True,DIRECTING
+5341,1975,1976,48,"F. R. Crawley, James Hager and Dale Hartleben, Producers",The Man Who Skied down Everest,True,ETC
+5344,1975,1976,48,"Claire Wilbur and Robin Lehman, Producers",The End of the Game,True,ETC
+5353,1975,1976,48,Union of Soviet Socialist Republics,Dersu Uzala,True,ETC
+5360,1975,1976,48,John Williams,Jaws,True,ETC
+5363,1975,1976,48,Adaptation Score by Leonard Rosenman,Barry Lyndon,True,ETC
+5367,1975,1976,48,Music and Lyrics by Keith Carradine,Nashville,True,ETC
+5375,1975,1976,48,"Saul Zaentz and Michael Douglas, Producers",One Flew over the Cuckoo's Nest,True,BEST PICTURE
+5376,1975,1976,48,"Bob Godfrey, Producer",Great,True,ETC
+5380,1975,1976,48,"Bert Salzman, Producer",Angel and Big Joe,True,ETC
+5388,1975,1976,48,"Robert L. Hoyt, Roger Heman, Earl Madery, John Carter",Jaws,True,ETC
+5392,1975,1976,48,Frank Pierson,Dog Day Afternoon,True,WRITING
+5397,1975,1976,48,"Lawrence Hauben, Bo Goldman",One Flew over the Cuckoo's Nest,True,WRITING
+5400,1975,1976,48,Peter Berkos,The Hindenburg,True,ETC
+5401,1975,1976,48,"Albert Whitlock, Glen Robinson",The Hindenburg,True,ETC
+5406,1976,1977,49,Peter Finch,Network,True,ACTOR
+5413,1976,1977,49,Jason Robards,All the President's Men,True,ACTOR SUPPORTING
+5416,1976,1977,49,Faye Dunaway,Network,True,ACTRESS
+5424,1976,1977,49,Beatrice Straight,Network,True,ACTRESS SUPPORTING
+5425,1976,1977,49,Art Direction:  George Jenkins;  Set Decoration:  George Gaines,All the President's Men,True,ETC
+5430,1976,1977,49,Haskell Wexler,Bound for Glory,True,CINEMATOGRAPHY
+5436,1976,1977,49,Danilo Donati,Fellini's Casanova,True,ETC
+5443,1976,1977,49,John G. Avildsen,Rocky,True,DIRECTING
+5445,1976,1977,49,"Barbara Kopple, Producer","Harlan County, U.S.A.",True,ETC
+5453,1976,1977,49,"Lynne Littman, Producer",Number Our Days,True,ETC
+5460,1976,1977,49,Ivory Coast,Black and White in Color,True,ETC
+5466,1976,1977,49,Jerry Goldsmith,The Omen,True,ETC
+5470,1976,1977,49,Adaptation Score by Leonard Rosenman,Bound for Glory,True,ETC
+5476,1976,1977,49,Music by Barbra Streisand; Lyrics by Paul Williams,A Star Is Born,True,ETC
+5481,1976,1977,49,"Irwin Winkler and Robert Chartoff, Producers",Rocky,True,BEST PICTURE
+5484,1976,1977,49,"Suzanne Baker, Producer",Leisure,True,ETC
+5486,1976,1977,49,"Andre Guttfreund and Peter Werner, Producers",In the Region of Ice,True,ETC
+5491,1976,1977,49,"Arthur Piantadosi, Les Fresholtz, Dick Alexander, Jim Webb",All the President's Men,True,ETC
+5496,1976,1977,49,William Goldman,All the President's Men,True,WRITING
+5503,1976,1977,49,Paddy Chayefsky,Network,True,WRITING
+5506,1976,1977,49,"Carlo Rambaldi, Glen Robinson, Frank Van der Veer",King Kong,True,ETC
+5507,1976,1977,49,"L. B. Abbott, Glen Robinson, Matthew Yuricich",Logan's Run,True,ETC
+5511,1977,1978,50,Richard Dreyfuss,The Goodbye Girl,True,ACTOR
+5517,1977,1978,50,Jason Robards,Julia,True,ACTOR SUPPORTING
+5521,1977,1978,50,Diane Keaton,Annie Hall,True,ACTRESS
+5527,1977,1978,50,Vanessa Redgrave,Julia,True,ACTRESS SUPPORTING
+5532,1977,1978,50,"Art Direction:  John Barry, Norman Reynolds, Leslie Dilley;  Set Decoration:  Roger Christian",Star Wars,True,ETC
+5534,1977,1978,50,Vilmos Zsigmond,Close Encounters of the Third Kind,True,CINEMATOGRAPHY
+5543,1977,1978,50,John Mollo,Star Wars,True,ETC
+5544,1977,1978,50,Woody Allen,Annie Hall,True,DIRECTING
+5553,1977,1978,50,"John Korty, Dan McCann and Warren L. Lockhart, Producers",Who Are the DeBolts? And Where Did They Get Nineteen Kids?,True,ETC
+5556,1977,1978,50,"John Joseph and Jan Stussy, Producers",Gravity Is My Enemy,True,ETC
+5565,1977,1978,50,France,Madame Rosa,True,ETC
+5573,1977,1978,50,John Williams,Star Wars,True,ETC
+5574,1977,1978,50,Adaptation Score by Jonathan Tunick,A Little Night Music,True,ETC
+5581,1977,1978,50,Music and Lyrics by Joseph Brooks,You Light Up My Life,True,ETC
+5582,1977,1978,50,"Charles H. Joffe, Producer",Annie Hall,True,BEST PICTURE
+5590,1977,1978,50,"Co Hoedeman, Producer",The Sand Castle,True,ETC
+5593,1977,1978,50,"Beverly Shaffer and Yuki Yoshida, Producers",I'll Find a Way,True,ETC
+5599,1977,1978,50,"Don MacDougall, Ray West, Bob Minkler, Derek Ball",Star Wars,True,ETC
+5602,1977,1978,50,"John Stears, John Dykstra, Richard Edlund, Grant McCune, Robert Blalack",Star Wars,True,ETC
+5605,1977,1978,50,Alvin Sargent,Julia,True,WRITING
+5608,1977,1978,50,"Woody Allen, Marshall Brickman",Annie Hall,True,WRITING
+5614,1977,1978,50,Frank E. Warner,Close Encounters of the Third Kind,True,ETC
+5622,1978,1979,51,Jon Voight,Coming Home,True,ACTOR
+5626,1978,1979,51,Christopher Walken,The Deer Hunter,True,ACTOR SUPPORTING
+5631,1978,1979,51,Jane Fonda,Coming Home,True,ACTRESS
+5635,1978,1979,51,Maggie Smith,California Suite,True,ACTRESS SUPPORTING
+5640,1978,1979,51,"Art Direction:  Paul Sylbert, Edwin O'Donovan;  Set Decoration:  George Gaines",Heaven Can Wait,True,ETC
+5643,1978,1979,51,Nestor Almendros,Days of Heaven,True,CINEMATOGRAPHY
+5650,1978,1979,51,Anthony Powell,Death on the Nile,True,ETC
+5654,1978,1979,51,Michael Cimino,The Deer Hunter,True,DIRECTING
+5661,1978,1979,51,"Arnold Shapiro, Producer",Scared Straight!,True,ETC
+5665,1978,1979,51,"Jacqueline Phillips Shedd and Ben Shedd, Producers",The Flight of the Gossamer Condor,True,ETC
+5673,1978,1979,51,France,Get Out Your Handkerchiefs,True,ETC
+5678,1978,1979,51,Joe Renzetti,The Buddy Holly Story,True,ETC
+5684,1978,1979,51,Giorgio Moroder,Midnight Express,True,ETC
+5687,1978,1979,51,Music and Lyrics by Paul Jabara,Thank God It's Friday,True,ETC
+5692,1978,1979,51,"Barry Spikings, Michael Deeley, Michael Cimino and John Peverall, Producers",The Deer Hunter,True,BEST PICTURE
+5698,1978,1979,51,"Eunice Macaulay and John Weldon, Producers",Special Delivery,True,ETC
+5702,1978,1979,51,"Taylor Hackford, Producer",Teenage Father,True,ETC
+5705,1978,1979,51,"Richard Portman, William McCaughey, Aaron Rochin, Darin Knight",The Deer Hunter,True,ETC
+5711,1978,1979,51,Oliver Stone,Midnight Express,True,WRITING
+5714,1978,1979,51,"Story by Nancy Dowd;  Screenplay by Waldo Salt, Robert C. Jones",Coming Home,True,WRITING
+5718,1978,1979,51,"Les Bowie, Colin Chilvers, Denys Coop, Roy Field, Derek Meddings, Zoran Perisic",Superman,True,ETC
+5724,1979,1980,52,Dustin Hoffman,Kramer vs. Kramer,True,ACTOR
+5729,1979,1980,52,Melvyn Douglas,Being There,True,ACTOR SUPPORTING
+5735,1979,1980,52,Sally Field,Norma Rae,True,ACTRESS
+5743,1979,1980,52,Meryl Streep,Kramer vs. Kramer,True,ACTRESS SUPPORTING
+5745,1979,1980,52,"Art Direction:  Philip Rosenberg, Tony Walton;  Set Decoration:  Edward Stewart, Gary Brink",All That Jazz,True,ETC
+5750,1979,1980,52,Vittorio Storaro,Apocalypse Now,True,CINEMATOGRAPHY
+5755,1979,1980,52,Albert Wolsky,All That Jazz,True,ETC
+5762,1979,1980,52,Robert Benton,Kramer vs. Kramer,True,DIRECTING
+5764,1979,1980,52,"Ira Wohl, Producer",Best Boy,True,ETC
+5772,1979,1980,52,"Saul J. Turell, Producer",Paul Robeson: Tribute to an Artist,True,ETC
+5782,1979,1980,52,Federal Republic of Germany,The Tin Drum,True,ETC
+5786,1979,1980,52,Georges Delerue,A Little Romance,True,ETC
+5789,1979,1980,52,Adaptation Score by Ralph Burns,All That Jazz,True,ETC
+5793,1979,1980,52,Music by David Shire; Lyric by Norman Gimbel,Norma Rae,True,ETC
+5800,1979,1980,52,"Stanley R. Jaffe, Producer",Kramer vs. Kramer,True,BEST PICTURE
+5803,1979,1980,52,"Derek Lamb, Producer",Every Child,True,ETC
+5805,1979,1980,52,"Sarah Pillsbury and Ron Ellis, Producers",Board and Care,True,ETC
+5810,1979,1980,52,"Walter Murch, Mark Berger, Richard Beggs, Nat Boxer",Apocalypse Now,True,ETC
+5815,1979,1980,52,"H.R. Giger, Carlo Rambaldi, Brian Johnson, Nick Allder, Denys Ayling",Alien,True,ETC
+5821,1979,1980,52,Robert Benton,Kramer vs. Kramer,True,WRITING
+5827,1979,1980,52,Steve Tesich,Breaking Away,True,WRITING
+5830,1979,1980,52,Alan Splet,The Black Stallion,True,ETC
+5835,1980,1981,53,Robert De Niro,Raging Bull,True,ACTOR
+5841,1980,1981,53,Timothy Hutton,Ordinary People,True,ACTOR SUPPORTING
+5849,1980,1981,53,Sissy Spacek,Coal Miner's Daughter,True,ACTRESS
+5854,1980,1981,53,Mary Steenburgen,Melvin and Howard,True,ACTRESS SUPPORTING
+5859,1980,1981,53,"Art Direction:  Pierre Guffroy, Jack Stephens",Tess,True,ETC
+5864,1980,1981,53,"Geoffrey Unsworth, Ghislain Cloquet",Tess,True,CINEMATOGRAPHY
+5868,1980,1981,53,Anthony Powell,Tess,True,ETC
+5871,1980,1981,53,Robert Redford,Ordinary People,True,DIRECTING
+5877,1980,1981,53,"Murray Lerner, Producer",From Mao to Mozart: Isaac Stern in China,True,ETC
+5883,1980,1981,53,"Roland Hallé and Peter W. Ladue, Producers",Karl Hess: Toward Liberty,True,ETC
+5893,1980,1981,53,Union of Soviet Socialist Republics,Moscow Does Not Believe in Tears,True,ETC
+5898,1980,1981,53,Michael Gore,Fame,True,ETC
+5900,1980,1981,53,Music by Michael Gore; Lyric by Dean Pitchford,Fame,True,ETC
+5907,1980,1981,53,"Ronald L. Schwary, Producer",Ordinary People,True,BEST PICTURE
+5911,1980,1981,53,"Ferenc Rofusz, Producer",The Fly,True,ETC
+5913,1980,1981,53,"Lloyd Phillips, Producer",The Dollar Bottom,True,ETC
+5918,1980,1981,53,"Bill Varney, Steve Maslow, Gregg Landaker, Peter Sutton",The Empire Strikes Back,True,ETC
+5924,1980,1981,53,Alvin Sargent,Ordinary People,True,WRITING
+5928,1980,1981,53,Bo Goldman,Melvin and Howard,True,WRITING
+5931,1980,1981,53,"Brian Johnson, Richard Edlund, Dennis Muren, Bruce Nicholson",The Empire Strikes Back,True,ETC
+5934,1981,1982,54,Henry Fonda,On Golden Pond,True,ACTOR
+5939,1981,1982,54,John Gielgud,Arthur,True,ACTOR SUPPORTING
+5943,1981,1982,54,Katharine Hepburn,On Golden Pond,True,ACTRESS
+5952,1981,1982,54,Maureen Stapleton,Reds,True,ACTRESS SUPPORTING
+5956,1981,1982,54,"Art Direction:  Norman Reynolds, Leslie Dilley;  Set Decoration:  Michael Ford",Raiders of the Lost Ark,True,ETC
+5962,1981,1982,54,Vittorio Storaro,Reds,True,CINEMATOGRAPHY
+5963,1981,1982,54,Milena Canonero,Chariots of Fire,True,ETC
+5972,1981,1982,54,Warren Beatty,Reds,True,DIRECTING
+5977,1981,1982,54,"Arnold Schwartzman and Rabbi Marvin Hier, Producers",Genocide,True,ETC
+5979,1981,1982,54,"Nigel Noble, Producer",Close Harmony,True,ETC
+5990,1981,1982,54,Hungary,Mephisto,True,ETC
+5993,1981,1982,54,Rick Baker,An American Werewolf in London,True,ETC
+5995,1981,1982,54,Vangelis,Chariots of Fire,True,ETC
+6000,1981,1982,54,"Music and Lyric by Burt Bacharach, Carole Bayer Sager, Christopher Cross and Peter Allen",Arthur,True,ETC
+6006,1981,1982,54,"David Puttnam, Producer",Chariots of Fire,True,BEST PICTURE
+6010,1981,1982,54,"Frédéric Back, Producer",Crac,True,ETC
+6015,1981,1982,54,"Paul Kemp and Shelley Levinson, Producers",Violet,True,ETC
+6019,1981,1982,54,"Bill Varney, Steve Maslow, Gregg Landaker, Roy Charman",Raiders of the Lost Ark,True,ETC
+6022,1981,1982,54,"Richard Edlund, Kit West, Bruce Nicholson, Joe Johnston",Raiders of the Lost Ark,True,ETC
+6024,1981,1982,54,Ernest Thompson,On Golden Pond,True,WRITING
+6031,1981,1982,54,Colin Welland,Chariots of Fire,True,WRITING
+6033,1981,1982,54,"Ben Burtt, Richard L. Anderson",Raiders of the Lost Ark,True,ETC
+6038,1982,1983,55,Ben Kingsley,Gandhi,True,ACTOR
+6043,1982,1983,55,"Louis Gossett, Jr.",An Officer and a Gentleman,True,ACTOR SUPPORTING
+6050,1982,1983,55,Meryl Streep,Sophie's Choice,True,ACTRESS
+6054,1982,1983,55,Jessica Lange,Tootsie,True,ACTRESS SUPPORTING
+6059,1982,1983,55,"Art Direction:  Stuart Craig, Bob Laing;  Set Decoration:  Michael Seirton",Gandhi,True,ETC
+6064,1982,1983,55,"Billy Williams, Ronnie Taylor",Gandhi,True,CINEMATOGRAPHY
+6067,1982,1983,55,"John Mollo, Bhanu Athaiya",Gandhi,True,ETC
+6074,1982,1983,55,Richard Attenborough,Gandhi,True,DIRECTING
+6080,1982,1983,55,"John Zaritsky, Producer",Just Another Missing Kid,True,ETC
+6083,1982,1983,55,"Edward Le Lorrain and Terri Nash, Producers",If You Love This Planet,True,ETC
+6096,1982,1983,55,Spain,Volver a Empezar ('To Begin Again'),True,ETC
+6098,1982,1983,55,"Sarah Monzani, Michèle Burke",Quest for Fire,True,ETC
+6099,1982,1983,55,John Williams,E.T. The Extra-Terrestrial,True,ETC
+6106,1982,1983,55,Song Score by Henry Mancini and Leslie Bricusse; Adaptation Score by Henry Mancini,Victor/Victoria,True,ETC
+6111,1982,1983,55,Music by Jack Nitzsche and Buffy Sainte-Marie; Lyric by Will Jennings,An Officer and a Gentleman,True,ETC
+6113,1982,1983,55,"Richard Attenborough, Producer",Gandhi,True,BEST PICTURE
+6119,1982,1983,55,"Zbigniew Rybczynski, Producer",Tango,True,ETC
+6121,1982,1983,55,"Christine Oestreicher, Producer",A Shocking Accident,True,ETC
+6126,1982,1983,55,"Robert Knudson, Robert Glass, Don Digirolamo, Gene Cantamessa",E.T. The Extra-Terrestrial,True,ETC
+6131,1982,1983,55,"Charles L. Campbell, Ben Burtt",E.T. The Extra-Terrestrial,True,ETC
+6134,1982,1983,55,"Carlo Rambaldi, Dennis Muren, Kenneth F. Smith",E.T. The Extra-Terrestrial,True,ETC
+6137,1982,1983,55,"Costa-Gavras, Donald Stewart",Missing,True,WRITING
+6143,1982,1983,55,John Briley,Gandhi,True,WRITING
+6151,1983,1984,56,Robert Duvall,Tender Mercies,True,ACTOR
+6155,1983,1984,56,Jack Nicholson,Terms of Endearment,True,ACTOR SUPPORTING
+6159,1983,1984,56,Shirley MacLaine,Terms of Endearment,True,ACTRESS
+6165,1983,1984,56,Linda Hunt,The Year of Living Dangerously,True,ACTRESS SUPPORTING
+6168,1983,1984,56,Anna Asp,Fanny & Alexander,True,ETC
+6173,1983,1984,56,Sven Nykvist,Fanny & Alexander,True,CINEMATOGRAPHY
+6179,1983,1984,56,Marik Vos,Fanny & Alexander,True,ETC
+6187,1983,1984,56,James L. Brooks,Terms of Endearment,True,DIRECTING
+6190,1983,1984,56,"Emile Ardolino, Producer",He Makes Me Feel Like Dancin',True,ETC
+6193,1983,1984,56,"Cynthia Scott and Adam Symansky, Producers",Flamenco at 5:15,True,ETC
+6205,1983,1984,56,Sweden,Fanny & Alexander,True,ETC
+6210,1983,1984,56,Bill Conti,The Right Stuff,True,ETC
+6215,1983,1984,56,"Song Score by Michel Legrand, Alan Bergman and Marilyn Bergman",Yentl,True,ETC
+6216,1983,1984,56,Music by Giorgio Moroder; Lyric by Keith Forsey and Irene Cara,Flashdance,True,ETC
+6225,1983,1984,56,"James L. Brooks, Producer",Terms of Endearment,True,BEST PICTURE
+6228,1983,1984,56,"Jimmy Picker, Producer",Sundae in New York,True,ETC
+6229,1983,1984,56,"Janice L. Platt, Producer",Boys and Girls,True,ETC
+6234,1983,1984,56,"Mark Berger, Tom Scott, Randy Thom, David MacMillan",The Right Stuff,True,ETC
+6238,1983,1984,56,Jay Boekelheide,The Right Stuff,True,ETC
+6243,1983,1984,56,James L. Brooks,Terms of Endearment,True,WRITING
+6247,1983,1984,56,Horton Foote,Tender Mercies,True,WRITING
+6249,1983,1984,56,"Richard Edlund, Dennis Muren, Ken Ralston, Phil Tippett",Return of the Jedi,True,ETC
+6252,1984,1985,57,F. Murray Abraham,Amadeus,True,ACTOR
+6260,1984,1985,57,Haing S. Ngor,The Killing Fields,True,ACTOR SUPPORTING
+6263,1984,1985,57,Sally Field,Places in the Heart,True,ACTRESS
+6267,1984,1985,57,Peggy Ashcroft,A Passage to India,True,ACTRESS SUPPORTING
+6272,1984,1985,57,Art Direction:  Patrizia Von Brandenstein;  Set Decoration:  Karel Cerny,Amadeus,True,ETC
+6278,1984,1985,57,Chris Menges,The Killing Fields,True,CINEMATOGRAPHY
+6282,1984,1985,57,Theodor Pistek,Amadeus,True,ETC
+6287,1984,1985,57,Milos Forman,Amadeus,True,DIRECTING
+6296,1984,1985,57,"Robert Epstein and Richard Schmiechen, Producers",The Times of Harvey Milk,True,ETC
+6301,1984,1985,57,"Marjorie Hunt and Paul Wagner, Producers",The Stone Carvers,True,ETC
+6309,1984,1985,57,Switzerland,Dangerous Moves,True,ETC
+6312,1984,1985,57,"Paul LeBlanc, Dick Smith",Amadeus,True,ETC
+6317,1984,1985,57,Maurice Jarre,A Passage to India,True,ETC
+6321,1984,1985,57,Prince,Purple Rain,True,ETC
+6326,1984,1985,57,Music and Lyric by Stevie Wonder,The Woman in Red,True,ETC
+6328,1984,1985,57,"Saul Zaentz, Producer",Amadeus,True,BEST PICTURE
+6333,1984,1985,57,"Jon Minnis, Producer",Charade,True,ETC
+6338,1984,1985,57,"Mike Hoover, Producer",Up,True,ETC
+6339,1984,1985,57,"Mark Berger, Tom Scott, Todd Boekelheide, Chris Newman",Amadeus,True,ETC
+6345,1984,1985,57,"Dennis Muren, Michael McAlister, Lorne Peterson, George Gibbs",Indiana Jones and the Temple of Doom,True,ETC
+6347,1984,1985,57,Peter Shaffer,Amadeus,True,WRITING
+6355,1984,1985,57,Robert Benton,Places in the Heart,True,WRITING
+6357,1984,1985,57,Kay Rose,The River,True,ETC
+6363,1985,1986,58,William Hurt,Kiss of the Spider Woman,True,ACTOR
+6366,1985,1986,58,Don Ameche,Cocoon,True,ACTOR SUPPORTING
+6374,1985,1986,58,Geraldine Page,The Trip to Bountiful,True,ACTRESS
+6377,1985,1986,58,Anjelica Huston,Prizzi's Honor,True,ACTRESS SUPPORTING
+6383,1985,1986,58,Art Direction:  Stephen Grimes;  Set Decoration:  Josie MacAvin,Out of Africa,True,ETC
+6388,1985,1986,58,David Watkin,Out of Africa,True,CINEMATOGRAPHY
+6395,1985,1986,58,Emi Wada,Ran,True,ETC
+6397,1985,1986,58,Sydney Pollack,Out of Africa,True,DIRECTING
+6401,1985,1986,58,"Maria Florio and Victoria Mudd, Producers",Broken Rainbow,True,ETC
+6409,1985,1986,58,"David Goodman, Producer",Witness to War: Dr. Charlie Clements,True,ETC
+6418,1985,1986,58,Argentina,The Official Story,True,ETC
+6422,1985,1986,58,"Michael Westmore, Zoltan Elek",Mask,True,ETC
+6426,1985,1986,58,John Barry,Out of Africa,True,ETC
+6431,1985,1986,58,Music and Lyric by Lionel Richie,White Nights,True,ETC
+6436,1985,1986,58,"Sydney Pollack, Producer",Out of Africa,True,BEST PICTURE
+6439,1985,1986,58,"Cilia Van Dijk, Producer",Anna & Bella,True,ETC
+6443,1985,1986,58,"Jeff Brown and Chris Pelzer, Producers",Molly's Pilgrim,True,ETC
+6448,1985,1986,58,"Chris Jenkins, Gary Alexander, Larry Stensvold, Peter Handford",Out of Africa,True,ETC
+6450,1985,1986,58,"Charles L. Campbell, Robert Rutledge",Back to the Future,True,ETC
+6453,1985,1986,58,"Ken Ralston, Ralph McQuarrie, Scott Farrar, David Berry",Cocoon,True,ETC
+6458,1985,1986,58,Kurt Luedtke,Out of Africa,True,WRITING
+6465,1985,1986,58,"Screenplay by Earl W. Wallace, William Kelley;  Story by William Kelley, Pamela Wallace, Earl W. Wallace",Witness,True,WRITING
+6472,1986,1987,59,Paul Newman,The Color of Money,True,ACTOR
+6475,1986,1987,59,Michael Caine,Hannah and Her Sisters,True,ACTOR SUPPORTING
+6480,1986,1987,59,Marlee Matlin,Children of a Lesser God,True,ACTRESS
+6488,1986,1987,59,Dianne Wiest,Hannah and Her Sisters,True,ACTRESS SUPPORTING
+6493,1986,1987,59,"Art Direction:  Gianni Quaranta, Brian Ackland-Snow;  Set Decoration:  Brian Savegar, Elio Altamura",A Room with a View,True,ETC
+6494,1986,1987,59,Chris Menges,The Mission,True,CINEMATOGRAPHY
+6503,1986,1987,59,"Jenny Beavan, John Bright",A Room with a View,True,ETC
+6507,1986,1987,59,Oliver Stone,Platoon,True,DIRECTING
+6509,1986,1987,59,"Brigitte Berman, Producer",Artie Shaw: Time Is All You've Got,True,ETC
+6511,1986,1987,59,"Joseph Feury and Milton Justice, Producers",Down and Out in America,True,ETC
+6518,1986,1987,59,"Vivienne Verdon-Roe, Producer","Women--for America, for the World",True,ETC
+6524,1986,1987,59,The Netherlands,The Assault,True,ETC
+6530,1986,1987,59,"Chris Walas, Stephan Dupuis",The Fly,True,ETC
+6535,1986,1987,59,Herbie Hancock,'Round Midnight,True,ETC
+6541,1986,1987,59,Music by Giorgio Moroder; Lyric by Tom Whitlock,Top Gun,True,ETC
+6545,1986,1987,59,"Arnold Kopelson, Producer",Platoon,True,BEST PICTURE
+6548,1986,1987,59,"Linda Van Tulden and Willem Thijssen, Producers",A Greek Tragedy,True,ETC
+6552,1986,1987,59,"Chuck Workman, Producer",Precious Images,True,ETC
+6555,1986,1987,59,"John K. Wilkinson, Richard Rogers, Charles 'Bud' Grenzbach,  Simon Kaye",Platoon,True,ETC
+6558,1986,1987,59,Don Sharpe,Aliens,True,ETC
+6561,1986,1987,59,"Robert Skotak, Stan Winston, John Richardson, Suzanne Benson",Aliens,True,ETC
+6567,1986,1987,59,Ruth Prawer Jhabvala,A Room with a View,True,WRITING
+6570,1986,1987,59,Woody Allen,Hannah and Her Sisters,True,WRITING
+6576,1987,1988,60,Michael Douglas,Wall Street,True,ACTOR
+6582,1987,1988,60,Sean Connery,The Untouchables,True,ACTOR SUPPORTING
+6586,1987,1988,60,Cher,Moonstruck,True,ACTRESS
+6593,1987,1988,60,Olympia Dukakis,Moonstruck,True,ACTRESS SUPPORTING
+6598,1987,1988,60,"Art Direction:  Ferdinando Scarfiotti;  Set Decoration:  Bruno Cesari, Osvaldo Desideri",The Last Emperor,True,ETC
+6604,1987,1988,60,Vittorio Storaro,The Last Emperor,True,CINEMATOGRAPHY
+6608,1987,1988,60,James Acheson,The Last Emperor,True,ETC
+6613,1987,1988,60,Bernardo Bertolucci,The Last Emperor,True,DIRECTING
+6620,1987,1988,60,"Aviva Slesin, Producer",The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table,True,ETC
+6625,1987,1988,60,"Sue Marx and Pamela Conn, Producers",Young at Heart,True,ETC
+6632,1987,1988,60,Denmark,Babette's Feast,True,ETC
+6637,1987,1988,60,Rick Baker,Harry and the Hendersons,True,ETC
+6640,1987,1988,60,"Ryuichi Sakamoto, David Byrne, Cong Su",The Last Emperor,True,ETC
+6644,1987,1988,60,"Music by Franke Previte, John DeNicola and Donald Markowitz; Lyric by Franke Previte",Dirty Dancing,True,ETC
+6651,1987,1988,60,"Jeremy Thomas, Producer",The Last Emperor,True,BEST PICTURE
+6654,1987,1988,60,"Frédéric Back, Producer",The Man Who Planted Trees,True,ETC
+6657,1987,1988,60,"Jonathan Sanger and Jana Sue Memel, Producers",Ray's Male Heterosexual Dance Hall,True,ETC
+6660,1987,1988,60,"Bill Rowe, Ivan Sharrock",The Last Emperor,True,ETC
+6664,1987,1988,60,"Dennis Muren, William George, Harley Jessup, Kenneth Smith",Innerspace,True,ETC
+6669,1987,1988,60,"Mark Peploe, Bernardo Bertolucci",The Last Emperor,True,WRITING
+6674,1987,1988,60,John Patrick Shanley,Moonstruck,True,WRITING
+6676,1987,1988,60,"Stephen Flick, John Pospisil",RoboCop,True,ETC
+6680,1988,1989,61,Dustin Hoffman,Rain Man,True,ACTOR
+6684,1988,1989,61,Kevin Kline,A Fish Called Wanda,True,ACTOR SUPPORTING
+6689,1988,1989,61,Jodie Foster,The Accused,True,ACTRESS
+6694,1988,1989,61,Geena Davis,The Accidental Tourist,True,ACTRESS SUPPORTING
+6699,1988,1989,61,Art Direction:  Stuart Craig;  Set Decoration:  Gerard James,Dangerous Liaisons,True,ETC
+6703,1988,1989,61,Peter Biziou,Mississippi Burning,True,CINEMATOGRAPHY
+6709,1988,1989,61,James Acheson,Dangerous Liaisons,True,ETC
+6716,1988,1989,61,Barry Levinson,Rain Man,True,DIRECTING
+6719,1988,1989,61,"Marcel Ophuls, Producer",Hotel Terminus: The Life and Times of Klaus Barbie,True,ETC
+6727,1988,1989,61,"William Guttentag and Malcolm Clarke, Producers",You Don't Have to Die,True,ETC
+6735,1988,1989,61,Denmark,Pelle the Conqueror,True,ETC
+6738,1988,1989,61,"Ve Neill, Steve La Porte, Robert Short",Beetlejuice,True,ETC
+6744,1988,1989,61,Dave Grusin,The Milagro Beanfield War,True,ETC
+6747,1988,1989,61,Music and Lyric by Carly Simon,Working Girl,True,ETC
+6752,1988,1989,61,"Mark Johnson, Producer",Rain Man,True,BEST PICTURE
+6756,1988,1989,61,"John Lasseter, William Reeves",Tin Toy,True,ETC
+6757,1988,1989,61,"Dean Parisot, Steven Wright",The Appointments of Dennis Jennings,True,ETC
+6760,1988,1989,61,"Les Fresholtz, Dick Alexander, Vern Poore, Willie D. Burton",Bird,True,ETC
+6766,1988,1989,61,"Charles L. Campbell, Louis L. Edemann",Who Framed Roger Rabbit,True,ETC
+6769,1988,1989,61,"Ken Ralston, Richard Williams, Edward Jones, George Gibbs",Who Framed Roger Rabbit,True,ETC
+6772,1988,1989,61,Christopher Hampton,Dangerous Liaisons,True,WRITING
+6779,1988,1989,61,"Screenplay by Ronald Bass, Barry Morrow;  Story by Barry Morrow",Rain Man,True,WRITING
+6786,1989,1990,62,Daniel Day Lewis,My Left Foot,True,ACTOR
+6793,1989,1990,62,Denzel Washington,Glory,True,ACTOR SUPPORTING
+6798,1989,1990,62,Jessica Tandy,Driving Miss Daisy,True,ACTRESS
+6799,1989,1990,62,Brenda Fricker,My Left Foot,True,ACTRESS SUPPORTING
+6806,1989,1990,62,Art Direction:  Anton Furst;  Set Decoration:  Peter Young,Batman,True,ETC
+6813,1989,1990,62,Freddie Francis,Glory,True,CINEMATOGRAPHY
+6817,1989,1990,62,Phyllis Dalton,Henry V,True,ETC
+6819,1989,1990,62,Oliver Stone,Born on the Fourth of July,True,DIRECTING
+6825,1989,1990,62,"Robert Epstein and Bill Couturié, Producers",Common Threads: Stories from the Quilt,True,ETC
+6830,1989,1990,62,"Charles Guggenheim, Producer",The Johnstown Flood,True,ETC
+6838,1989,1990,62,Italy,Cinema Paradiso,True,ETC
+6844,1989,1990,62,"Manlio Rocchetti, Lynn Barber, Kevin Haney",Driving Miss Daisy,True,ETC
+6849,1989,1990,62,Alan Menken,The Little Mermaid,True,ETC
+6854,1989,1990,62,Music by Alan Menken; Lyric by Howard Ashman,The Little Mermaid,True,ETC
+6857,1989,1990,62,"Richard D. Zanuck and Lili Fini Zanuck, Producers",Driving Miss Daisy,True,BEST PICTURE
+6860,1989,1990,62,"Christoph Lauenstein, Wolfgang Lauenstein",Balance,True,ETC
+6865,1989,1990,62,James Hendrie,Work Experience,True,ETC
+6869,1989,1990,62,"Donald O. Mitchell, Gregg C. Rudloff, Elliot Tyson, Russell Williams II",Glory,True,ETC
+6872,1989,1990,62,"Ben Burtt, Richard Hymns",Indiana Jones and the Last Crusade,True,ETC
+6874,1989,1990,62,"John Bruno, Dennis Muren, Hoyt Yeatman, Dennis Skotak",The Abyss,True,ETC
+6878,1989,1990,62,Alfred Uhry,Driving Miss Daisy,True,WRITING
+6883,1989,1990,62,Tom Schulman,Dead Poets Society,True,WRITING
+6893,1990,1991,63,Jeremy Irons,Reversal of Fortune,True,ACTOR
+6898,1990,1991,63,Joe Pesci,Good Fellas,True,ACTOR SUPPORTING
+6899,1990,1991,63,Kathy Bates,Misery,True,ACTRESS
+6906,1990,1991,63,Whoopi Goldberg,Ghost,True,ACTRESS SUPPORTING
+6911,1990,1991,63,Art Direction:  Richard Sylbert;  Set Decoration:  Rick Simpson,Dick Tracy,True,ETC
+6915,1990,1991,63,Dean Semler,Dances With Wolves,True,CINEMATOGRAPHY
+6920,1990,1991,63,Franca Squarciapino,Cyrano de Bergerac,True,ETC
+6924,1990,1991,63,Kevin Costner,Dances With Wolves,True,DIRECTING
+6929,1990,1991,63,"Barbara Kopple and Arthur Cohn, Producers",American Dream,True,ETC
+6936,1990,1991,63,"Steven Okazaki, Producer",Days of Waiting,True,ETC
+6945,1990,1991,63,Switzerland,Journey of Hope,True,ETC
+6950,1990,1991,63,"John Caglione, Jr., Doug Drexler",Dick Tracy,True,ETC
+6953,1990,1991,63,John Barry,Dances With Wolves,True,ETC
+6961,1990,1991,63,Music and Lyric by Stephen Sondheim,Dick Tracy,True,ETC
+6963,1990,1991,63,"Jim Wilson and Kevin Costner, Producers",Dances With Wolves,True,BEST PICTURE
+6967,1990,1991,63,Nick Park,Creature Comforts,True,ETC
+6972,1990,1991,63,Adam Davidson,The Lunch Date,True,ETC
+6975,1990,1991,63,"Jeffrey Perkins, Bill W. Benton, Greg Watkins, Russell Williams II",Dances With Wolves,True,ETC
+6981,1990,1991,63,"Cecelia Hall, George Watters II",The Hunt for Red October,True,ETC
+6984,1990,1991,63,Michael Blake,Dances With Wolves,True,WRITING
+6990,1990,1991,63,Bruce Joel Rubin,Ghost,True,WRITING
+6993,1990,1991,63,"Eric Brevig, Rob Bottin, Tim McGovern, Alex Funke",Total Recall,True,ETC
+6999,1991,1992,64,Anthony Hopkins,The Silence of the Lambs,True,ACTOR
+7006,1991,1992,64,Jack Palance,City Slickers,True,ACTOR SUPPORTING
+7009,1991,1992,64,Jodie Foster,The Silence of the Lambs,True,ACTRESS
+7015,1991,1992,64,Mercedes Ruehl,The Fisher King,True,ACTRESS SUPPORTING
+7018,1991,1992,64,Art Direction:  Dennis Gassner;  Set Decoration:  Nancy Haigh,Bugsy,True,ETC
+7023,1991,1992,64,Robert Richardson,JFK,True,CINEMATOGRAPHY
+7029,1991,1992,64,Albert Wolsky,Bugsy,True,ETC
+7035,1991,1992,64,Jonathan Demme,The Silence of the Lambs,True,DIRECTING
+7039,1991,1992,64,"Allie Light and Irving Saraf, Producers",In the Shadow of the Stars,True,ETC
+7043,1991,1992,64,"Debra Chasnoff, Producer","Deadly Deception: General Electric, Nuclear Weapons and Our Environment",True,ETC
+7054,1991,1992,64,Italy,Mediterraneo,True,ETC
+7059,1991,1992,64,"Stan Winston, Jeff Dawn",Terminator 2: Judgment Day,True,ETC
+7060,1991,1992,64,Alan Menken,Beauty and the Beast,True,ETC
+7067,1991,1992,64,Music by Alan Menken; Lyric by Howard Ashman,Beauty and the Beast,True,ETC
+7074,1991,1992,64,"Edward Saxon, Kenneth Utt and Ron Bozman, Producers",The Silence of the Lambs,True,BEST PICTURE
+7076,1991,1992,64,Daniel Greaves,Manipulation,True,ETC
+7080,1991,1992,64,"Seth Winston, Rob Fried",Session Man,True,ETC
+7085,1991,1992,64,"Tom Johnson, Gary Rydstrom, Gary Summers, Lee Orloff",Terminator 2: Judgment Day,True,ETC
+7088,1991,1992,64,"Gary Rydstrom, Gloria S. Borders",Terminator 2: Judgment Day,True,ETC
+7091,1991,1992,64,"Dennis Muren, Stan Winston, Gene Warren, Jr., Robert Skotak",Terminator 2: Judgment Day,True,ETC
+7096,1991,1992,64,Ted Tally,The Silence of the Lambs,True,WRITING
+7101,1991,1992,64,Callie Khouri,Thelma & Louise,True,WRITING
+7106,1992,1993,65,Al Pacino,Scent of a Woman,True,ACTOR
+7110,1992,1993,65,Gene Hackman,Unforgiven,True,ACTOR SUPPORTING
+7118,1992,1993,65,Emma Thompson,Howards End,True,ACTRESS
+7123,1992,1993,65,Marisa Tomei,My Cousin Vinny,True,ACTRESS SUPPORTING
+7126,1992,1993,65,Art Direction:  Luciana Arrighi;  Set Decoration:  Ian Whittaker,Howards End,True,ETC
+7132,1992,1993,65,Philippe Rousselot,A River Runs through It,True,CINEMATOGRAPHY
+7134,1992,1993,65,Eiko Ishioka,Bram Stoker's Dracula,True,ETC
+7143,1992,1993,65,Clint Eastwood,Unforgiven,True,DIRECTING
+7148,1992,1993,65,"Barbara Trent and David Kasper, Producers",The Panama Deception,True,ETC
+7152,1992,1993,65,"Thomas C. Goodwin and Gerardine Wurzburg, Producers",Educating Peter,True,ETC
+7161,1992,1993,65,France,Indochine,True,ETC
+7165,1992,1993,65,"Greg Cannom, Michèle Burke, Matthew W. Mungle",Bram Stoker's Dracula,True,ETC
+7167,1992,1993,65,Alan Menken,Aladdin,True,ETC
+7176,1992,1993,65,Music by Alan Menken; Lyric by Tim Rice,Aladdin,True,ETC
+7181,1992,1993,65,"Clint Eastwood, Producer",Unforgiven,True,BEST PICTURE
+7183,1992,1993,65,Joan C. Gratz,Mona Lisa Descending a Staircase,True,ETC
+7190,1992,1993,65,Sam Karmann,Omnibus,True,ETC
+7194,1992,1993,65,"Chris Jenkins, Doug Hemphill, Mark Smith, Simon Kaye",The Last of the Mohicans,True,ETC
+7198,1992,1993,65,"Tom C. McCarthy, David E. Stone",Bram Stoker's Dracula,True,ETC
+7202,1992,1993,65,"Ken Ralston, Doug Chiang, Doug Smythe, Tom Woodruff, Jr.",Death Becomes Her,True,ETC
+7204,1992,1993,65,Ruth Prawer Jhabvala,Howards End,True,WRITING
+7208,1992,1993,65,Neil Jordan,The Crying Game,True,WRITING
+7218,1993,1994,66,Tom Hanks,Philadelphia,True,ACTOR
+7223,1993,1994,66,Tommy Lee Jones,The Fugitive,True,ACTOR SUPPORTING
+7228,1993,1994,66,Holly Hunter,The Piano,True,ACTRESS
+7232,1993,1994,66,Anna Paquin,The Piano,True,ACTRESS SUPPORTING
+7240,1993,1994,66,Art Direction:  Allan Starski;  Set Decoration:  Ewa Braun,Schindler's List,True,ETC
+7244,1993,1994,66,Janusz Kaminski,Schindler's List,True,CINEMATOGRAPHY
+7246,1993,1994,66,Gabriella Pescucci,The Age of Innocence,True,ETC
+7254,1993,1994,66,Steven Spielberg,Schindler's List,True,DIRECTING
+7259,1993,1994,66,"Susan Raymond, Alan Raymond",I Am a Promise: The Children of Stanton Elementary School,True,ETC
+7263,1993,1994,66,"Margaret Lazarus, Renner Wunderlich",Defending Our Lives,True,ETC
+7269,1993,1994,66,Spain,Belle Epoque,True,ETC
+7274,1993,1994,66,"Greg Cannom, Ve Neill, Yolanda Toussieng",Mrs. Doubtfire,True,ETC
+7281,1993,1994,66,John Williams,Schindler's List,True,ETC
+7285,1993,1994,66,Music and Lyric by Bruce Springsteen,Philadelphia,True,ETC
+7291,1993,1994,66,"Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers",Schindler's List,True,BEST PICTURE
+7296,1993,1994,66,Nick Park,The Wrong Trousers,True,ETC
+7297,1993,1994,66,Pepe Danquart,Black Rider (Schwarzfahrer),True,ETC
+7305,1993,1994,66,"Gary Summers, Gary Rydstrom, Shawn Murphy, Ron Judkins",Jurassic Park,True,ETC
+7309,1993,1994,66,"Gary Rydstrom, Richard Hymns",Jurassic Park,True,ETC
+7311,1993,1994,66,"Dennis Muren, Stan Winston, Phil Tippett, Michael Lantieri",Jurassic Park,True,ETC
+7316,1993,1994,66,Steven Zaillian,Schindler's List,True,WRITING
+7321,1993,1994,66,Jane Campion,The Piano,True,WRITING
+7326,1994,1995,67,Tom Hanks,Forrest Gump,True,ACTOR
+7331,1994,1995,67,Martin Landau,Ed Wood,True,ACTOR SUPPORTING
+7336,1994,1995,67,Jessica Lange,Blue Sky,True,ACTRESS
+7344,1994,1995,67,Dianne Wiest,Bullets over Broadway,True,ACTRESS SUPPORTING
+7349,1994,1995,67,Art Direction:  Ken Adam;  Set Decoration:  Carolyn Scott,The Madness of King George,True,ETC
+7351,1994,1995,67,John Toll,Legends of the Fall,True,CINEMATOGRAPHY
+7355,1994,1995,67,"Lizzy Gardiner, Tim Chappel","The Adventures of Priscilla, Queen of the Desert",True,ETC
+7361,1994,1995,67,Robert Zemeckis,Forrest Gump,True,DIRECTING
+7369,1994,1995,67,"Freida Lee Mock, Terry Sanders",Maya Lin: A Strong Clear Vision,True,ETC
+7374,1994,1995,67,Charles Guggenheim,A Time for Justice,True,ETC
+7381,1994,1995,67,Russia,Burnt by the Sun,True,ETC
+7385,1994,1995,67,"Rick Baker, Ve Neill, Yolanda Toussieng",Ed Wood,True,ETC
+7390,1994,1995,67,Hans Zimmer,The Lion King,True,ETC
+7393,1994,1995,67,Music by Elton John; Lyric by Tim Rice,The Lion King,True,ETC
+7398,1994,1995,67,"Wendy Finerman, Steve Tisch and Steve Starkey, Producers",Forrest Gump,True,BEST PICTURE
+7404,1994,1995,67,"Alison Snowden, David Fine",Bob's Birthday,True,ETC
+7408,1994,1995,67,"Peter Capaldi, Ruth Kenley-Letts",Franz Kafka's It's a Wonderful Life,True,ETC
+7412,1994,1995,67,"Peggy Rajski, Randy Stone",Trevor,True,ETC
+7417,1994,1995,67,"Gregg Landaker, Steve Maslow, Bob Beemer, David R. B. MacMillan",Speed,True,ETC
+7420,1994,1995,67,Stephen Hunter Flick,Speed,True,ETC
+7421,1994,1995,67,"Ken Ralston, George Murphy, Stephen Rosenbaum, Allen Hall",Forrest Gump,True,ETC
+7424,1994,1995,67,Eric Roth,Forrest Gump,True,WRITING
+7432,1994,1995,67,Screenplay by Quentin Tarantino;  Stories by Quentin Tarantino & Roger Avary,Pulp Fiction,True,WRITING
+7437,1995,1996,68,Nicolas Cage,Leaving Las Vegas,True,ACTOR
+7446,1995,1996,68,Kevin Spacey,The Usual Suspects,True,ACTOR SUPPORTING
+7447,1995,1996,68,Susan Sarandon,Dead Man Walking,True,ACTRESS
+7454,1995,1996,68,Mira Sorvino,Mighty Aphrodite,True,ACTRESS SUPPORTING
+7460,1995,1996,68,Eugenio Zanetti,Restoration,True,ETC
+7463,1995,1996,68,John Toll,Braveheart,True,CINEMATOGRAPHY
+7468,1995,1996,68,James Acheson,Restoration,True,ETC
+7473,1995,1996,68,Mel Gibson,Braveheart,True,DIRECTING
+7477,1995,1996,68,Jon Blair,Anne Frank Remembered,True,ETC
+7485,1995,1996,68,Kary Antholis,One Survivor Remembers,True,ETC
+7493,1995,1996,68,The Netherlands,Antonia's Line,True,ETC
+7497,1995,1996,68,"Peter Frampton, Paul Pattison, Lois Burwell",Braveheart,True,ETC
+7503,1995,1996,68,Luis Enrique Bacalov,The Postman (Il Postino),True,ETC
+7506,1995,1996,68,Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken,Pocahontas,True,ETC
+7510,1995,1996,68,Music by Alan Menken; Lyric by Stephen Schwartz,Pocahontas,True,ETC
+7517,1995,1996,68,"Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers",Braveheart,True,BEST PICTURE
+7521,1995,1996,68,Nick Park,A Close Shave,True,ETC
+7527,1995,1996,68,"Christine Lahti, Jana Sue Memel",Lieberman in Love,True,ETC
+7530,1995,1996,68,"Rick Dior, Steve Pederson, Scott Millan, David MacMillan",Apollo 13,True,ETC
+7536,1995,1996,68,"Lon Bender, Per Hallberg",Braveheart,True,ETC
+7539,1995,1996,68,"Scott E. Anderson, Charles Gibson, Neal Scanlan, John Cox",Babe,True,ETC
+7544,1995,1996,68,Emma Thompson,Sense and Sensibility,True,WRITING
+7549,1995,1996,68,Christopher McQuarrie,The Usual Suspects,True,WRITING
+7556,1996,1997,69,Geoffrey Rush,Shine,True,ACTOR
+7558,1996,1997,69,"Cuba Gooding, Jr.",Jerry Maguire,True,ACTOR SUPPORTING
+7565,1996,1997,69,Frances McDormand,Fargo,True,ACTRESS
+7570,1996,1997,69,Juliette Binoche,The English Patient,True,ACTRESS SUPPORTING
+7574,1996,1997,69,Art Direction:  Stuart Craig;  Set Decoration:  Stephenie McMillan,The English Patient,True,ETC
+7578,1996,1997,69,John Seale,The English Patient,True,CINEMATOGRAPHY
+7585,1996,1997,69,Ann Roth,The English Patient,True,ETC
+7588,1996,1997,69,Anthony Minghella,The English Patient,True,DIRECTING
+7597,1996,1997,69,"Leon Gast, David Sonenberg",When We Were Kings,True,ETC
+7598,1996,1997,69,Jessica Yu,Breathing Lessons: The Life and Work of Mark O'Brien,True,ETC
+7609,1996,1997,69,Czech Republic,Kolya,True,ETC
+7614,1996,1997,69,"Rick Baker, David LeRoy Anderson",The Nutty Professor,True,ETC
+7616,1996,1997,69,Gabriel Yared,The English Patient,True,ETC
+7621,1996,1997,69,Rachel Portman,Emma,True,ETC
+7630,1996,1997,69,Music by Andrew Lloyd Webber; Lyric by Tim Rice,Evita,True,ETC
+7631,1996,1997,69,"Saul Zaentz, Producer",The English Patient,True,BEST PICTURE
+7638,1996,1997,69,"Tyron Montgomery, Thomas Stellmach",Quest,True,ETC
+7641,1996,1997,69,"David Frankel, Barry Jossen",Dear Diary,True,ETC
+7645,1996,1997,69,"Walter Murch, Mark Berger, David Parker, Chris Newman",The English Patient,True,ETC
+7652,1996,1997,69,Bruce Stambler,The Ghost and the Darkness,True,ETC
+7654,1996,1997,69,"Volker Engel, Douglas Smith, Clay Pinney, Joseph Viskocil",Independence Day,True,ETC
+7659,1996,1997,69,Billy Bob Thornton,Sling Blade,True,WRITING
+7661,1996,1997,69,"Ethan Coen, Joel Coen",Fargo,True,WRITING
+7672,1997,1998,70,Jack Nicholson,As Good as It Gets,True,ACTOR
+7677,1997,1998,70,Robin Williams,Good Will Hunting,True,ACTOR SUPPORTING
+7681,1997,1998,70,Helen Hunt,As Good as It Gets,True,ACTRESS
+7683,1997,1998,70,Kim Basinger,L.A. Confidential,True,ACTRESS SUPPORTING
+7692,1997,1998,70,Art Direction:  Peter Lamont;  Set Decoration:  Michael Ford,Titanic,True,ETC
+7696,1997,1998,70,Russell Carpenter,Titanic,True,CINEMATOGRAPHY
+7701,1997,1998,70,Deborah L. Scott,Titanic,True,ETC
+7707,1997,1998,70,James Cameron,Titanic,True,DIRECTING
+7711,1997,1998,70,"Rabbi Marvin Hier, Richard Trank",The Long Way Home,True,ETC
+7717,1997,1998,70,"Donna Dewey, Carol Pasternak",A Story of Healing,True,ETC
+7724,1997,1998,70,The Netherlands,Character,True,ETC
+7728,1997,1998,70,"Rick Baker, David LeRoy Anderson",Men in Black,True,ETC
+7735,1997,1998,70,James Horner,Titanic,True,ETC
+7738,1997,1998,70,Anne Dudley,The Full Monty,True,ETC
+7745,1997,1998,70,Music by James Horner; Lyric by Will Jennings,Titanic,True,ETC
+7750,1997,1998,70,"James Cameron and Jon Landau, Producers",Titanic,True,BEST PICTURE
+7752,1997,1998,70,Jan Pinkava,Geri's Game,True,ETC
+7759,1997,1998,70,"Chris Tashima, Chris Donahue",Visas and Virtue,True,ETC
+7765,1997,1998,70,"Gary Rydstrom, Tom Johnson, Gary Summers, Mark Ulano",Titanic,True,ETC
+7768,1997,1998,70,"Tom Bellfort, Christopher Boyes",Titanic,True,ETC
+7771,1997,1998,70,"Robert Legato, Mark Lasoff, Thomas L. Fisher, Michael Kanfer",Titanic,True,ETC
+7773,1997,1998,70,"Brian Helgeland, Curtis Hanson",L.A. Confidential,True,WRITING
+7781,1997,1998,70,"Ben Affleck, Matt Damon",Good Will Hunting,True,WRITING
+7783,1998,1999,71,Roberto Benigni,Life Is Beautiful,True,ACTOR
+7788,1998,1999,71,James Coburn,Affliction,True,ACTOR SUPPORTING
+7795,1998,1999,71,Gwyneth Paltrow,Shakespeare in Love,True,ACTRESS
+7800,1998,1999,71,Judi Dench,Shakespeare in Love,True,ACTRESS SUPPORTING
+7806,1998,1999,71,Art Direction:  Martin Childs;  Set Decoration:  Jill Quertier,Shakespeare in Love,True,ETC
+7810,1998,1999,71,Janusz Kaminski,Saving Private Ryan,True,CINEMATOGRAPHY
+7816,1998,1999,71,Sandy Powell,Shakespeare in Love,True,ETC
+7819,1998,1999,71,Steven Spielberg,Saving Private Ryan,True,DIRECTING
+7825,1998,1999,71,"James Moll, Ken Lipper",The Last Days,True,ETC
+7828,1998,1999,71,Keiko Ibi,The Personals: Improvisations on Romance in the Golden Years,True,ETC
+7839,1998,1999,71,Italy,Life Is Beautiful,True,ETC
+7841,1998,1999,71,Jenny Shircore,Elizabeth,True,ETC
+7845,1998,1999,71,Nicola Piovani,Life Is Beautiful,True,ETC
+7853,1998,1999,71,Stephen Warbeck,Shakespeare in Love,True,ETC
+7858,1998,1999,71,Music and Lyric by Stephen Schwartz,The Prince of Egypt,True,ETC
+7862,1998,1999,71,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman, Producers",Shakespeare in Love,True,BEST PICTURE
+7864,1998,1999,71,Chris Wedge,Bunny,True,ETC
+7870,1998,1999,71,"Kim Magnusson, Anders Thomas Jensen",Election Night (Valgaften),True,ETC
+7876,1998,1999,71,"Gary Rydstrom, Gary Summers, Andy Nelson, Ronald Judkins",Saving Private Ryan,True,ETC
+7881,1998,1999,71,"Gary Rydstrom, Richard Hymns",Saving Private Ryan,True,ETC
+7884,1998,1999,71,"Joel Hynek, Nicholas Brooks, Stuart Robertson, Kevin Mack",What Dreams May Come,True,ETC
+7885,1998,1999,71,Bill Condon,Gods and Monsters,True,WRITING
+7893,1998,1999,71,"Marc Norman, Tom Stoppard",Shakespeare in Love,True,WRITING
+7900,1999,2000,72,Kevin Spacey,American Beauty,True,ACTOR
+7902,1999,2000,72,Michael Caine,The Cider House Rules,True,ACTOR SUPPORTING
+7911,1999,2000,72,Hilary Swank,Boys Don't Cry,True,ACTRESS
+7913,1999,2000,72,Angelina Jolie,"Girl, Interrupted",True,ACTRESS SUPPORTING
+7919,1999,2000,72,Art Direction:  Rick Heinrichs;  Set Decoration:  Peter Young,Sleepy Hollow,True,ETC
+7922,1999,2000,72,Conrad L. Hall,American Beauty,True,CINEMATOGRAPHY
+7931,1999,2000,72,Lindy Hemming,Topsy-Turvy,True,ETC
+7932,1999,2000,72,Sam Mendes,American Beauty,True,DIRECTING
+7940,1999,2000,72,"Arthur Cohn, Kevin Macdonald",One Day in September,True,ETC
+7943,1999,2000,72,"Susan Hannah Hadary, William A. Whiteford",King Gimp,True,ETC
+7950,1999,2000,72,Spain,All about My Mother,True,ETC
+7958,1999,2000,72,"Christine Blundell, Trefor Proud",Topsy-Turvy,True,ETC
+7962,1999,2000,72,John Corigliano,The Red Violin,True,ETC
+7968,1999,2000,72,Music and Lyric by Phil Collins,Tarzan,True,ETC
+7969,1999,2000,72,"Bruce Cohen and Dan Jinks, Producers",American Beauty,True,BEST PICTURE
+7976,1999,2000,72,Alexander Petrov,The Old Man and the Sea,True,ETC
+7983,1999,2000,72,"Barbara Schock, Tammy Tiehel",My Mother Dreams the Satan's Disciples in New York,True,ETC
+7986,1999,2000,72,"John Reitz, Gregg Rudloff, David Campbell, David Lee",The Matrix,True,ETC
+7990,1999,2000,72,Dane A. Davis,The Matrix,True,ETC
+7992,1999,2000,72,"John Gaeta, Janek Sirrs, Steve Courtley, Jon Thum",The Matrix,True,ETC
+7995,1999,2000,72,John Irving,The Cider House Rules,True,WRITING
+8000,1999,2000,72,Alan Ball,American Beauty,True,WRITING
+8008,2000,2001,73,Russell Crowe,Gladiator,True,ACTOR
+8014,2000,2001,73,Benicio Del Toro,Traffic,True,ACTOR SUPPORTING
+8021,2000,2001,73,Julia Roberts,Erin Brockovich,True,ACTRESS
+8023,2000,2001,73,Marcia Gay Harden,Pollock,True,ACTRESS SUPPORTING
+8027,2000,2001,73,Tim Yip,"Crouching Tiger, Hidden Dragon",True,ETC
+8032,2000,2001,73,Peter Pau,"Crouching Tiger, Hidden Dragon",True,CINEMATOGRAPHY
+8039,2000,2001,73,Janty Yates,Gladiator,True,ETC
+8046,2000,2001,73,Steven Soderbergh,Traffic,True,DIRECTING
+8047,2000,2001,73,"Mark Jonathan Harris, Deborah Oppenheimer",Into the Arms of Strangers: Stories of the Kindertransport,True,ETC
+8052,2000,2001,73,Tracy Seretean,Big Mama,True,ETC
+8063,2000,2001,73,Taiwan,"Crouching Tiger, Hidden Dragon",True,ETC
+8068,2000,2001,73,"Rick Baker, Gail Ryan",Dr. Seuss' How the Grinch Stole Christmas,True,ETC
+8071,2000,2001,73,Tan Dun,"Crouching Tiger, Hidden Dragon",True,ETC
+8079,2000,2001,73,Music and Lyric by Bob Dylan,Wonder Boys,True,ETC
+8083,2000,2001,73,"Douglas Wick, David Franzoni and Branko Lustig, Producers",Gladiator,True,BEST PICTURE
+8085,2000,2001,73,Michael Dudok de Wit,Father and Daughter,True,ETC
+8090,2000,2001,73,Florian Gallenberger,Quiero Ser (I want to be...),True,ETC
+8094,2000,2001,73,"Scott Millan, Bob Beemer, Ken Weston",Gladiator,True,ETC
+8099,2000,2001,73,Jon Johnson,U-571,True,ETC
+8100,2000,2001,73,"John Nelson, Neil Corbould, Tim Burke, Rob Harvey",Gladiator,True,ETC
+8106,2000,2001,73,Screenplay by Stephen Gaghan,Traffic,True,WRITING
+8108,2000,2001,73,Written by Cameron Crowe,Almost Famous,True,WRITING
+8119,2001,2002,74,Denzel Washington,Training Day,True,ACTOR
+8121,2001,2002,74,Jim Broadbent,Iris,True,ACTOR SUPPORTING
+8126,2001,2002,74,Halle Berry,Monster's Ball,True,ACTRESS
+8131,2001,2002,74,Jennifer Connelly,A Beautiful Mind,True,ACTRESS SUPPORTING
+8138,2001,2002,74,Aron Warner,Shrek,True,ETC
+8143,2001,2002,74,Art Direction:  Catherine Martin; Set Decoration:  Brigitte Broch,Moulin Rouge,True,ETC
+8146,2001,2002,74,Andrew Lesnie,The Lord of the Rings: The Fellowship of the Ring,True,CINEMATOGRAPHY
+8153,2001,2002,74,"Catherine Martin, Angus Strathie",Moulin Rouge,True,ETC
+8154,2001,2002,74,Ron Howard,A Beautiful Mind,True,DIRECTING
+8161,2001,2002,74,"Jean-Xavier de Lestrade, Denis Poncet",Murder on a Sunday Morning,True,ETC
+8166,2001,2002,74,"Sarah Kernochan, Lynn Appelle",Thoth,True,ETC
+8175,2001,2002,74,Bosnia & Herzegovina,No Man's Land,True,ETC
+8178,2001,2002,74,"Peter Owen, Richard Taylor",The Lord of the Rings: The Fellowship of the Ring,True,ETC
+8183,2001,2002,74,Howard Shore,The Lord of the Rings: The Fellowship of the Ring,True,ETC
+8185,2001,2002,74,Music and Lyric by Randy Newman,"Monsters, Inc.",True,ETC
+8190,2001,2002,74,"Brian Grazer and Ron Howard, Producers",A Beautiful Mind,True,BEST PICTURE
+8196,2001,2002,74,Ralph Eggleston,For the Birds,True,ETC
+8200,2001,2002,74,"Ray McKinnon, Lisa Blount",the accountant,True,ETC
+8206,2001,2002,74,"Michael Minkler, Myron Nettinga, Chris Munro",Black Hawk Down,True,ETC
+8211,2001,2002,74,"George Watters II, Christopher Boyes",Pearl Harbor,True,ETC
+8213,2001,2002,74,"Jim Rygiel, Randall William Cook, Richard Taylor, Mark Stetson",The Lord of the Rings: The Fellowship of the Ring,True,ETC
+8215,2001,2002,74,Written by Akiva Goldsman,A Beautiful Mind,True,WRITING
+8221,2001,2002,74,Written by Julian Fellowes,Gosford Park,True,WRITING
+8228,2002,2003,75,Adrien Brody,The Pianist,True,ACTOR
+8233,2002,2003,75,Chris Cooper,Adaptation,True,ACTOR SUPPORTING
+8239,2002,2003,75,Nicole Kidman,The Hours,True,ACTRESS
+8247,2002,2003,75,Catherine Zeta-Jones,Chicago,True,ACTRESS SUPPORTING
+8251,2002,2003,75,Hayao Miyazaki,Spirited Away,True,ETC
+8253,2002,2003,75,Art Direction:  John Myhre; Set Decoration:  Gordon Sim,Chicago,True,ETC
+8262,2002,2003,75,Conrad L. Hall,Road to Perdition,True,CINEMATOGRAPHY
+8263,2002,2003,75,Colleen Atwood,Chicago,True,ETC
+8271,2002,2003,75,Roman Polanski,The Pianist,True,DIRECTING
+8273,2002,2003,75,"Michael Moore, Michael Donovan",Bowling for Columbine,True,ETC
+8280,2002,2003,75,"Bill Guttentag, Robert David Port",Twin Towers,True,ETC
+8290,2002,2003,75,Germany,Nowhere in Africa,True,ETC
+8292,2002,2003,75,"John Jackson, Beatrice De Alba",Frida,True,ETC
+8296,2002,2003,75,Elliot Goldenthal,Frida,True,ETC
+8303,2002,2003,75,"Music by Eminem, Jeff Bass and Luis Resto; Lyric by Eminem",8 Mile,True,ETC
+8304,2002,2003,75,"Martin Richards, Producer",Chicago,True,BEST PICTURE
+8310,2002,2003,75,Eric Armstrong,The ChubbChubbs!,True,ETC
+8318,2002,2003,75,"Martin Strange-Hansen, Mie Andreasen",This Charming Man (Der Er En Yndig Mand),True,ETC
+8319,2002,2003,75,"Michael Minkler, Dominick Tavella, David Lee",Chicago,True,ETC
+8324,2002,2003,75,"Ethan Van der Ryn, Michael Hopkins",The Lord of the Rings: The Two Towers,True,ETC
+8327,2002,2003,75,"Jim Rygiel, Joe Letteri, Randall William Cook, Alex Funke",The Lord of the Rings: The Two Towers,True,ETC
+8334,2002,2003,75,Screenplay by Ronald Harwood,The Pianist,True,WRITING
+8338,2002,2003,75,Written by Pedro Almodóvar,Talk to Her,True,WRITING
+8345,2003,2004,76,Sean Penn,Mystic River,True,ACTOR
+8349,2003,2004,76,Tim Robbins,Mystic River,True,ACTOR SUPPORTING
+8354,2003,2004,76,Charlize Theron,Monster,True,ACTRESS
+8360,2003,2004,76,Renée Zellweger,Cold Mountain,True,ACTRESS SUPPORTING
+8362,2003,2004,76,Andrew Stanton,Finding Nemo,True,ETC
+8366,2003,2004,76,Art Direction: Grant Major; Set Decoration: Dan Hennah and Alan Lee,The Lord of the Rings: The Return of the King,True,ETC
+8372,2003,2004,76,Russell Boyd,Master and Commander: The Far Side of the World,True,CINEMATOGRAPHY
+8376,2003,2004,76,Ngila Dickson and Richard Taylor,The Lord of the Rings: The Return of the King,True,ETC
+8380,2003,2004,76,Peter Jackson,The Lord of the Rings: The Return of the King,True,DIRECTING
+8386,2003,2004,76,Errol Morris and Michael Williams,The Fog of War,True,ETC
+8390,2003,2004,76,Maryann DeLeo,Chernobyl Heart,True,ETC
+8397,2003,2004,76,Canada,The Barbarian Invasions,True,ETC
+8402,2003,2004,76,Richard Taylor and Peter King,The Lord of the Rings: The Return of the King,True,ETC
+8409,2003,2004,76,Howard Shore,The Lord of the Rings: The Return of the King,True,ETC
+8411,2003,2004,76,Music and Lyric by Fran Walsh and Howard Shore and Annie Lennox,The Lord of the Rings: The Return of the King,True,ETC
+8415,2003,2004,76,"Barrie M. Osborne, Peter Jackson and Fran Walsh, Producers",The Lord of the Rings: The Return of the King,True,BEST PICTURE
+8423,2003,2004,76,Adam Elliot,Harvie Krumpet,True,ETC
+8429,2003,2004,76,Aaron Schneider and Andrew J. Sacks,Two Soldiers,True,ETC
+8431,2003,2004,76,Richard King,Master and Commander: The Far Side of the World,True,ETC
+8434,2003,2004,76,"Christopher Boyes, Michael Semanick, Michael Hedges and Hammond Peek",The Lord of the Rings: The Return of the King,True,ETC
+8438,2003,2004,76,"Jim Rygiel, Joe Letteri, Randall William Cook and Alex Funke",The Lord of the Rings: The Return of the King,True,ETC
+8443,2003,2004,76,"Screenplay by Fran Walsh, Philippa Boyens & Peter Jackson",The Lord of the Rings: The Return of the King,True,WRITING
+8450,2003,2004,76,Written by Sofia Coppola,Lost in Translation,True,WRITING
+8456,2004,2005,77,Jamie Foxx,Ray,True,ACTOR
+8460,2004,2005,77,Morgan Freeman,Million Dollar Baby,True,ACTOR SUPPORTING
+8465,2004,2005,77,Hilary Swank,Million Dollar Baby,True,ACTRESS
+8467,2004,2005,77,Cate Blanchett,The Aviator,True,ACTRESS SUPPORTING
+8472,2004,2005,77,Brad Bird,The Incredibles,True,ETC
+8475,2004,2005,77,Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo,The Aviator,True,ETC
+8480,2004,2005,77,Robert Richardson,The Aviator,True,CINEMATOGRAPHY
+8485,2004,2005,77,Sandy Powell,The Aviator,True,ETC
+8491,2004,2005,77,Clint Eastwood,Million Dollar Baby,True,DIRECTING
+8495,2004,2005,77,Ross Kauffman and Zana Briski,Born into Brothels,True,ETC
+8503,2004,2005,77,Robert Hudson and Bobby Houston,Mighty Times: The Children's March,True,ETC
+8513,2004,2005,77,Spain,The Sea Inside,True,ETC
+8515,2004,2005,77,Valli O'Reilly and Bill Corso,Lemony Snicket's A Series of Unfortunate Events,True,ETC
+8518,2004,2005,77,Jan A.P. Kaczmarek,Finding Neverland,True,ETC
+8524,2004,2005,77,Music and Lyric by Jorge Drexler,The Motorcycle Diaries,True,ETC
+8530,2004,2005,77,"Clint Eastwood, Albert S. Ruddy and Tom Rosenberg, Producers",Million Dollar Baby,True,BEST PICTURE
+8537,2004,2005,77,Chris Landreth,Ryan,True,ETC
+8542,2004,2005,77,Andrea Arnold,Wasp,True,ETC
+8543,2004,2005,77,Michael Silvers and Randy Thom,The Incredibles,True,ETC
+8549,2004,2005,77,"Scott Millan, Greg Orloff, Bob Beemer and Steve Cantamessa",Ray,True,ETC
+8553,2004,2005,77,"John Dykstra, Scott Stokdyk, Anthony LaMolinara and John Frazier",Spider-Man 2,True,ETC
+8558,2004,2005,77,Screenplay by Alexander Payne & Jim Taylor,Sideways,True,WRITING
+8560,2004,2005,77,Screenplay by Charlie Kaufman; Story by Charlie Kaufman & Michel Gondry & Pierre Bismuth,Eternal Sunshine of the Spotless Mind,True,WRITING
+8566,2005,2006,78,Philip Seymour Hoffman,Capote,True,ACTOR
+8571,2005,2006,78,George Clooney,Syriana,True,ACTOR SUPPORTING
+8580,2005,2006,78,Reese Witherspoon,Walk the Line,True,ACTRESS
+8584,2005,2006,78,Rachel Weisz,The Constant Gardener,True,ACTRESS SUPPORTING
+8588,2005,2006,78,Nick Park and Steve Box,Wallace & Gromit in The Curse of the Were-Rabbit,True,ETC
+8592,2005,2006,78,Art Direction:  John Myhre; Set Decoration:  Gretchen Rau,Memoirs of a Geisha,True,ETC
+8597,2005,2006,78,Dion Beebe,Memoirs of a Geisha,True,CINEMATOGRAPHY
+8600,2005,2006,78,Colleen Atwood,Memoirs of a Geisha,True,ETC
+8604,2005,2006,78,Ang Lee,Brokeback Mountain,True,DIRECTING
+8611,2005,2006,78,Luc Jacquet and Yves Darondeau,March of the Penguins,True,ETC
+8617,2005,2006,78,Corinne Marrinan and Eric Simonson,A Note of Triumph: The Golden Age of Norman Corwin,True,ETC
+8627,2005,2006,78,South Africa,Tsotsi,True,ETC
+8628,2005,2006,78,Howard Berger and Tami Lane,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",True,ETC
+8631,2005,2006,78,Gustavo Santaolalla,Brokeback Mountain,True,ETC
+8637,2005,2006,78,"Music and Lyric by Jordan Houston, Cedric Coleman and Paul Beauregard",Hustle & Flow,True,ETC
+8641,2005,2006,78,"Paul Haggis and Cathy Schulman, Producers",Crash,True,BEST PICTURE
+8645,2005,2006,78,John Canemaker and Peggy Stern,The Moon and the Son: An Imagined Conversation,True,ETC
+8653,2005,2006,78,Martin McDonagh,Six Shooter,True,ETC
+8654,2005,2006,78,Mike Hopkins and Ethan Van der Ryn,King Kong,True,ETC
+8658,2005,2006,78,"Christopher Boyes, Michael Semanick, Michael Hedges and Hammond Peek",King Kong,True,ETC
+8663,2005,2006,78,"Joe Letteri, Brian Van't Hul, Christian Rivers and Richard Taylor",King Kong,True,ETC
+8665,2005,2006,78,Screenplay by Larry McMurtry & Diana Ossana,Brokeback Mountain,True,WRITING
+8670,2005,2006,78,Screenplay by Paul Haggis & Bobby Moresco; Story by Paul Haggis,Crash,True,WRITING
+8680,2006,2007,79,Forest Whitaker,The Last King of Scotland,True,ACTOR
+8681,2006,2007,79,Alan Arkin,Little Miss Sunshine,True,ACTOR SUPPORTING
+8688,2006,2007,79,Helen Mirren,The Queen,True,ACTRESS
+8694,2006,2007,79,Jennifer Hudson,Dreamgirls,True,ACTRESS SUPPORTING
+8697,2006,2007,79,George Miller,Happy Feet,True,ETC
+8701,2006,2007,79,Art Direction:  Eugenio Caballero; Set Decoration:  Pilar Revuelta,Pan's Labyrinth,True,ETC
+8707,2006,2007,79,Guillermo Navarro,Pan's Labyrinth,True,CINEMATOGRAPHY
+8712,2006,2007,79,Milena Canonero,Marie Antoinette,True,ETC
+8715,2006,2007,79,Martin Scorsese,The Departed,True,DIRECTING
+8720,2006,2007,79,Davis Guggenheim,An Inconvenient Truth,True,ETC
+8724,2006,2007,79,Ruby Yang and Thomas Lennon,The Blood of Yingzhou District,True,ETC
+8735,2006,2007,79,Germany,The Lives of Others,True,ETC
+8740,2006,2007,79,David Martí and Montse Ribé,Pan's Labyrinth,True,ETC
+8741,2006,2007,79,Gustavo Santaolalla,Babel,True,ETC
+8746,2006,2007,79,Music and Lyric by Melissa Etheridge,An Inconvenient Truth,True,ETC
+8752,2006,2007,79,"Graham King, Producer",The Departed,True,BEST PICTURE
+8756,2006,2007,79,Torill Kove,The Danish Poet,True,ETC
+8765,2006,2007,79,Ari Sandel,West Bank Story,True,ETC
+8769,2006,2007,79,Alan Robert Murray and Bub Asman,Letters from Iwo Jima,True,ETC
+8773,2006,2007,79,"Michael Minkler, Bob Beemer and Willie Burton",Dreamgirls,True,ETC
+8776,2006,2007,79,"John Knoll, Hal Hickel, Charles Gibson and Allen Hall",Pirates of the Caribbean: Dead Man's Chest,True,ETC
+8781,2006,2007,79,Screenplay by William Monahan,The Departed,True,WRITING
+8786,2006,2007,79,Written by Michael Arndt,Little Miss Sunshine,True,WRITING
+8792,2007,2008,80,Daniel Day-Lewis,There Will Be Blood,True,ACTOR
+8797,2007,2008,80,Javier Bardem,No Country for Old Men,True,ACTOR SUPPORTING
+8803,2007,2008,80,Marion Cotillard,La Vie en Rose,True,ACTRESS
+8810,2007,2008,80,Tilda Swinton,Michael Clayton,True,ACTRESS SUPPORTING
+8812,2007,2008,80,Brad Bird,Ratatouille,True,ETC
+8817,2007,2008,80,Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo,Sweeney Todd The Demon Barber of Fleet Street,True,ETC
+8823,2007,2008,80,Robert Elswit,There Will Be Blood,True,CINEMATOGRAPHY
+8826,2007,2008,80,Alexandra Byrne,Elizabeth: The Golden Age,True,ETC
+8832,2007,2008,80,Joel Coen and Ethan Coen,No Country for Old Men,True,DIRECTING
+8837,2007,2008,80,Alex Gibney and Eva Orner,Taxi to the Dark Side,True,ETC
+8839,2007,2008,80,Cynthia Wade and Vanessa Roth,Freeheld,True,ETC
+8849,2007,2008,80,Austria,The Counterfeiters,True,ETC
+8853,2007,2008,80,Didier Lavergne and Jan Archibald,La Vie en Rose,True,ETC
+8856,2007,2008,80,Dario Marianelli,Atonement,True,ETC
+8861,2007,2008,80,Music and Lyric by Glen Hansard and Marketa Irglova,Once,True,ETC
+8869,2007,2008,80,"Scott Rudin, Ethan Coen and Joel Coen, Producers",No Country for Old Men,True,BEST PICTURE
+8875,2007,2008,80,Suzie Templeton and Hugh Welchman,Peter & the Wolf,True,ETC
+8878,2007,2008,80,Philippe Pollet-Villard,Le Mozart des Pickpockets (The Mozart of Pickpockets),True,ETC
+8881,2007,2008,80,Karen Baker Landers and Per Hallberg,The Bourne Ultimatum,True,ETC
+8886,2007,2008,80,"Scott Millan, David Parker and Kirk Francis",The Bourne Ultimatum,True,ETC
+8891,2007,2008,80,"Michael Fink, Bill Westenhofer, Ben Morris and Trevor Wood",The Golden Compass,True,ETC
+8897,2007,2008,80,Written for the screen by Joel Coen & Ethan Coen,No Country for Old Men,True,WRITING
+8899,2007,2008,80,Written by Diablo Cody,Juno,True,WRITING
+8907,2008,2009,81,Sean Penn,Milk,True,ACTOR
+8913,2008,2009,81,Heath Ledger,The Dark Knight,True,ACTOR SUPPORTING
+8919,2008,2009,81,Kate Winslet,The Reader,True,ACTRESS
+8921,2008,2009,81,Penélope Cruz,Vicky Cristina Barcelona,True,ACTRESS SUPPORTING
+8927,2008,2009,81,Andrew Stanton,WALL-E,True,ETC
+8929,2008,2009,81,Art Direction: Donald Graham Burt; Set Decoration: Victor J. Zolfo,The Curious Case of Benjamin Button,True,ETC
+8937,2008,2009,81,Anthony Dod Mantle,Slumdog Millionaire,True,CINEMATOGRAPHY
+8940,2008,2009,81,Michael O'Connor,The Duchess,True,ETC
+8947,2008,2009,81,Danny Boyle,Slumdog Millionaire,True,DIRECTING
+8951,2008,2009,81,James Marsh and Simon Chinn,Man on Wire,True,ETC
+8955,2008,2009,81,Megan Mylan,Smile Pinki,True,ETC
+8964,2008,2009,81,Japan,Departures,True,ETC
+8967,2008,2009,81,Greg Cannom,The Curious Case of Benjamin Button,True,ETC
+8973,2008,2009,81,A.R. Rahman,Slumdog Millionaire,True,ETC
+8976,2008,2009,81,Music by A.R. Rahman; Lyric by Gulzar,Slumdog Millionaire,True,ETC
+8982,2008,2009,81,"Christian Colson, Producer",Slumdog Millionaire,True,BEST PICTURE
+8983,2008,2009,81,Kunio Kato,La Maison en Petits Cubes,True,ETC
+8992,2008,2009,81,Jochen Alexander Freydank,Spielzeugland (Toyland),True,ETC
+8993,2008,2009,81,Richard King,The Dark Knight,True,ETC
+9000,2008,2009,81,"Ian Tapp, Richard Pryke and Resul Pookutty",Slumdog Millionaire,True,ETC
+9003,2008,2009,81,"Eric Barba, Steve Preeg, Burt Dalton and Craig Barron",The Curious Case of Benjamin Button,True,ETC
+9010,2008,2009,81,Screenplay by Simon Beaufoy,Slumdog Millionaire,True,WRITING
+9014,2008,2009,81,Written by Dustin Lance Black,Milk,True,WRITING
+9017,2009,2010,82,Jeff Bridges,Crazy Heart,True,ACTOR
+9026,2009,2010,82,Christoph Waltz,Inglourious Basterds,True,ACTOR SUPPORTING
+9027,2009,2010,82,Sandra Bullock,The Blind Side,True,ACTRESS
+9036,2009,2010,82,Mo'Nique,Precious: Based on the Novel 'Push' by Sapphire,True,ACTRESS SUPPORTING
+9041,2009,2010,82,Pete Docter,Up,True,ETC
+9042,2009,2010,82,Production Design: Rick Carter and Robert Stromberg; Set Decoration: Kim Sinclair,Avatar,True,ETC
+9047,2009,2010,82,Mauro Fiore,Avatar,True,CINEMATOGRAPHY
+9056,2009,2010,82,Sandy Powell,The Young Victoria,True,ETC
+9058,2009,2010,82,Kathryn Bigelow,The Hurt Locker,True,DIRECTING
+9063,2009,2010,82,Louie Psihoyos and Fisher Stevens,The Cove,True,ETC
+9070,2009,2010,82,Roger Ross Williams and Elinor Burkett,Music by Prudence,True,ETC
+9080,2009,2010,82,Argentina,The Secret in Their Eyes,True,ETC
+9083,2009,2010,82,"Barney Burman, Mindy Hall and Joel Harlow",Star Trek,True,ETC
+9089,2009,2010,82,Michael Giacchino,Up,True,ETC
+9094,2009,2010,82,Music and Lyric by Ryan Bingham and T Bone Burnett,Crazy Heart,True,ETC
+9099,2009,2010,82,"Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers",The Hurt Locker,True,BEST PICTURE
+9108,2009,2010,82,Nicolas Schmerkin,Logorama,True,ETC
+9114,2009,2010,82,Joachim Back and Tivi Magnusson,The New Tenants,True,ETC
+9116,2009,2010,82,Paul N.J. Ottosson,The Hurt Locker,True,ETC
+9121,2009,2010,82,Paul N.J. Ottosson and Ray Beckett,The Hurt Locker,True,ETC
+9125,2009,2010,82,"Joe Letteri, Stephen Rosenbaum, Richard Baneham and Andrew R. Jones",Avatar,True,ETC
+9131,2009,2010,82,Screenplay by Geoffrey Fletcher,Precious: Based on the Novel 'Push' by Sapphire,True,WRITING
+9133,2009,2010,82,Written by Mark Boal,The Hurt Locker,True,WRITING
+9145,2010,2011,83,Colin Firth,The King's Speech,True,ACTOR
+9147,2010,2011,83,Christian Bale,The Fighter,True,ACTOR SUPPORTING
+9155,2010,2011,83,Natalie Portman,Black Swan,True,ACTRESS
+9159,2010,2011,83,Melissa Leo,The Fighter,True,ACTRESS SUPPORTING
+9164,2010,2011,83,Lee Unkrich,Toy Story 3,True,ETC
+9165,2010,2011,83,Production Design: Robert Stromberg; Set Decoration: Karen O'Hara,Alice in Wonderland,True,ETC
+9171,2010,2011,83,Wally Pfister,Inception,True,CINEMATOGRAPHY
+9175,2010,2011,83,Colleen Atwood,Alice in Wonderland,True,ETC
+9182,2010,2011,83,Tom Hooper,The King's Speech,True,DIRECTING
+9187,2010,2011,83,Charles Ferguson and Audrey Marrs,Inside Job,True,ETC
+9192,2010,2011,83,Karen Goodman and Kirk Simon,Strangers No More,True,ETC
+9202,2010,2011,83,Denmark,In a Better World,True,ETC
+9207,2010,2011,83,Rick Baker and Dave Elsey,The Wolfman,True,ETC
+9212,2010,2011,83,Trent Reznor and Atticus Ross,The Social Network,True,ETC
+9216,2010,2011,83,Music and Lyric by Randy Newman,Toy Story 3,True,ETC
+9221,2010,2011,83,"Iain Canning, Emile Sherman and Gareth Unwin, Producers",The King's Speech,True,BEST PICTURE
+9230,2010,2011,83,Shaun Tan and Andrew Ruhemann,The Lost Thing,True,ETC
+9234,2010,2011,83,Luke Matheny,God of Love,True,ETC
+9237,2010,2011,83,Richard King,Inception,True,ETC
+9242,2010,2011,83,"Lora Hirschberg, Gary A. Rizzo and Ed Novick",Inception,True,ETC
+9250,2010,2011,83,"Paul Franklin, Chris Corbould, Andrew Lockley and Peter Bebb",Inception,True,ETC
+9253,2010,2011,83,Screenplay by Aaron Sorkin,The Social Network,True,WRITING
+9261,2010,2011,83,Screenplay by David Seidler,The King's Speech,True,WRITING
+9268,2011,2012,84,Jean Dujardin,The Artist,True,ACTOR
+9274,2011,2012,84,Christopher Plummer,Beginners,True,ACTOR SUPPORTING
+9279,2011,2012,84,Meryl Streep,The Iron Lady,True,ACTRESS
+9285,2011,2012,84,Octavia Spencer,The Help,True,ACTRESS SUPPORTING
+9290,2011,2012,84,Gore Verbinski,Rango,True,ETC
+9293,2011,2012,84,Production Design: Dante Ferretti; Set Decoration: Francesca Lo Schiavo,Hugo,True,ETC
+9298,2011,2012,84,Robert Richardson,Hugo,True,CINEMATOGRAPHY
+9302,2011,2012,84,Mark Bridges,The Artist,True,ETC
+9306,2011,2012,84,Michel Hazanavicius,The Artist,True,DIRECTING
+9315,2011,2012,84,"TJ Martin, Dan Lindsay and Rich Middlemas",Undefeated,True,ETC
+9319,2011,2012,84,Daniel Junge and Sharmeen Obaid-Chinoy,Saving Face,True,ETC
+9330,2011,2012,84,Iran,A Separation,True,ETC
+9333,2011,2012,84,Mark Coulier and J. Roy Helland,The Iron Lady,True,ETC
+9335,2011,2012,84,Ludovic Bource,The Artist,True,ETC
+9339,2011,2012,84,Music and Lyric by Bret McKenzie,The Muppets,True,ETC
+9341,2011,2012,84,"Thomas Langmann, Producer",The Artist,True,BEST PICTURE
+9351,2011,2012,84,William Joyce and Brandon Oldenburg,The Fantastic Flying Books of Mr. Morris Lessmore,True,ETC
+9357,2011,2012,84,Terry George and Oorlagh George,The Shore,True,ETC
+9362,2011,2012,84,Philip Stockton and Eugene Gearty,Hugo,True,ETC
+9366,2011,2012,84,Tom Fleischman and John Midgley,Hugo,True,ETC
+9371,2011,2012,84,"Rob Legato, Joss Williams, Ben Grossmann and Alex Henning",Hugo,True,ETC
+9375,2011,2012,84,Screenplay by Alexander Payne and Nat Faxon & Jim Rash,The Descendants,True,WRITING
+9383,2011,2012,84,Written by Woody Allen,Midnight in Paris,True,WRITING
+9389,2012,2013,85,Daniel Day-Lewis,Lincoln,True,ACTOR
+9397,2012,2013,85,Christoph Waltz,Django Unchained,True,ACTOR SUPPORTING
+9399,2012,2013,85,Jennifer Lawrence,Silver Linings Playbook,True,ACTRESS
+9405,2012,2013,85,Anne Hathaway,Les Misérables,True,ACTRESS SUPPORTING
+9408,2012,2013,85,Mark Andrews and Brenda Chapman,Brave,True,ETC
+9415,2012,2013,85,Claudio Miranda,Life of Pi,True,CINEMATOGRAPHY
+9418,2012,2013,85,Jacqueline Durran,Anna Karenina,True,ETC
+9425,2012,2013,85,Ang Lee,Life of Pi,True,DIRECTING
+9432,2012,2013,85,Malik Bendjelloul and Simon Chinn,Searching for Sugar Man,True,ETC
+9433,2012,2013,85,Sean Fine and Andrea Nix Fine,Inocente,True,ETC
+9443,2012,2013,85,Austria,Amour,True,ETC
+9450,2012,2013,85,Lisa Westcott and Julie Dartnell,Les Misérables,True,ETC
+9453,2012,2013,85,Mychael Danna,Life of Pi,True,ETC
+9459,2012,2013,85,Music and Lyric by Adele Adkins and Paul Epworth,Skyfall,True,ETC
+9462,2012,2013,85,"Grant Heslov, Ben Affleck and George Clooney, Producers",Argo,True,BEST PICTURE
+9474,2012,2013,85,Production Design: Rick Carter; Set Decoration: Jim Erickson,Lincoln,True,ETC
+9479,2012,2013,85,John Kahrs,Paperman,True,ETC
+9482,2012,2013,85,Shawn Christensen,Curfew,True,ETC
+9488,2012,2013,85,Per Hallberg and Karen Baker Landers,Skyfall,True,ETC
+9489,2012,2013,85,Paul N.J. Ottosson,Zero Dark Thirty,True,ETC
+9491,2012,2013,85,"Andy Nelson, Mark Paterson and Simon Hayes",Les Misérables,True,ETC
+9496,2012,2013,85,"Bill Westenhofer, Guillaume Rocheron, Erik-Jan De Boer and Donald R. Elliott",Life of Pi,True,ETC
+9500,2012,2013,85,Screenplay by Chris Terrio,Argo,True,WRITING
+9506,2012,2013,85,Written by Quentin Tarantino,Django Unchained,True,WRITING
+9518,2013,2014,86,Matthew McConaughey,Dallas Buyers Club,True,ACTOR
+9523,2013,2014,86,Jared Leto,Dallas Buyers Club,True,ACTOR SUPPORTING
+9525,2013,2014,86,Cate Blanchett,Blue Jasmine,True,ACTRESS
+9531,2013,2014,86,Lupita Nyong'o,12 Years a Slave,True,ACTRESS SUPPORTING
+9537,2013,2014,86,"Chris Buck, Jennifer Lee and Peter Del Vecho",Frozen,True,ETC
+9540,2013,2014,86,Emmanuel Lubezki,Gravity,True,CINEMATOGRAPHY
+9546,2013,2014,86,Catherine Martin,The Great Gatsby,True,ETC
+9550,2013,2014,86,Alfonso Cuarón,Gravity,True,DIRECTING
+9558,2013,2014,86,"Morgan Neville, Gil Friesen and Caitrin Rogers",20 Feet from Stardom,True,ETC
+9562,2013,2014,86,Malcolm Clarke and Nicholas Reed,The Lady in Number 6: Music Saved My Life,True,ETC
+9570,2013,2014,86,Italy,The Great Beauty,True,ETC
+9574,2013,2014,86,Adruitha Lee and Robin Mathews,Dallas Buyers Club,True,ETC
+9578,2013,2014,86,Steven Price,Gravity,True,ETC
+9584,2013,2014,86,Music and Lyric by Kristen Anderson-Lopez and Robert Lopez,Frozen,True,ETC
+9594,2013,2014,86,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen and Anthony Katagas, Producers",12 Years a Slave,True,BEST PICTURE
+9598,2013,2014,86,Production Design: Catherine Martin; Set Decoration: Beverley Dunn,The Great Gatsby,True,ETC
+9603,2013,2014,86,Laurent Witz and Alexandre Espigares,Mr. Hublot,True,ETC
+9608,2013,2014,86,Anders Walter and Kim Magnusson,Helium,True,ETC
+9613,2013,2014,86,Glenn Freemantle,Gravity,True,ETC
+9617,2013,2014,86,"Skip Lievsay, Niv Adiri, Christopher Benstead and Chris Munro",Gravity,True,ETC
+9621,2013,2014,86,"Tim Webber, Chris Lawrence, David Shirk and Neil Corbould",Gravity,True,ETC
+9629,2013,2014,86,Screenplay by John Ridley,12 Years a Slave,True,WRITING
+9634,2013,2014,86,Written by Spike Jonze,Her,True,WRITING
+9644,2014,2015,87,Eddie Redmayne,The Theory of Everything,True,ACTOR
+9649,2014,2015,87,J.K. Simmons,Whiplash,True,ACTOR SUPPORTING
+9652,2014,2015,87,Julianne Moore,Still Alice,True,ACTRESS
+9655,2014,2015,87,Patricia Arquette,Boyhood,True,ACTRESS SUPPORTING
+9660,2014,2015,87,"Don Hall, Chris Williams and Roy Conli",Big Hero 6,True,ETC
+9665,2014,2015,87,Emmanuel Lubezki,Birdman or (The Unexpected Virtue of Ignorance),True,CINEMATOGRAPHY
+9670,2014,2015,87,Milena Canonero,The Grand Budapest Hotel,True,ETC
+9675,2014,2015,87,Alejandro G. Iñárritu,Birdman or (The Unexpected Virtue of Ignorance),True,DIRECTING
+9680,2014,2015,87,"Laura Poitras, Mathilde Bonnefoy and Dirk Wilutzky",CitizenFour,True,ETC
+9685,2014,2015,87,Ellen Goosenberg Kent and Dana Perry,Crisis Hotline: Veterans Press 1,True,ETC
+9695,2014,2015,87,Poland,Ida,True,ETC
+9701,2014,2015,87,Frances Hannon and Mark Coulier,The Grand Budapest Hotel,True,ETC
+9703,2014,2015,87,Alexandre Desplat,The Grand Budapest Hotel,True,ETC
+9709,2014,2015,87,Music and Lyric by John Stephens and Lonnie Lynn,Selma,True,ETC
+9714,2014,2015,87,"Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers",Birdman or (The Unexpected Virtue of Ignorance),True,BEST PICTURE
+9721,2014,2015,87,Production Design: Adam Stockhausen; Set Decoration: Anna Pinnock,The Grand Budapest Hotel,True,ETC
+9728,2014,2015,87,Patrick Osborne and Kristina Reed,Feast,True,ETC
+9735,2014,2015,87,Mat Kirkby and James Lucas,The Phone Call,True,ETC
+9736,2014,2015,87,Alan Robert Murray and Bub Asman,American Sniper,True,ETC
+9745,2014,2015,87,"Craig Mann, Ben Wilkins and Thomas Curley",Whiplash,True,ETC
+9749,2014,2015,87,"Paul Franklin, Andrew Lockley, Ian Hunter and Scott Fisher",Interstellar,True,ETC
+9752,2014,2015,87,Written by Graham Moore,The Imitation Game,True,WRITING
+9756,2014,2015,87,"Written by Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Jr. & Armando Bo",Birdman or (The Unexpected Virtue of Ignorance),True,WRITING
+9767,2015,2016,88,Leonardo DiCaprio,The Revenant,True,ACTOR
+9773,2015,2016,88,Mark Rylance,Bridge of Spies,True,ACTOR SUPPORTING
+9776,2015,2016,88,Brie Larson,Room,True,ACTRESS
+9783,2015,2016,88,Alicia Vikander,The Danish Girl,True,ACTRESS SUPPORTING
+9787,2015,2016,88,Pete Docter and Jonas Rivera,Inside Out,True,ETC
+9793,2015,2016,88,Emmanuel Lubezki,The Revenant,True,CINEMATOGRAPHY
+9798,2015,2016,88,Jenny Beavan,Mad Max: Fury Road,True,ETC
+9802,2015,2016,88,Alejandro G. Iñárritu,The Revenant,True,DIRECTING
+9805,2015,2016,88,Asif Kapadia and James Gay-Rees,Amy,True,ETC
+9813,2015,2016,88,Sharmeen Obaid-Chinoy,A Girl in the River: The Price of Forgiveness,True,ETC
+9822,2015,2016,88,Hungary,Son of Saul,True,ETC
+9825,2015,2016,88,"Lesley Vanderwalt, Elka Wardega and Damian Martin",Mad Max: Fury Road,True,ETC
+9830,2015,2016,88,Ennio Morricone,The Hateful Eight,True,ETC
+9837,2015,2016,88,Music and Lyric by Jimmy Napes and Sam Smith,Spectre,True,ETC
+9845,2015,2016,88,"Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers",Spotlight,True,BEST PICTURE
+9848,2015,2016,88,Production Design: Colin Gibson; Set Decoration: Lisa Thompson,Mad Max: Fury Road,True,ETC
+9851,2015,2016,88,Gabriel Osorio and Pato Escala,Bear Story,True,ETC
+9860,2015,2016,88,Benjamin Cleary and Serena Armitage,Stutterer,True,ETC
+9861,2015,2016,88,Mark Mangini and David White,Mad Max: Fury Road,True,ETC
+9867,2015,2016,88,"Chris Jenkins, Gregg Rudloff and Ben Osmo",Mad Max: Fury Road,True,ETC
+9871,2015,2016,88,"Andrew Whitehurst, Paul Norris, Mark Ardington and Sara Bennett",Ex Machina,True,ETC
+9876,2015,2016,88,Screenplay by Charles Randolph and Adam McKay,The Big Short,True,WRITING
+9884,2015,2016,88,Written by Josh Singer & Tom McCarthy,Spotlight,True,WRITING
+9889,2016,2017,89,Casey Affleck,Manchester by the Sea,True,ACTOR
+9894,2016,2017,89,Mahershala Ali,Moonlight,True,ACTOR SUPPORTING
+9902,2016,2017,89,Emma Stone,La La Land,True,ACTRESS
+9904,2016,2017,89,Viola Davis,Fences,True,ACTRESS SUPPORTING
+9913,2016,2017,89,"Byron Howard, Rich Moore and Clark Spencer",Zootopia,True,ETC
+9915,2016,2017,89,Linus Sandgren,La La Land,True,CINEMATOGRAPHY
+9920,2016,2017,89,Colleen Atwood,Fantastic Beasts and Where to Find Them,True,ETC
+9926,2016,2017,89,Damien Chazelle,La La Land,True,DIRECTING
+9932,2016,2017,89,Ezra Edelman and Caroline Waterlow,O.J.: Made in America,True,ETC
+9938,2016,2017,89,Orlando von Einsiedel and Joanna Natasegara,The White Helmets,True,ETC
+9946,2016,2017,89,Iran,The Salesman,True,ETC
+9951,2016,2017,89,"Alessandro Bertolazzi, Giorgio Gregorini and Christopher Nelson",Suicide Squad,True,ETC
+9953,2016,2017,89,Justin Hurwitz,La La Land,True,ETC
+9959,2016,2017,89,Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul,La La Land,True,ETC
+9970,2016,2017,89,"Adele Romanski, Dede Gardner and Jeremy Kleiner, Producers",Moonlight,True,BEST PICTURE
+9974,2016,2017,89,Production Design: David Wasco; Set Decoration: Sandy Reynolds-Wasco,La La Land,True,ETC
+9980,2016,2017,89,Alan Barillaro and Marc Sondheimer,Piper,True,ETC
+9984,2016,2017,89,Kristof Deák and Anna Udvardy,Sing,True,ETC
+9986,2016,2017,89,Sylvain Bellemare,Arrival,True,ETC
+9992,2016,2017,89,"Kevin O'Connell, Andy Wright, Robert Mackenzie and Peter Grace",Hacksaw Ridge,True,ETC
+9998,2016,2017,89,"Robert Legato, Adam Valdez, Andrew R. Jones and Dan Lemmon",The Jungle Book,True,ETC
+10005,2016,2017,89,Screenplay by Barry Jenkins; Story by Tarell Alvin McCraney,Moonlight,True,WRITING
+10009,2016,2017,89,Written by Kenneth Lonergan,Manchester by the Sea,True,WRITING
+10018,2017,2018,90,Gary Oldman,Darkest Hour,True,ACTOR
+10024,2017,2018,90,Sam Rockwell,"Three Billboards outside Ebbing, Missouri",True,ACTOR SUPPORTING
+10026,2017,2018,90,Frances McDormand,"Three Billboards outside Ebbing, Missouri",True,ACTRESS
+10031,2017,2018,90,Allison Janney,"I, Tonya",True,ACTRESS SUPPORTING
+10037,2017,2018,90,Lee Unkrich and Darla K. Anderson,Coco,True,ETC
+10040,2017,2018,90,Roger A. Deakins,Blade Runner 2049,True,CINEMATOGRAPHY
+10047,2017,2018,90,Mark Bridges,Phantom Thread,True,ETC
+10054,2017,2018,90,Guillermo del Toro,The Shape of Water,True,DIRECTING
+10057,2017,2018,90,Bryan Fogel and Dan Cogan,Icarus,True,ETC
+10061,2017,2018,90,Frank Stiefel,Heaven Is a Traffic Jam on the 405,True,ETC
+10070,2017,2018,90,Chile,A Fantastic Woman,True,ETC
+10075,2017,2018,90,"Kazuhiro Tsuji, David Malinowski and Lucy Sibbick",Darkest Hour,True,ETC
+10080,2017,2018,90,Alexandre Desplat,The Shape of Water,True,ETC
+10085,2017,2018,90,Music and Lyric by Kristen Anderson-Lopez and Robert Lopez,Coco,True,ETC
+10095,2017,2018,90,"Guillermo del Toro and J. Miles Dale, Producers",The Shape of Water,True,BEST PICTURE
+10101,2017,2018,90,Production Design: Paul Denham Austerberry; Set Decoration: Shane Vieau and Jeffrey A. Melvin,The Shape of Water,True,ETC
+10102,2017,2018,90,Glen Keane and Kobe Bryant,Dear Basketball,True,ETC
+10110,2017,2018,90,Chris Overton and Rachel Shenton,The Silent Child,True,ETC
+10114,2017,2018,90,Richard King and Alex Gibson,Dunkirk,True,ETC
+10119,2017,2018,90,"Gregg Landaker, Gary A. Rizzo and Mark Weingarten",Dunkirk,True,ETC
+10122,2017,2018,90,"John Nelson, Gerd Nefzer, Paul Lambert and Richard R. Hoover",Blade Runner 2049,True,ETC
+10127,2017,2018,90,Screenplay by James Ivory,Call Me by Your Name,True,WRITING
+10133,2017,2018,90,Written by Jordan Peele,Get Out,True,WRITING
+10145,2018,2019,91,Rami Malek,Bohemian Rhapsody,True,ACTOR
+10147,2018,2019,91,Mahershala Ali,Green Book,True,ACTOR SUPPORTING
+10154,2018,2019,91,Olivia Colman,The Favourite,True,ACTRESS
+10159,2018,2019,91,Regina King,If Beale Street Could Talk,True,ACTRESS SUPPORTING
+10166,2018,2019,91,"Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord and Christopher Miller",Spider-Man: Into the Spider-Verse,True,ETC
+10170,2018,2019,91,Alfonso Cuarón,Roma,True,CINEMATOGRAPHY
+10173,2018,2019,91,Ruth Carter,Black Panther,True,ETC
+10180,2018,2019,91,Alfonso Cuarón,Roma,True,DIRECTING
+10182,2018,2019,91,"Elizabeth Chai Vasarhelyi, Jimmy Chin, Evan Hayes and Shannon Dill",Free Solo,True,ETC
+10191,2018,2019,91,Rayka Zehtabchi and Melissa Berton,Period. End of Sentence.,True,ETC
+10200,2018,2019,91,Mexico,Roma,True,ETC
+10204,2018,2019,91,"Greg Cannom, Kate Biscoe and Patricia Dehaney",Vice,True,ETC
+10205,2018,2019,91,Ludwig Goransson,Black Panther,True,ETC
+10213,2018,2019,91,"Music and Lyric by Lady Gaga, Mark Ronson, Anthony Rossomando and Andrew Wyatt",A Star Is Born,True,ETC
+10219,2018,2019,91,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",Green Book,True,BEST PICTURE
+10223,2018,2019,91,Production Design: Hannah Beachler; Set Decoration: Jay Hart,Black Panther,True,ETC
+10229,2018,2019,91,Domee Shi and Becky Neiman-Cobb,Bao,True,ETC
+10237,2018,2019,91,Guy Nattiv and Jaime Ray Newman,Skin,True,ETC
+10239,2018,2019,91,John Warhurst and Nina Hartstone,Bohemian Rhapsody,True,ETC
+10244,2018,2019,91,"Paul Massey, Tim Cavagin and John Casali",Bohemian Rhapsody,True,ETC
+10250,2018,2019,91,"Paul Lambert, Ian Hunter, Tristan Myles and J.D. Schwalm",First Man,True,ETC
+10254,2018,2019,91,Written by Charlie Wachtel & David Rabinowitz and Kevin Willmott & Spike Lee,BlacKkKlansman,True,WRITING
+10260,2018,2019,91,"Written by Nick Vallelonga, Brian Currie, Peter Farrelly",Green Book,True,WRITING
+10270,2019,2020,92,Joaquin Phoenix,Joker,True,ACTOR
+10276,2019,2020,92,Brad Pitt,Once upon a Time...in Hollywood,True,ACTOR SUPPORTING
+10281,2019,2020,92,Renée Zellweger,Judy,True,ACTRESS
+10283,2019,2020,92,Laura Dern,Marriage Story,True,ACTRESS SUPPORTING
+10291,2019,2020,92,"Josh Cooley, Mark Nielsen and Jonas Rivera",Toy Story 4,True,ETC
+10295,2019,2020,92,Roger Deakins,1917,True,CINEMATOGRAPHY
+10300,2019,2020,92,Jacqueline Durran,Little Women,True,ETC
+10306,2019,2020,92,Bong Joon Ho,Parasite,True,DIRECTING
+10307,2019,2020,92,"Steven Bognar, Julia Reichert and Jeff Reichert",American Factory,True,ETC
+10313,2019,2020,92,Carol Dysinger and Elena Andreicheva,Learning to Skateboard in a Warzone (If You're a Girl),True,ETC
+10326,2019,2020,92,South Korea,Parasite,True,ETC
+10327,2019,2020,92,"Kazu Hiro, Anne Morgan and Vivian Baker",Bombshell,True,ETC
+10332,2019,2020,92,Hildur Guðnadóttir,Joker,True,ETC
+10338,2019,2020,92,Music by Elton John; Lyric by Bernie Taupin,Rocketman,True,ETC
+10350,2019,2020,92,"Kwak Sin Ae and Bong Joon Ho, Producers",Parasite,True,BEST PICTURE
+10354,2019,2020,92,Production Design: Barbara Ling; Set Decoration: Nancy Haigh,Once upon a Time...in Hollywood,True,ETC
+10357,2019,2020,92,Matthew A. Cherry and Karen Rupert Toliver,Hair Love,True,ETC
+10363,2019,2020,92,Marshall Curry,The Neighbors' Window,True,ETC
+10366,2019,2020,92,Donald Sylvester,Ford v Ferrari,True,ETC
+10374,2019,2020,92,Mark Taylor and Stuart Wilson,1917,True,ETC
+10379,2019,2020,92,"Guillaume Rocheron, Greg Butler and Dominic Tuohy",1917,True,ETC
+10382,2019,2020,92,Screenplay by Taika Waititi,Jojo Rabbit,True,WRITING
+10390,2019,2020,92,"Screenplay by Bong Joon Ho, Han Jin Won; Story by Bong Joon Ho",Parasite,True,WRITING
