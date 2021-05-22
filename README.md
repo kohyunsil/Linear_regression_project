@@ -63,7 +63,7 @@ from sklearn.model_selection import cross_val_score, KFold
 
 - 💰 예산과 수입 부분 수정
 
-    전세계 총수입의 통화가 달러($)의 기준으로 되어있어, 특정 국가의 통화단위로 되어있는 소량의 데이터는 직접 수정하였습니다.
+    전세계 총수입의 통화가 달러($)의 기준으로 되어있으며, 영화별로 개봉일마다 환율의 변동이 있어서 소량의 데이터는 직접 수정하였습니다.
 
     ![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%202.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%202.png)
 
