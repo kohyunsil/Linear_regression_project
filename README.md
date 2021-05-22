@@ -4,13 +4,13 @@
 
 ---
 
-1️⃣  평소 영화와 관련된 기사를 보면서 느꼈던 공통적인 모습이 예산을 많이 들여도 영화의 매출액 자체는 낮은 경우나 그 반대의 경우를 목격할 수 있습니다. 또한 오스카 상을 수상하거나, 권위있는 사이트에서 평론가들에게 높은 점수를 받았다고 하더라도 영화 자체의 매출액은 낮은 경우도 있었습니다. 
+1️⃣ 본 프로젝트는 회귀분석을 통해서 영화데이터의 매출액을 예측해보는 것이 주 목적이며, 그 안에서 어떤영화가 투자대비 인기가 있는지 등의 색다른 인 사이트를 찾아보는 것이 최종목적입니다! 👯‍♀️
 
-2️⃣ 따라서, 본 프로젝트는 회귀분석을 통해서 영화데이터의 매출액을 예측해보는 것이 주 목적이며, 그 안에서 어떤영화가 투자대비 인기가 있는지 등의 색다른 인 사이트를 찾아보는 것이 최종목적입니다! 👯‍♀️
+2️⃣ 해당 프로젝트는 메인 데이터셋에 더하여 영화 정보를 활용한 인사이트를 찾기위해서 데이터의 전처리와 모델링을 통한 검증이 목표입니다. 
 
-3️⃣ 해당 프로젝트는 메인 데이터셋에 더하여 영화 정보를 활용한 인사이트를 찾기위해서 데이터의 전처리와 모델링을 통한 검증이 목표입니다. 그 중에서도 데이터를 들여다보는 것에 중점을 둘 것이며, 회귀모델의 특징과 성능을 바탕으로 최적의 모델링을 구축해보았습니다. 🤜
+3️⃣그 중에서도 데이터를 들여다보는 것에 중점을 둘 것이며, 회귀모델의 특징과 성능을 바탕으로 최적의 모델링을 구축해보았습니다. 🤜
 
-Project Preparation
+# 💡 Project Preparation
 
 ---
 
@@ -53,13 +53,7 @@ Project Start
 
 - EDA를 통해서 인사이트를 찾기위해 노력하였습니다. 🧐
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled.png)
-
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%201.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%201.png)
-
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%202.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%202.png)
-
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%203.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%203.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled.png)
 
 ### 2. 데이터 가공 및 전처리
 
@@ -69,11 +63,11 @@ Project Start
 
 - 결측치 처리 및 데이터 병합
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%204.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%204.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%201.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%201.png)
 
 - 범주형 데이터 one_hot encoder
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%205.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%205.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%202.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%202.png)
 
 ### 3. Regression
 
@@ -81,7 +75,7 @@ Project Start
 
 - train_test_split
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%206.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%206.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%203.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%203.png)
 
 ```python
 def display_scores(scores):
@@ -110,17 +104,13 @@ for model in [LinearRegression, Ridge, Lasso, RandomForestRegressor]:
     models = get_model(model)
 ```
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%207.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%207.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%204.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%204.png)
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%208.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%208.png)
-
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%209.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%209.png)
-
-- RMSE 값이 크고, Cond. No. 또한 높은 상태입니다.
+RMSE 값이 크고, Cond. No. 또한 높은 상태입니다.
 
 🎞 **VIF Factor(다중공선성) 확인 & Feature importances**
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2010.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2010.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%205.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%205.png)
 
 ```python
 model = RandomForestRegressor()
@@ -137,11 +127,9 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2011.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2011.png)
-
 - 피쳐들의 분포 확인
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2012.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2012.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%206.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%206.png)
 
 🎞  **Feature selection & Outlier remove**
 
@@ -164,20 +152,11 @@ plt.title("outlier")
 plt.show()
 ```
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2013.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2013.png)
-
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/_2021-05-22__4.56.42.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/_2021-05-22__4.56.42.png)
-
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2014.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2014.png)
-
-- 아웃라이어 제거 후 LinearRegression을 확인하기 위해 시각화를 진행하였습니다.
-- 어느정도 되었으며 오차가 큰 값들이 제거되었음을 확인 할 수 있습니다.
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%207.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%207.png)
 
 🎞  **Final Model**
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/_2021-05-22__4.54.32.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/_2021-05-22__4.54.32.png)
-
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/_2021-05-22__4.55.08.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/_2021-05-22__4.55.08.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%208.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%208.png)
 
 - 최종적인 모델에서 R-squared의 값의 변동은 크지 않지만, RMSE 값이 줄어들었고 Test 값의 R2 score 값이 어느정도 증가하였습니다. 추가적으로 Cond.No의 크기를 크게 줄이면서 R2 score값과 RMSE값을 유지시킴으로서 모델의 성능을 높였습니다.
 
@@ -215,11 +194,11 @@ for model in [LinearRegression, Ridge, Lasso, RandomForestRegressor]:
     models = get_model(model)
 ```
 
-![Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2015.png](Linear_regression_project%20df29e4e2a0d94917b70c2fa13b64007a/Untitled%2015.png)
+![Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%209.png](Linear_regression_project%206d51cd21e7104c23ad4f8960d4143117/Untitled%209.png)
 
 - 교차검증의 결과 또한 모든 모델의 교차검증에서 표준편차가 0.02대로 나타남 -> 전체적인 데이터에서 일반화된 예측성능을 보인다고 할 수 있습니다.
 
-Project Review
+# 💡 Project Review
 
 ---
 
@@ -237,7 +216,7 @@ Project Review
 - 영화 매출에 대한 분석을 위해서 현재 다양한 플랫폼에서 얻어지는 수익에 대해서 데이터를 가져오고, 이를 처리한다면 좀 더 신뢰도 높은 회귀분석이 가능할것 같습니다!
 - 회귀분석에 더하여 영화 장르의 자연어 처리나 classification 분석을 통해 영화라는 분야에서 새로운 Insite를 발견하면 좋을 것 같습니다.🤜
 
-Team info !
+# 💡 Built with !
 
 ---
 
