@@ -219,7 +219,7 @@ for model in [LinearRegression, Ridge, Lasso, RandomForestRegressor]:
 # 💡 Built with !
 
 - 정솔
-    - EDA, 데이터 전처리, 원데이터 분석, Visualization, 1차 Regression
+    - EDA, 데이터 전처리, 원데이터 분석, Visualization, 1차 Regression, git 코드정리
     - 발표자료 작성
     - GitHub: [https://github.com/solyourock](https://github.com/solyourock)
 - 고현실
